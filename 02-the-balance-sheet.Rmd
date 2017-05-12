@@ -225,15 +225,13 @@ energy. Chemical energy is high-grade energy like electricity.
 
 It’s a convenient but sloppy shorthand to talk about the energy
 rather than the entropy, and that is what we’ll do most of the time in
-this book.Occasionally, we’ll have to smarten up this sloppiness; for
+this book. Occasionally, we’ll have to smarten up this sloppiness; for
 example, when we discuss refrigeration, power stations, heat pumps, or
 geothermal power.
 
-#### Are you comparing apples and oranges? Is it valid to compare different
-
 1TWh (one terawatt-hour) is equal to one billion kWh.
 
-#### forms of energy such as the chemical energy that is fed into a petrol-powered car and the electricity from a wind turbine?
+#### Are you comparing apples and oranges? Is it valid to compare different forms of energy such as the chemical energy that is fed into a petrol-powered car and the electricity from a wind turbine?
 
 By comparing consumed energy with conceivable produced energy, I do not
 wish to imply that all forms of energy are equivalent and
@@ -241,7 +239,7 @@ interchange-able. The electrical energy produced by a wind turbine is of
 no use to a petrol engine; and petrol is no use if you want to power a
 television.In principle, energy can be converted from one form to
 another, though conversion entails losses. Fossil-fuel power stations,
-for example, guzzle*chemical energy* and produce *electricity* (with an
+for example, guzzle *chemical energy* and produce *electricity* (with an
 efficiency of 40% or so).And aluminium plants guzzle *electrical energy*
 to create a product with high *chemical energy* – aluminium (with an
 efficiency of 30% or so).
@@ -270,7 +268,7 @@ kWh of chemical energy equivalent to 1 kWh of electricity. My choice to
 use this one-to-one conversion rate means that some of my sums will look
 a bit different from other people’s. (For example, BP’s *Statistical
 Review of World Energy* rates 1 kWh of electricity as equivalent to
-100/38 ≈ 2.6 kWh of oil; on the other hand, the government’s *Digest of
+$\frac{100}{38} \approx 2.6 kWh$ of oil; on the other hand, the government’s *Digest of
 UK Energy Statistics*uses the same one-to-one conversion rate as me.)
 And I emphasize again,this choice does not imply that I’m suggesting you
 could convert either form of energy directly into the other. Converting
@@ -282,9 +280,7 @@ Physics and equations
 
 Throughout the book, my aim is not only to work out numbers
 indicating our current energy consumption and conceivable sustainable
-production,
-
-but also to make clear *what these numbers depend on*. Understanding
+production, but also to make clear *what these numbers depend on*. Understanding
 what the numbers depend on is essential if we are to choose sensible
 policies to change any of the numbers. Only if we understand the physics
 behind energy consumption and energy production can we assess assertions
