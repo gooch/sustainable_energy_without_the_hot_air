@@ -1,4 +1,4 @@
- The balance sheet
+#The balance sheet
 
 > Nature cannot be fooled --- Richard Feynman
 
@@ -23,9 +23,9 @@ moderately-affluent person;" I encourage you to total up an estimate of your
 we’ll also find out the current *average* energy consumption of Europeans and
 Americans.
 
-![](figure325.png)
+![](images/figure325.png)
 
-![](figure324.png)
+![](images/figure324.png)
 
 As we estimate our consumption of energy for heating, transportation,
 manufacturing, and so forth, the aim is not only to compute a number for the
@@ -45,7 +45,7 @@ available?" or "how much uranium is left?"
 
 The outcome when we add everything up might look like this:
 
-![](figure326.png)
+![](images/figure326.png)
 
 If we find consumption is much less than conceivable sustainable production,
 then we can say "good, *maybe* we can live sustainably; let’s look into the
@@ -55,7 +55,7 @@ good job, there *might* not be an energy crisis."
 
 On the other hand, the outcome of our sums might look like this:
 
-![](figure327.png)
+![](images/figure327.png)
 
 – a much bleaker picture. This picture says "it doesn’t matter what the
 economics of sustainable power are: there’s simply *not enough* sustainable
@@ -108,7 +108,7 @@ same volume (one litre) either by running the trickling tap for one minute, or
 by running the generous tap for one tenth of a minute. The *volume* delivered
 in a particular time is equal to the *flow* multiplied by the
 
-![](figure18.png)
+![](images/figure18.png)
 
 Figure 2.1. Distinguishing energy and power. Each of these 60W light bulbs has
 a power of 60W when switched-on; it doesn’t have an "energy" of 60W. The bulb
@@ -125,84 +125,82 @@ Power is measured in kWh per day
 
 *time:*
 
-$volume \eq flow \times time.$
+$volume = flow \times time.$
 
 We say that a *flow* is a *rate* at which *volume* is delivered. If you
 know thevolume delivered in a particular time, you get the flow by
-dividing thevolume by the time:
+dividing the volume by the time:
 
-![](figure7.png)
+$flow = \frac{volume}{time}$
 
 Here’s the connection to energy and power. *Energy* is like water
 *volume*:*power* is like water *flow*. For example, whenever a toaster is
 switched on, itstarts to consume *power* at a rate of one kilowatt. It
 continues to consumeone kilowatt until it is switched off. To put it
 another way, the toaster (ifit’s left on permanently) consumes one
-kilowatt-hour (kWh) of energy perhour; it also consumes 24
+kilowatt-hour (kWh) of energy per hour; it also consumes 24
 kilowatt-hours per day.
 
 The longer the toaster is on, the more energy it uses. You can work
-outthe energy used by a particular activity by multiplying the power by
-theduration:
+out the energy used by a particular activity by multiplying the power by
+the duration:
 
 energy= power × time.
 
 The joule is the standard international unit of energy, but sadly it’s
-fartoo small to work with. The kilowatt-hour is equal to 3.6 million
-joules (3.6megajoules).
+far too small to work with. The kilowatt-hour is equal to 3.6 million
+joules (3.6mega joules).
 
-Powers are so useful and important, they have something that waterflows
-don’t have: they have their own special units. When we talk of aflow, we
+Powers are so useful and important, they have something that water flows
+don’t have: they have their own special units. When we talk of a flow, we
 might measure it in "litres per minute," "gallons per hour,"
 or"cubic-metres per second;" these units’ names make clear that the flow
 is"a volume per unit time." A power of *one joule per second* is called
 *one watt*.1000 joules per second is called one kilowatt. Let’s get the
-terminologystraight: the toaster uses one kilowatt. It doesn’t use "one
-kilowatt per sec-ond." The "per second" is already built in to the
-definition of the kilowatt:one kilowatt means "one kilojoule per second."
-Similarly we say "a nuclearpower station generates one gigawatt." One
-gigawatt, by the way, is onebillion watts, one million kilowatts, or
-1000 megawatts. So one gigawattis a million toasters. And the "g" s in
-gigawatt are pronounced hard, thesame as in "giggle." And, while I’m
-tapping the blackboard, we capital-ize the "g" and "w" in "gigawatt"
+terminology straight: the toaster uses one kilowatt. It doesn’t use "one
+kilowatt per second." The "per second" is already built in to the
+definition of the kilowatt:one kilowatt means "one kilo-joule per second."
+Similarly we say "a nuclear power station generates one gigawatt." One
+gigawatt, by the way, is one billion watts, one million kilowatts, or
+1000 megawatts. So one gigawatt is a million toasters. And the "g" s in
+gigawatt are pronounced hard, the same as in "giggle." And, while I’m
+tapping the blackboard, we capitalize the "g" and "w" in "gigawatt"
 only when we write the abbreviation"GW."
 
 Please, never, ever say "one kilowatt per second," "one kilowatt
-perhour," or "one kilowatt per day;" none of these is a valid measure of
+per hour," or "one kilowatt per day;" none of these is a valid measure of
 power.The urge that people have to say "per something" when talking
-about theirtoasters is one of the reasons I decided to use the
+about their toasters is one of the reasons I decided to use the
 "kilowatt-hour per day" as my unit of power. I’m sorry that it’s a bit
-cumbersome to say and towrite.
+cumbersome to say and to write.
 
 Here’s one last thing to make clear: if I say "someone used a
-gigawatt-hour of energy," I am simply telling you*how much* energy they
+gigawatt-hour of energy," I am simply telling you *how much* energy they
 used, not*how fast* they used it. Talking about a gigawatt-hour
-*doesn’t* imply the
-
-energyis measured inkWhorMJ
-
-poweris measured inkWh per dayorkWorW (watts)orMW (megawatts)orGW
-(gigawatts)orTW (terawatts)
-
-energy was used *in one hour*. You could use a gigawatt-hour of energy
+*doesn’t* imply the energy was used *in one hour*. You could use a gigawatt-hour of energy
 byswitching on one million toasters for one hour, or by switching on
 1000toasters for 1000 hours.
 
+energy is measured in kWh or MJ
+
+power is measured in kWh per day or kW or W (watts) or MW (megawatts) or GW
+(gigawatts) or TW (terawatts)
+
 As I said, I’ll usually quote powers in kWh/d *per person*. One
-reasonfor liking these personal units is that it makes it much easier to
-move fromtalking about the UK to talking about other countries or
+reason for liking these personal units is that it makes it much easier to
+move from talking about the UK to talking about other countries or
 regions. For ex-ample, imagine we are discussing waste incineration and
-we learn thatUK waste incineration delivers a power of 7 TWh per year
+we learn that UK waste incineration delivers a power of 7 TWh per year
 and that Den-mark’s waste incineration delivers 10 TWh per year. Does
-this help us saywhether Denmark incinerates "more" waste than the UK?
-While the totalpower produced from waste in each country may be
-interesting, I thinkthat what we usually want to know is the waste
+this help us say whether Denmark incinerates "more" waste than the UK?
+While the total power produced from waste in each country may be
+interesting, I think that what we usually want to know is the waste
 incineration *per person*.(For the record, that is: Denmark, 5 kWh/d per
-person; UK, 0.3 kWh/dper person. So Danes incinerate about 13 times as
-much waste as Brits.) Tosave ink, I’ll sometimes abbreviate "per person"
-to "/p" . By discussing ev-erything per-person from the outset, we end up
-with a more transportablebook, one that will hopefully be useful for
-sustainable energy discussionsworldwide.
+person; UK, 0.3 kWh/d per person. So Danes incinerate about 13 times as
+much waste as Brits.) To save ink, I’ll sometimes abbreviate "per person"
+to "/p" . By discussing everything per-person from the outset, we end up
+with a more transportable book, one that will hopefully be useful for
+sustainable energy discussions worldwide.
 
 Picky details
 -------------
@@ -210,108 +208,108 @@ Picky details
 #### Isn’t energy conserved? We talk about "using" energy, but doesn’t one ofthe laws of nature say that energy can’t be created or destroyed?
 
 Yes, I’m being imprecise. This is really a book about *entropy* – a
-trickierthing to explain. When we "use up" one kilojoule of energy, what
-we’rereally doing is taking one kilojoule of energy in a form that has
+trickier thing to explain. When we "use up" one kilojoule of energy, what
+we’re really doing is taking one kilojoule of energy in a form that has
 *low entropy*(for example, electricity), and *converting* it into an
-exactly equal amountof energy in another form, usually one that has much
-higher entropy (forexample, hot air or hot water). When we’ve "used" the
-energy, it’s stillthere; but we normally can’t "use" the energy over and
-over again, becauseonly *low entropy* energy is "useful" to us.
-Sometimes these different gradesof energy are distinguished by adding a
-label to the units: one kWh(e) isone kilowatt-hour of electrical energy
-– the highest grade of energy. OnekWh(th) is one kilowatt-hour of
-thermal energy – for example the energyin ten litres of boiling-hot
-water. Energy lurking in higher-temperaturethings is more useful (lower
-entropy) than energy in tepid things. A thirdgrade of energy is chemical
-energy. Chemical energy is high-grade energylike electricity.
+exactly equal amount of energy in another form, usually one that has much
+higher entropy (for example, hot air or hot water). When we’ve "used" the
+energy, it’s still there; but we normally can’t "use" the energy over and
+over again, because only *low entropy* energy is "useful" to us.
+Sometimes these different grades of energy are distinguished by adding a
+label to the units: one kWh(e) is one kilowatt-hour of electrical energy
+– the highest grade of energy. One kWh(th) is one kilowatt-hour of
+thermal energy – for example the energy in ten litres of boiling-hot
+water. Energy lurking in higher-temperature things is more useful (lower
+entropy) than energy in tepid things. A third grade of energy is chemical
+energy. Chemical energy is high-grade energy like electricity.
 
 It’s a convenient but sloppy shorthand to talk about the energy
-ratherthan the entropy, and that is what we’ll do most of the time in
+rather than the entropy, and that is what we’ll do most of the time in
 this book.Occasionally, we’ll have to smarten up this sloppiness; for
-example, whenwe discuss refrigeration, power stations, heat pumps, or
+example, when we discuss refrigeration, power stations, heat pumps, or
 geothermal power.
 
 #### Are you comparing apples and oranges? Is it valid to compare different
 
-1TWh (one terawatt-hour) is equal toone billion kWh.
+1TWh (one terawatt-hour) is equal to one billion kWh.
 
 #### forms of energy such as the chemical energy that is fed into a petrol-powered car and the electricity from a wind turbine?
 
-By comparing consumed energy with conceivable produced energy, I donot
+By comparing consumed energy with conceivable produced energy, I do not
 wish to imply that all forms of energy are equivalent and
 interchange-able. The electrical energy produced by a wind turbine is of
-no use toa petrol engine; and petrol is no use if you want to power a
+no use to a petrol engine; and petrol is no use if you want to power a
 television.In principle, energy can be converted from one form to
-another, thoughconversion entails losses. Fossil-fuel power stations,
+another, though conversion entails losses. Fossil-fuel power stations,
 for example, guzzle*chemical energy* and produce *electricity* (with an
 efficiency of 40% or so).And aluminium plants guzzle *electrical energy*
-to create a product withhigh *chemical energy* – aluminium (with an
+to create a product with high *chemical energy* – aluminium (with an
 efficiency of 30% or so).
 
 In some summaries of energy production and consumption, all the
-dif-ferent forms of energy are put into the same units, but multipliers
-areintroduced, rating electrical energy from hydroelectricity for
-example asbeing worth 2.5 times more than the chemical energy in oil.
-This bumpingup of electricity’s effective energy value can be justified
-by saying, "well,1 kWh of electricity is equivalent to 2.5 kWh of oil,
-because if we put thatmuch oil into a standard power station it would
+different forms of energy are put into the same units, but multipliers
+are introduced, rating electrical energy from hydroelectricity for
+example as being worth 2.5 times more than the chemical energy in oil.
+This bumping up of electricity’s effective energy value can be justified
+by saying, "well, 1 kWh of electricity is equivalent to 2.5 kWh of oil,
+because if we put that much oil into a standard power station it would
 deliver 40% of 2.5 kWh,which is 1 kWh of electricity." In this book,
-however, I will usually use aone-to-one conversion rate when comparing
-different forms of energy. Itis *not* the case that 2.5 kWh of oil is
-inescapably equivalent to 1 kWh ofelectricity; that just happens to be
+however, I will usually use a one-to-one conversion rate when comparing
+different forms of energy. It is *not* the case that 2.5 kWh of oil is
+inescapably equivalent to 1 kWh of electricity; that just happens to be
 the perceived exchange rate in a world-view where oil is used to make
-electricity. Yes, conversion of chemicalenergy to electrical energy is
-done with this particular inefficient exchangerate. But electrical energy
-can also be converted to chemical energy. In analternative world
-(perhaps not far-off) with relatively plentiful electricityand little
-oil, we might use electricity to make liquid fuels; in that worldwe
-would surely not use the same exchange rate – each kWh of gasolinewould
+electricity. Yes, conversion of chemical energy to electrical energy is
+done with this particular inefficient exchange rate. But electrical energy
+can also be converted to chemical energy. In an alternative world
+(perhaps not far-off) with relatively plentiful electricity and little
+oil, we might use electricity to make liquid fuels; in that world we
+would surely not use the same exchange rate – each kWh of gasoline would
 then cost us something like 3 kWh of electricity! I think the
-timelessand scientific way to summarize and compare energies is to hold 1
-kWhof chemical energy equivalent to 1 kWh of electricity. My choice to
-usethis one-to-one conversion rate means that some of my sums will look
-abit different from other people’s. (For example, BP’s *Statistical
-Review ofWorld Energy* rates 1 kWh of electricity as equivalent to
-100/38 ≈ 2.6 kWhof oil; on the other hand, the government’s *Digest of
+timeless and scientific way to summarize and compare energies is to hold 1
+kWh of chemical energy equivalent to 1 kWh of electricity. My choice to
+use this one-to-one conversion rate means that some of my sums will look
+a bit different from other people’s. (For example, BP’s *Statistical
+Review of World Energy* rates 1 kWh of electricity as equivalent to
+100/38 ≈ 2.6 kWh of oil; on the other hand, the government’s *Digest of
 UK Energy Statistics*uses the same one-to-one conversion rate as me.)
 And I emphasize again,this choice does not imply that I’m suggesting you
-could convert eitherform of energy directly into the other. Converting
-chemical energy intoelectrical energy always wastes energy, and so does
-converting electricalinto chemical energy.
+could convert either form of energy directly into the other. Converting
+chemical energy into electrical energy always wastes energy, and so does
+converting electrical into chemical energy.
 
 Physics and equations
 ---------------------
 
 Throughout the book, my aim is not only to work out numbers
-indicatingour current energy consumption and conceivable sustainable
+indicating our current energy consumption and conceivable sustainable
 production,
 
 but also to make clear *what these numbers depend on*. Understanding
-whatthe numbers depend on is essential if we are to choose sensible
-policiesto change any of the numbers. Only if we understand the physics
-behindenergy consumption and energy production can we assess assertions
-suchas "cars waste 99% of the energy they consume; we could redesign
-cars sothat they use 100 times less energy." Is this assertion true? To
-explain theanswer, I will need to use equations like
+what the numbers depend on is essential if we are to choose sensible
+policies to change any of the numbers. Only if we understand the physics
+behind energy consumption and energy production can we assess assertions
+such as "cars waste 99% of the energy they consume; we could redesign
+cars so that they use 100 times less energy." Is this assertion true? To
+explain the answer, I will need to use equations like
 
-![ ](figure10.png)
+![ ](images/figure10.png)
 
 However, I recognize that to many readers, such formulae are a foreign
-lan-guage. So, here’s my promise: *I’ll keep all this foreign-language
-stuff in techni-**cal chapters at the end of the book*. Any reader with
+language. So, here’s my promise: *I’ll keep all this foreign-language
+stuff in technical chapters at the end of the book*. Any reader with
 a high-school/secondary-school qualification in maths, physics, or
-chemistry should enjoy thesetechnical chapters. The main thread of the
+chemistry should enjoy these technical chapters. The main thread of the
 book (from page 2 to page 250)is intended to be accessible to everyone
 who can add, multiply, and divide.It is especially aimed at our dear
-elected and unelected representatives, theMembers of Parliament.
+elected and unelected representatives, the Members of Parliament.
 
 One last point, before we get rolling: I don’t know everything
-aboutenergy. I don’t have all the answers, and the numbers I offer are
-open torevision and correction. (Indeed I expect corrections and will
-publish themon the book’s website.) The one thing I *am* sure of is that
-the answers toour sustainable energy questions will involve *numbers* ;
-any sane discussionof sustainable energy requires numbers. This book’s
-got ’em, and it showshow to handle them. I hope you enjoy it!
+about energy. I don’t have all the answers, and the numbers I offer are
+open to revision and correction. (Indeed I expect corrections and will
+publish them on the book’s website.) The one thing I *am* sure of is that
+the answers to our sustainable energy questions will involve *numbers* ;
+any sane discussion of sustainable energy requires numbers. This book’s
+got ’em, and it shows how to handle them. I hope you enjoy it!
 
 Notes and further reading
 -------------------------
@@ -319,23 +317,23 @@ Notes and further reading
 page no.
 
 25*The "per second" is already built in to the definition of the
-kilowatt.* Other examples of units that, like the watt, alreadyhave a
+kilowatt.* Other examples of units that, like the watt, already have a
 "per time" built in are the knot – "our yacht’s speed was ten knots!" (a
-knot is one nautical mile *per* hour); thehertz – "I could hear a
+knot is one nautical mile *per* hour); the hertz – "I could hear a
 buzzing at 50 hertz" (one hertz is a frequency of one cycle *per*
-second); the ampere – "the fuseblows when the current is higher than 13
+second); the ampere – "the fuse blows when the current is higher than 13
 amps" (*not* 13 amps per second); and the horsepower – "that stinking
-enginedelivers 50 horsepower" (*not* 50 horsepower per second, nor 50
+engine delivers 50 horsepower" (*not* 50 horsepower per second, nor 50
 horsepower per hour, nor 50 horsepower per day, just50 horsepower).
 
 –*Please, never, ever say "one kilowatt per second." * There are specific,
-rare exceptions to this rule. If talking about agrowth in demand for
+rare exceptions to this rule. If talking about a growth in demand for
 power, we might say "British demand is growing at one gigawatt per
-year." In Chapter 26 whenI discuss fluctuations in wind power, I will say
+year." In Chapter 26 when I discuss fluctuations in wind power, I will say
 "one morning, the power delivered by Irish windmills fell at a rate of84
 MW per hour." Please take care! Just one accidental syllable can lead to
-confusion: for example, your electricitymeter’s reading is in
+confusion: for example, your electricity meter’s reading is in
 kilowatt-hours (kWh), *not* ‘kilowatts-per-hour’.
 
 I’ve provided a chart on p368 to help you translate between kWh per day
-per person and the other major units in whichpowers are discussed.
+per person and the other major units in which powers are discussed.
