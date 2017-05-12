@@ -106,20 +106,18 @@ little helps” is wheeled out.  Every little helps? A more realistic mantra is:
 
 > if everyone does a little, we’ll achieve only a little.
 
-Companies also contribute to the daily codswallop as they tell us
-howwonderful they are, or how they can help us “do our bit.” BP’s
-website, forexample, celebrates the reductions in carbon dioxide (CO~2~)
-pollution theyhope to achieve by changing the paint used for painting
-BP’s ships. Doesanyone fall for this? Surely everyone will guess that
-it’s not the exteriorpaint job, it’s the stuff *inside* the tanker that
-deserves attention, if society’sCO~2~ emissions are to be significantly
-cut? BP also created a web-basedcarbon absolution service,
-“targetneutral.com,” which claims that they can“neutralize” all your
-carbon emissions, and that it “doesn’t cost the earth”– indeed, that
-your CO~2~ pollution can be cleaned up for just £40 per year.How can
-this add up? – if the true cost of fixing climate change were £40per
-person then the government could fix it with the loose change in
-theChancellor’s pocket!
+Companies also contribute to the daily codswallop as they tell us how wonderful
+they are, or how they can help us “do our bit.” BP’s website, for example,
+celebrates the reductions in carbon dioxide (CO~2~) pollution they hope to
+achieve by changing the paint used for painting BP’s ships. Does anyone fall
+for this? Surely everyone will guess that it’s not the exterior paint job, it’s
+the stuff *inside* the tanker that deserves attention, if society’s CO~2~
+emissions are to be significantly cut? BP also created a web-based carbon
+absolution service, “targetneutral.com,” which claims that they can“neutralize”
+all your carbon emissions, and that it “doesn’t cost the earth”– indeed, that
+your CO~2~ pollution can be cleaned up for just £40 per year. How can this add
+up? – if the true cost of fixing climate change were £40per person then the
+government could fix it with the loose change in the Chancellor’s pocket!
 
 Even more reprehensible are companies that exploit the current
 concernfor the environment by offering “water-powered batteries,”
