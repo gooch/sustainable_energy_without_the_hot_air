@@ -676,62 +676,79 @@ CO~2~ emissions: “the United Kingdom should reduce its CO~2~ emissions by 60%
 by 2050;” at the same time Gordon Brown, while Chancellor in that government,
 repeatedly urged oil-producing countries to *increase* oil production.
 
-This book is emphatically intended to be about facts, not ethics. I
-want the facts to be clear, so that people can have a meaningful debate
-aboutethical decisions. I want everyone to understand how the facts
-constrainthe options that are open to us. Like a good scientist, I’ll
-try to keep myviews on ethical questions out of the way, though
-occasionally I’ll blurtsomething out – please forgive me.
+This book is emphatically intended to be about facts, not ethics. I want the
+facts to be clear, so that people can have a meaningful debate about ethical
+decisions. I want everyone to understand how the facts constrain the options
+that are open to us. Like a good scientist, I’ll try to keep my views on
+ethical questions out of the way, though occasionally I’ll blurt something out
+– please forgive me.
 
-Whether it’s *fair* for Europe and North America to hog the energy
-cakeis an ethical question; I’m here to remind you of the *fact* that we
-can’thave our cake and eat it too; to help you weed out the pointless
-and inef-fective policy proposals; and to help you identify energy
-policies that arecompatible with your personal values.
+Whether it’s *fair* for Europe and North America to hog the energy cake is an
+ethical question; I’m here to remind you of the *fact* that we can’t have our
+cake and eat it too; to help you weed out the pointless and ineffective policy
+proposals; and to help you identify energy policies that are compatible with
+your personal values.
 
 We need a plan that adds up!
 
 Notes and further reading
 -------------------------
 
-At the end of each chapter I note details of ideas in that chapter,
-sources of data and quotes, and pointers to furtherinformation.
+At the end of each chapter I note details of ideas in that chapter, sources of
+data and quotes, and pointers to further information.
 
-page no.
-
-2*“...no other possible way of doing that except through renewables”;
-“anybody who is relying upon renewables to fillthe [energy] gap is living
-in an utter dream world and is, in my view, an enemy of the people.”*
-The quotes are from*Any Questions?*, 27 January 2006, BBC Radio 4
-[ydoobr]. *Michael Meacher* was UK environment minister from 1997till
-2003. *Sir Bernard Ingham* was an aide to Margaret Thatcher when she was
-prime minister, and was Head of theGovernment Information Service. He is
-secretary of Supporters of Nuclear Energy.
+2*“...no other possible way of doing that except through renewables”; “anybody
+who is relying upon renewables to fillthe [energy] gap is living in an utter
+dream world and is, in my view, an enemy of the people.”* The quotes are from
+*Any Questions?*, 27 January 2006, BBC Radio 4 [ydoobr]. *Michael Meacher* was
+UK environment minister from 1997 till 2003. *Sir Bernard Ingham* was an aide
+to Margaret Thatcher when she was prime minister, and was Head of the
+Government Information Service. He is secretary of Supporters of Nuclear
+Energy.
 
 –*Jonathon Porritt* (March 2006). *Is nuclear the answer?* Section 3.
 Advice to Ministers. www.sd-commission.org.uk
 
 3*“Nuclear is a money pit”, “We have a huge amount of wave and wind.”*
-Ann Leslie, journalist. Speaking on *AnyQuestions?*, Radio 4, 10
+Ann Leslie, journalist. Speaking on *Any Questions?*, Radio 4, 10
 February 2006.
 
 –*Los Angeles residents drive ... from Earth to Mars* – (The Earthworks
 Group, 1989, page 34).
 
 –*targetneutral.com* charges just £4 per ton of CO~2~ for their
-“neutralization.” (A significantly lower price than anyother “offsetting”
-company I have come across.) At this price, a typical Brit could have
-his 11 tons per year “neutral-ized” for just £44 per year! Evidence that
-BP’s “neutralization” schemes don’t really add up comes from the fact
-that itsprojects have not achieved the Gold Standard
-www.cdmgoldstandard.org (Michael Schlup, personal communication).Many
-“carbon offset” projects have been exposed as worthless by Fiona Harvey
-of the Financial Times [2jhve6].
+“neutralization.” (A significantly lower price than any other “offsetting”
+company I have come across.) At this price, a typical Brit could have his 11
+tons per year “neutralized” for just £44 per year! Evidence that BP’s
+“neutralization” schemes don’t really add up comes from the fact that its
+projects have not achieved the Gold Standard www.cdmgoldstandard.org (Michael
+Schlup, personal communication).Many “carbon offset” projects have been exposed
+as worthless by Fiona Harvey of the Financial Times [2jhve6].
 
 4*People who want to promote renewables over nuclear, for example, say
-“offshore wind power could power all UKhomes.”* At the end of 2007, the
-UK government announced that they would allow the building of offshore
-wind
+“offshore wind power could power all UK homes.”* At the end of 2007, the UK
+government announced that they would allow the building of offshore wind
+turbines “enough to power all UK homes.” Friends of the Earth’s renewable
+energy campaigner, Nick Rau, said the group welcomed the government’s
+announcement. “The potential power that could be generated by this industry is
+enormous,” he said. [25e59w]. From the Guardian [5o7mxk]: John Sauven, the
+executive director of Greenpeace, said that the plans amounted to a “wind
+energy revolution.” “And Labour needs to drop its obsession with nuclear
+power,which could only ever reduce emissions by about 4% at some time in the
+distant future.” Nick Rau said: “We are delighted the government is getting
+serious about the potential for offshore wind, which could generate 25% of the
+UK’s electricity by 2020.” A few weeks later, the government announced that it
+would permit new nuclear stations to be built. “Today’s decision to give the
+go-ahead to a new generation of nuclear power stations ... will do little to
+tackle climate change,” Friends of the Earth warned [5c4olc].In fact, the two
+proposed expansions – of offshore wind and of nuclear – would both deliver just
+the same amount of electricity per year. The total permitted offshore wind
+power of 33 GW would on average deliver 10 GW, which is 4 kWh per day per
+person; and the replacement of all the retiring nuclear power stations would
+deliver 10 GW, which is 4 kWh per day per person. Yet in the same breath,
+anti-nuclear campaigners say that the nuclear option would “do little,” while
+the wind option would “power all UK homes.” The fact is, “powering all UK
+homes” and “only reducing emissions by about 4%” are the same thing.
 
 ![Do nothing - cartoon ](DoNothing5M.jpg)
 
@@ -741,29 +758,6 @@ we wait and see how thingspan out...”*
 Figure 1.11. Reproduced by kindpermission of PRIVATE EYE / PaulLowe
 www.private-eye.co.uk.
 
-turbines “enough to power all UK homes.” Friends of the Earth’s
-renewable energy campaigner, Nick Rau, said thegroup welcomed the
-government’s announcement. “The potential power that could be generated
-by this industry isenormous,” he said. [25e59w]. From the Guardian
-[5o7mxk]: John Sauven, the executive director of Greenpeace, saidthat
-the plans amounted to a “wind energy revolution.” “And Labour needs to
-drop its obsession with nuclear power,which could only ever reduce
-emissions by about 4% at some time in the distant future.” Nick Rau
-said: “We aredelighted the government is getting serious about the
-potential for offshore wind, which could generate 25% of theUK’s
-electricity by 2020.” A few weeks later, the government announced that
-it would permit new nuclear stationsto be built. “Today’s decision to
-give the go-ahead to a new generation of nuclear power stations ... will
-do little totackle climate change,” Friends of the Earth warned
-[5c4olc].In fact, the two proposed expansions – of offshore wind and of
-nuclear – would both deliver just the same amountof electricity per
-year. The total permitted offshore wind power of 33 GW would on average
-deliver 10 GW, which is4 kWh per day per person; and the replacement of
-all the retiring nuclear power stations would deliver 10 GW, whichis 4
-kWh per day per person. Yet in the same breath, anti-nuclear campaigners
-say that the nuclear option would “dolittle,” while the wind option
-would “power all UK homes.” The fact is, “powering all UK homes” and
-“only reducingemissions by about 4%” are the same thing.
 
 4*“water-powered car”* *New Scientist*, 29th July 2006, p.35. This
 article, headlined “Water-powered car might be availableby 2009,” opened
