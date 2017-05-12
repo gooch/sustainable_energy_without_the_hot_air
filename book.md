@@ -632,58 +632,52 @@ In the calculations, I’ll mainly use the United Kingdom and occasion-ally
 Europe, America, or the whole world, but you should find it easy to redo the
 calculations for whatever country or region you are interested in.
 
-Let me close this chapter with a few more warnings to the reader.Not
-only will we make a habit of approximating the numbers we cal-culate;
-we’ll also neglect all sorts of details that investors, managers,
-andeconomists have to attend to, poor folks. If you’re trying to launch
-a re-newable technology, just a 5% increase in costs may make all the
-differencebetween success and failure, so in business every detail must
-be tracked.But 5% is too small for this book’s radar. This is a book
-about factors of2 and factors of 10. It’s about physical limits to
-sustainable energy, notcurrent economic feasibility. While economics is
-always changing, the fun-damental limits won’t ever go away. We need to
+Let me close this chapter with a few more warnings to the reader. Not only will
+we make a habit of approximating the numbers we calculate; we’ll also neglect
+all sorts of details that investors, managers, and economists have to attend
+to, poor folks. If you’re trying to launch a renewable technology, just a 5%
+increase in costs may make all the difference between success and failure, so
+in business every detail must be tracked.But 5% is too small for this book’s
+radar. This is a book about factors of 2 and factors of 10. It’s about physical
+limits to sustainable energy, not current economic feasibility. While economics
+is always changing, the fundamental limits won’t ever go away. We need to
 understand these limits.
 
-Debates about energy policy are often confusing and emotional
-becausepeople mix together *factual* assertions and *ethical*
-assertions.
+Debates about energy policy are often confusing and emotional because people
+mix together *factual* assertions and *ethical* assertions.
 
 Examples of **factual assertions** are “global fossil-fuel burning emits
 34billion tons of carbon dioxide equivalent per year;” and “if CO~2~
-concen-trations are doubled then average temperatures will increase by
-1.5–5.8°Cin the next 100 years;” and “a temperature rise of 2°C would
-cause theGreenland ice cap to melt within 500 years;” and “the complete
-melting ofthe Greenland ice cap would cause a 7-metre sea-level rise.”
+concentrations are doubled then average temperatures will increase by 1.5–5.8°C
+in the next 100 years;” and “a temperature rise of 2°C would cause the
+Greenland ice cap to melt within 500 years;” and “the complete melting of the
+Greenland ice cap would cause a 7-metre sea-level rise.”
 
 A factual assertion is either true or false; figuring out *which* may be
-dif-ficult; it is a scientific question. For example, the assertions I
-just gave areeither true or false. But we don’t know whether they are
-all true. Some ofthem are currently judged “very likely.” The difficulty
-of deciding whichfactual assertions are true leads to debates in the
-scientific community. Butgiven sufficient scientific experiment and
-discussion, the truth or falsity ofmost factual assertions can
-eventually be resolved, at least “beyond rea-sonable doubt.”
+difficult; it is a scientific question. For example, the assertions I just gave
+are either true or false. But we don’t know whether they are all true. Some of
+them are currently judged “very likely.” The difficulty of deciding which
+factual assertions are true leads to debates in the scientific community. But
+given sufficient scientific experiment and discussion, the truth or falsity of
+most factual assertions can eventually be resolved, at least “beyond reasonable
+doubt.”
 
-Examples of **ethical assertions** are “it’s wrong to exploit global
-re-sources in a way that imposes significant costs on future
-generations;” and“polluting should not be free;” and “we should take
-steps to ensure thatit’s unlikely that CO~2~ concentrations will
-double;” and “politicians shouldagree a cap on CO~2~ emissions;” and
-“countries with the biggest CO~2~ emis-
-
-sions over the last century have a duty to lead action on climate
-change;”and “it is fair to share CO~2~ emission rights equally across
-the world’spopulation.” Such assertions are not “either true or false.”
-Whether weagree with them depends on our ethical judgment, on our
-values. Ethicalassertions may be incompatible with each other; for
-example, Tony Blair’sgovernment declared a radical policy on CO~2~
-emissions: “the United King-dom should reduce its CO~2~ emissions by 60%
-by 2050;” at the same timeGordon Brown, while Chancellor in that
-government, repeatedly urgedoil-producing countries to *increase* oil
-production.
+Examples of **ethical assertions** are “it’s wrong to exploit global re-sources
+in a way that imposes significant costs on future generations;” and“polluting
+should not be free;” and “we should take steps to ensure that it’s unlikely
+that CO~2~ concentrations will double;” and “politicians should agree a cap on
+CO~2~ emissions;” and “countries with the biggest CO~2~ emissions over the last
+century have a duty to lead action on climate change;” and “it is fair to share
+CO~2~ emission rights equally across the world’s population.” Such assertions
+are not “either true or false.” Whether we agree with them depends on our
+ethical judgment, on our values. Ethical assertions may be incompatible with
+each other; for example, Tony Blair’s government declared a radical policy on
+CO~2~ emissions: “the United Kingdom should reduce its CO~2~ emissions by 60%
+by 2050;” at the same time Gordon Brown, while Chancellor in that government,
+repeatedly urged oil-producing countries to *increase* oil production.
 
 This book is emphatically intended to be about facts, not ethics. I
-wantthe facts to be clear, so that people can have a meaningful debate
+want the facts to be clear, so that people can have a meaningful debate
 aboutethical decisions. I want everyone to understand how the facts
 constrainthe options that are open to us. Like a good scientist, I’ll
 try to keep myviews on ethical questions out of the way, though
