@@ -16,50 +16,49 @@ energy reserves
 > We live at a time when emotions and feelings count more than truth,
 > and there is a vast ignorance of science.James Lovelock
 
-I recently read two books, one by a physicist, and one by an
-economist.In *Out of Gas*, Caltech physicist David Goodstein describes
-an impendingenergy crisis brought on by The End of the Age of Oil. This
-crisis is comingsoon, he predicts: the crisis will bite, not when the
-last drop of oil isextracted, but when oil extraction can’t meet demand
-– perhaps as soonas 2015 or 2025. Moreover, even if we magically
-switched all our energy-guzzling to nuclear power right away, Goodstein
-says, the oil crisis wouldsimply be replaced by a *nuclear* crisis in
-just twenty years or so, as uraniumreserves also became depleted.
+I recently read two books, one by a physicist, and one by an economist.In *Out
+of Gas*, Caltech physicist David Goodstein describes an impending energy crisis
+brought on by The End of the Age of Oil. This crisis is coming soon, he
+predicts: the crisis will bite, not when the last drop of oil is extracted, but
+when oil extraction can’t meet demand – perhaps as soon as 2015 or 2025.
+Moreover, even if we magically switched all our energy-guzzling to nuclear
+power right away, Goodstein says, the oil crisis would simply be replaced by a
+*nuclear* crisis in just twenty years or so, as uranium reserves also became
+depleted.
 
-In *The Skeptical Environmentalist*, Bjørn Lomborg paints a
-completelydifferent picture. “Everything is ﬁne.” Indeed, “everything is
-getting bet-ter.” Furthermore, “we are not headed for a major energy
-crisis,” and“there is plenty of energy.”
+In *The Skeptical Environmentalist*, Bjørn Lomborg paints a completely
+different picture. “Everything is fine.” Indeed, “everything is getting
+better.” Furthermore, “we are not headed for a major energy crisis,” and“there
+is plenty of energy.”
 
-How could two smart people come to such different conclusions? I hadto
-get to the bottom of this.
+How could two smart people come to such different conclusions? I had to get to
+the bottom of this.
 
-Energy made it into the British news in 2006. Kindled by tidings ofgreat
-climate change and a tripling in the price of natural gas in just
-sixyears, the ﬂames of debate are raging. How should Britain handle
-itsenergy needs? And how should the world?
+Energy made it into the British news in 2006. Kindled by tidings of great
+climate change and a tripling in the price of natural gas in just six years,
+the flames of debate are raging. How should Britain handle its energy needs?
+And how should the world?
 
-“Wind or nuclear?”, for example. Greater polarization of views
-amongsmart people is hard to imagine. During a discussion of the
-proposed ex-pansion of nuclear power, Michael Meacher, former
-environment minister,said “if we’re going to cut greenhouse gases by 60%
-... by 2050 there is noother possible way of doing that except through
-renewables;” Sir BernardIngham, former civil servant, speaking in favour
-of nuclear expansion, said“anybody who is relying upon renewables to ﬁll
-the [energy] gap is livingin an utter dream world and is, in my view, an
-enemy of the people.”
+“Wind or nuclear?”, for example. Greater polarization of views among smart
+people is hard to imagine. During a discussion of the proposed expansion of
+nuclear power, Michael Meacher, former environment minister,said “if we’re
+going to cut greenhouse gases by 60% ... by 2050 there is no other possible way
+of doing that except through renewables;” Sir Bernard Ingham, former civil
+servant, speaking in favour of nuclear expansion, said“anybody who is relying
+upon renewables to fill the [energy] gap is living in an utter dream world and
+is, in my view, an enemy of the people.”
 
 Similar disagreement can be heard within the ecological movement.All
 agree that *something* must be done urgently, but *what?* Jonathon
-Por-ritt, chair of the Sustainable Development Commission, writes:
-“there isno justiﬁcation for bringing forward plans for a new nuclear
+Porritt, chair of the Sustainable Development Commission, writes:
+“there is no justification for bringing forward plans for a new nuclear
 power pro-gramme at this time, and ... any such proposal would be
-incompatiblewith [the Government’s] sustainable development strategy;”
-and “a non-nuclear strategy could and should be sufﬁcient to deliver all
-the carbonsavings we shall need up to 2050 and beyond, and to ensure
-secure accessto reliable sources of energy.” In contrast,
-environmentalist James Lovelockwrites in his book, *The Revenge of
-Gaia*: “Now is much too late to establishsustainable development.” In
+incompatible with [the Government’s] sustainable development strategy;”
+and “a non-nuclear strategy could and should be sufficient to deliver all
+the carbon savings we shall need up to 2050 and beyond, and to ensure
+secure access to reliable sources of energy.” In contrast,
+environmentalist James Lovelock writes in his book, *The Revenge of
+Gaia*: “Now is much too late to establish sustainable development.” In
 his view, power from nuclear ﬁssion, while
 
 ![OutOfGas](OutOfGasS.jpg)
