@@ -346,62 +346,59 @@ mentions (seven, 1900, and 36000) are *wrong!* The correct numbers are 26, 440,
 and 330. Leaving these errors to one side, let’s address Lawson’s main point,
 the relative smallness of man-made emissions.
 
-Yes, natural flows of CO~2~ *are* larger than the additional flow we
-switchedon 200 years ago when we started burning fossil fuels in
-earnest. But itis terribly misleading to quantify only the large natural
-flows *into* the at-mosphere, failing to mention the almost exactly equal
-flows *out* of theatmosphere back into the biosphere and the oceans. The
-point is that these*natural* flows in and out of the atmosphere have been
-almost exactly inbalance for millenia. So it’s not relevant at all that
-these natural flows arelarger than human emissions. The natural flows
-*cancelled themselves out*.So the natural flows, large though they were,
-left the concentration of CO~2~in the atmosphere and ocean *constant*,
-over the last few thousand years.Burning fossil fuels, in contrast,
-creates a *new* flow of carbon that, thoughsmall, is *not cancelled*.
-Here’s a simple analogy, set in the passport-controlarrivals area of an
-airport. One thousand passengers arrive per hour, and
+Yes, natural flows of CO~2~ *are* larger than the additional flow we switched
+on 200 years ago when we started burning fossil fuels in earnest. But it is
+terribly misleading to quantify only the large natural flows *into* the
+atmosphere, failing to mention the almost exactly equal flows *out* of the
+atmosphere back into the biosphere and the oceans. The point is that
+these*natural* flows in and out of the atmosphere have been almost exactly in
+balance for millennia. So it’s not relevant at all that these natural flows are
+larger than human emissions. The natural flows *cancelled themselves out*.So
+the natural flows, large though they were, left the concentration of CO~2~in
+the atmosphere and ocean *constant*, over the last few thousand years.Burning
+fossil fuels, in contrast, creates a *new* flow of carbon that, though small,
+is *not cancelled*.  Here’s a simple analogy, set in the passport-control
+arrivals area of an airport. One thousand passengers arrive per hour, and there
+are exactly enough clockwork officials to process one thousand passengers per
+hour. There’s a modest queue, but because of the match of arrival rate to
+service rate, the queue isn’t getting any longer. Now imagine that owing to fog
+an extra stream of flights is diverted here from a smaller airport. This stream
+adds an extra 50 passengers per hour to the arrivals lobby – a small addition
+compared to the original arrival rate of one thousand per hour. Initially at
+least, the authorities don’t increase the number of officials, and the
+officials carry on processing just one thousand passengers per hour. So what
+happens? Slowly but surely, *the queue grows*.Burning fossil fuels is
+undeniably increasing the CO~2~ concentration in the atmosphere and in the
+surface oceans. No climate scientist disputes this fact. When it comes to CO~2~
+concentrations, man *is* significant.
 
 ![CO2 concentrations, consequences of Industrial
 Revolution](figure7.png)
 
-Figure 1.7. The upper graph showscarbon dioxide CO~2~ concentrations(in
-parts per million) for the last 1100years – the same data that was
-shownin figure 1.4.
+Figure 1.7. The upper graph shows carbon dioxide CO~2~ concentrations(in parts
+per million) for the last 1100 years – the same data that was shown in figure
+1.4.
 
-Here’s a portrait of James Watt andhis 1769 steam engine.
+Here’s a portrait of James Watt and his 1769 steam engine.
 
 ![James Watt](jw.png)
 
-The middle graph shows (on alogarithmic scale) the history of UKcoal
-production, Saudi oil production,world coal production, world
-oilproduction, and (by the top rightpoint) the total of all greenhouse
-gasemissions in the year 2000. Allproduction rates are expressed inunits
-of the associated CO~2~ emissions.
+The middle graph shows (on a logarithmic scale) the history of UK coal
+production, Saudi oil production,world coal production, world oil production,
+and (by the top right point) the total of all greenhouse gas emissions in the
+year 2000. All production rates are expressed in units of the associated CO~2~
+emissions.
 
-The bottom graph shows (on alogarithmic scale) some consequencesof the
-Industrial Revolution: sharpincreases in the population ofEngland, and,
-in due course, theworld; and remarkable growth inBritish pig-iron
-production (inthousand tons per year); and growthin the tonnage of
-British ships (inthousand tons).
+The bottom graph shows (on a logarithmic scale) some consequences of the
+Industrial Revolution: sharp increases in the population of England, and, in
+due course, the world; and remarkable growth in British pig-iron production (in
+thousand tons per year); and growth In the tonnage of British ships (in
+thousand tons).
 
 In contrast to the ordinary graphs onthe previous pages, the
 logarithmicscale allows us to show both thepopulation of England and
 thepopulation of the World on a singlediagram, and to see
 interestingfeatures in both.
-
-there are exactly enough clockwork officials to process one thousand
-pas-sengers per hour. There’s a modest queue, but because of the match
-ofarrival rate to service rate, the queue isn’t getting any longer. Now
-imag-ine that owing to fog an extra stream of flights is diverted here
-from asmaller airport. This stream adds an extra 50 passengers per hour
-to thearrivals lobby – a small addition compared to the original arrival
-rate ofone thousand per hour. Initially at least, the authorities don’t
-increase thenumber of officials, and the officials carry on processing
-just one thousandpassengers per hour. So what happens? Slowly but
-surely, *the queue grows*.Burning fossil fuels is undeniably increasing
-the CO~2~ concentration in theatmosphere and in the surface oceans. No
-climate scientist disputes thisfact. When it comes to CO~2~
-concentrations, man *is* significant.
 
 OK. Fossil fuel burning increases CO~2~ concentrations significantly.
 Butdoes it matter? “Carbon is nature!”, the oilspinners remind us,
