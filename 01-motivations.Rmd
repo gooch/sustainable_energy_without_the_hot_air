@@ -267,7 +267,7 @@ knitr::include_graphics('images/figure14.png')
 ```
 
 Eventually other countries got in on the act too as the Revolution spread.
-Figure \@ref(fig:UK-and-word-coal-production) shows British coal production and world coal production on the same scale as figure 1.5, sliding the window of history 50 years later.  British
+Figure \@ref(fig:UK-and-world-coal-production) shows British coal production and world coal production on the same scale as figure 1.5, sliding the window of history 50 years later.  British
 coal production peaked in 1910, but meanwhile world coal production continued
 to double every 20 years. It’s difficult to show the history of coal production
 on a single graph. To show what happened in the *next* 50 years on the same
