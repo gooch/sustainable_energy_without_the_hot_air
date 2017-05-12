@@ -3,7 +3,7 @@
 > We live at a time when emotions and feelings count more than truth,
 > and there is a vast ignorance of science.James Lovelock
 
-I recently read two books, one by a physicist, and one by an economist.In *Out
+I recently read two books, one by a physicist, and one by an economist. In *Out
 of Gas*, Caltech physicist David Goodstein describes an impending energy crisis
 brought on by The End of the Age of Oil. This crisis is coming soon, he
 predicts: the crisis will bite, not when the last drop of oil is extracted, but
@@ -15,7 +15,7 @@ depleted.
 
 In *The Skeptical Environmentalist*, Bjørn Lomborg paints a completely
 different picture. “Everything is fine.” Indeed, “everything is getting
-better.” Furthermore, “we are not headed for a major energy crisis,” and“there
+better.” Furthermore, “we are not headed for a major energy crisis,” and “there
 is plenty of energy.”
 
 How could two smart people come to such different conclusions? I had to get to
