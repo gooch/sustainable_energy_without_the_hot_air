@@ -12,6 +12,6 @@ energy reserves
 
 ```{r build function}
 make <- function(){
-  bookdown::render_book("book.Rmd", output_format = "bookdown::gitbook")
+  bookdown::render_book("index.Rmd", output_format = "bookdown::gitbook")
 }
 ```
