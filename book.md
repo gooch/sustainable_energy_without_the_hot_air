@@ -429,27 +429,25 @@ conceivable that the ecosystem would be so significantly altered that the earth
 would stop supplying some of the goods and services that we currently take for
 granted.
 
-Climate modelling is difficult and is dogged by uncertainties. But
-un-certainty about exactly how the climate will respond to extra
-greenhousegases is no justification for inaction. If you were riding a
-fast-moving mo-torcycle in fog near a cliff-edge, and you didn’t have a
-good map of thecliff, would the lack of a map justify *not* slowing the
-bike down?
+Climate modelling is difficult and is dogged by uncertainties. But uncertainty
+about exactly how the climate will respond to extra greenhouse gases is no
+justification for inaction. If you were riding a fast-moving motorcycle in fog
+near a cliff-edge, and you didn’t have a good map of the cliff, would the lack
+of a map justify *not* slowing the bike down?
 
-So, who should slow the bike down? Who should clean up carbonemissions?
-Who is responsible for climate change? This is an ethical ques-tion, of
-course, not a scientific one, but ethical discussions must be foundedon
-facts. Let’s now explore the facts about greenhouse gas emissions.
-First,a word about the units in which they are measured. Greenhouse
-gasesinclude carbon dioxide, methane, and nitrous oxide; each gas has
-dif-ferent physical properties; it’s conventional to express all gas
-emissionsin “equivalent amounts of carbon dioxide,” where “equivalent”
-means“having the same warming effect over a period of 100 years.” One
-tonof carbon-dioxide-equivalent may be abbreviated as “1 t CO~2~e,” and
-onebillion tons (one thousand million tons) as “1 Gt CO~2~e” (one
-gigaton). Inthis book 1 t means one metric ton (1000 kg). I’m not going
-to distinguishimperial tons, because they differ by less than 10% from
-the metric ton ortonne.
+So, who should slow the bike down? Who should clean up carbon emissions?  Who
+is responsible for climate change? This is an ethical question, of course, not
+a scientific one, but ethical discussions must be founded on facts. Let’s now
+explore the facts about greenhouse gas emissions.  First,a word about the units
+in which they are measured. Greenhouse gases include carbon dioxide, methane,
+and nitrous oxide; each gas has different physical properties; it’s
+conventional to express all gas emissions in “equivalent amounts of carbon
+dioxide,” where “equivalent” means“having the same warming effect over a period
+of 100 years.” One ton of carbon-dioxide-equivalent may be abbreviated as “1 t
+CO~2~e,” and one billion tons (one thousand million tons) as “1 Gt CO~2~e” (one
+gigaton). In this book 1 t means one metric ton (1000 kg). I’m not going to
+distinguish imperial tons, because they differ by less than 10% from the metric
+ton or tonne.
 
 In the year 2000, the world’s greenhouse gas emissions were about
 34billion tons of CO~2~-equivalent per year. An incomprehensible
