@@ -94,8 +94,8 @@ every year.” “British people throw away 2.6 billion slices of bread per year
 “The waste paper buried each year in the UK could fill 103448 double-decker
 buses.”
 
-If all the ineffective ideas for solving the energy crisis were laid end
-toend, they would reach to the moon and back.... I digress.
+If all the ineffective ideas for solving the energy crisis were laid end to
+end, they would reach to the moon and back... I digress.
 
 The result of this lack of meaningful numbers and facts? We are
 inun-dated with a ﬂood of crazy innumerate codswallop. The BBC doles
