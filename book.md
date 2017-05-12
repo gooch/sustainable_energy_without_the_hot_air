@@ -48,18 +48,20 @@ servant, speaking in favour of nuclear expansion, said“ anybody who is relying
 upon renewables to fill the [energy] gap is living in an utter dream world and
 is, in my view, an enemy of the people.”
 
-Similar disagreement can be heard within the ecological movement.All
-agree that *something* must be done urgently, but *what?* Jonathon
-Porritt, chair of the Sustainable Development Commission, writes:
-“there is no justification for bringing forward plans for a new nuclear
-power pro-gramme at this time, and ... any such proposal would be
-incompatible with [the Government’s] sustainable development strategy;”
-and “a non-nuclear strategy could and should be sufficient to deliver all
-the carbon savings we shall need up to 2050 and beyond, and to ensure
-secure access to reliable sources of energy.” In contrast,
-environmentalist James Lovelock writes in his book, *The Revenge of
-Gaia*: “Now is much too late to establish sustainable development.” In
-his view, power from nuclear fission, while
+Similar disagreement can be heard within the ecological movement.All agree that
+*something* must be done urgently, but *what?* Jonathon Porritt, chair of the
+Sustainable Development Commission, writes: “there is no justification for
+bringing forward plans for a new nuclear power pro-gramme at this time, and ...
+any such proposal would be incompatible with [the Government’s] sustainable
+development strategy;” and “a non-nuclear strategy could and should be
+sufficient to deliver all the carbon savings we shall need up to 2050 and
+beyond, and to ensure secure access to reliable sources of energy.” In
+contrast, environmentalist James Lovelock writes in his book, *The Revenge of
+Gaia*: “Now is much too late to establish sustainable development.” In his
+view, power from nuclear fission, while not recommended as the long-term
+panacea for our ailing planet, is “the only effective medicine we have now.”
+Onshore wind turbines are “merely ... a gesture to prove [our leaders’]
+environmental credentials.”
 
 ![OutOfGas](OutOfGasS.jpg)
 
@@ -71,13 +73,8 @@ Bjørn Lomborg’s *The Skeptical Environmentalist* (2001).
 
 ![RevengeOfGaia](revengeOfGaiaS.jpg)
 
-*The Revenge of Gaia: Why the earth is fighting back – and how we can
-still save humanity.* James Lovelock (2006). © Allen Lane.
-
-not recommended as the long-term panacea for our ailing planet, is
-“theonly effective medicine we have now.” Onshore wind turbines are
-“merely ... a gesture to prove [our leaders’] environmental
-credentials.”
+*The Revenge of Gaia: Why the earth is fighting back – and how we can still
+save humanity.* James Lovelock (2006). © Allen Lane.
 
 This heated debate is fundamentally about numbers. How much energy
 could each source deliver, at what economic and social cost, and
