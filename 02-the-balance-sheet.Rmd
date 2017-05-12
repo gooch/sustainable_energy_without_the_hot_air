@@ -91,42 +91,41 @@ word "power" means only *electrical* energy consumption. But this book concerns
 *all* forms of energy consumption and production, and I will use the word
 "power" for all of them.
 
-One kilowatt-hour per day is roughly the power you could get from one
-human servant. The number of kilowatt-hours per day you use is thus the
-effective number of servants you have working for you.
+One kilowatt-hour per day is roughly the power you could get from one human
+servant. The number of kilowatt-hours per day you use is thus the effective
+number of servants you have working for you.
 
-People use the two terms energy and power interchangeably in ordinary
-speech, but in this book we must stick rigorously to their
-scientificdefinitions. *Power is the rate at which something uses energy*.
+People use the two terms energy and power interchangeably in ordinary speech,
+but in this book we must stick rigorously to their scientific definitions.
+*Power is the rate at which something uses energy*.
 
-Maybe a good way to explain energy and power is by an analogy withwater
-and water-flow from taps. If you want a drink of water, you want
-a*volume* of water – one litre, perhaps (if you’re thirsty). When you
-turn on atap, you create a *flow* of water – one litre per minute, say,
-if the tap yieldsonly a trickle; or 10 litres per minute, from a more
-generous tap. You canget the same volume (one litre) either by running
-the trickling tap for oneminute, or by running the generous tap for one
-tenth of a minute. The*volume* delivered in a particular time is equal
-to the *flow* multiplied by the
+Maybe a good way to explain energy and power is by an analogy with water and
+water-flow from taps. If you want a drink of water, you want a *volume* of
+water – one litre, perhaps (if you’re thirsty). When you turn on a tap, you
+create a *flow* of water – one litre per minute, say, if the tap yields only a
+trickle; or 10 litres per minute, from a more generous tap. You can get the
+same volume (one litre) either by running the trickling tap for one minute, or
+by running the generous tap for one tenth of a minute. The *volume* delivered
+in a particular time is equal to the *flow* multiplied by the
 
 ![](figure18.png)
 
-Figure 2.1. Distinguishing energy andpower. Each of these 60W light
-bulbshas a power of 60W when switchedon; it doesn’t have an "energy"
-of60W. The bulb uses 60W of electricalpower when it’s on; it emits 60 W
-ofpower in the form of light and heat(mainly the latter).
+Figure 2.1. Distinguishing energy and power. Each of these 60W light bulbs has
+a power of 60W when switched-on; it doesn’t have an "energy" of 60W. The bulb
+uses 60W of electrical power when it’s on; it emits 60W of power in the form of
+light and heat(mainly the latter).
 
-volumeis measured inlitres
+Volume is measured in litres
 
-flowis measured inlitres per minute
+Flow is measured in litres per minute
 
-energyis measured inkWh
+Energy is measured in kWh
 
-poweris measured inkWh per day
+Power is measured in kWh per day
 
 *time:*
 
-volume = flow × time.
+$volume \eq flow \times time.$
 
 We say that a *flow* is a *rate* at which *volume* is delivered. If you
 know thevolume delivered in a particular time, you get the flow by
