@@ -44,7 +44,7 @@ people is hard to imagine. During a discussion of the proposed expansion of
 nuclear power, Michael Meacher, former environment minister,said “if we’re
 going to cut greenhouse gases by 60% ... by 2050 there is no other possible way
 of doing that except through renewables;” Sir Bernard Ingham, former civil
-servant, speaking in favour of nuclear expansion, said“anybody who is relying
+servant, speaking in favour of nuclear expansion, said“ anybody who is relying
 upon renewables to fill the [energy] gap is living in an utter dream world and
 is, in my view, an enemy of the people.”
 
