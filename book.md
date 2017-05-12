@@ -555,14 +555,13 @@ Mastrandrea, expressed in tons of CO~2~ per year per person, using a world
 population of six billion. Both scenarios are believed to offer a modest chance
 of avoiding a 2°C temperature rise above the pre-industrial level.
 
-Figure 1.9. Breakdown of worldgreenhouse-gas emissions (2000) bycause
-and by gas. “Energy” includespower stations, industrial
-processes,transport, fossil fuel processing, andenergy-use in buildings.
-“Land use,biomass burning” means changes inland use, deforestation, and
-theburning of un-renewed biomass suchas peat. “Waste” includes
-wastedisposal and treatment. The sizesindicate the 100-year global
-warmingpotential of each source. Source:Emission Database for
-GlobalAtmospheric Research.
+Figure 1.9. Breakdown of world greenhouse-gas emissions (2000) by cause and by
+gas. “Energy” includes power stations, industrial processes,transport, fossil
+fuel processing, and energy-use in buildings.  “Land use,biomass burning” means
+changes inland use, deforestation, and the burning of un-renewed biomass such
+as peat. “Waste” includes waste disposal and treatment. The sizes indicate the
+100-year global warming potential of each source. Source:Emission Database for
+Global Atmospheric Research.
 
 
 One last thing about the climate-change motivation: while a range
