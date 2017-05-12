@@ -50,18 +50,17 @@ panacea for our ailing planet, is “the only effective medicine we have now.”
 Onshore wind turbines are “merely ... a gesture to prove [our leaders’]
 environmental credentials.”
 
-![OutOfGas](OutOfGasS.jpg)
+```{r Out-of-Gas, fig.width=100, fig.cap="David Goodstein’s *Out of Gas* (2004)."}
+knitr::include_graphics('images/OutOfGasS.jpg')
+```
 
-David Goodstein’s *Out of Gas* (2004).
+```{r The-Skeptical-Environmentalist, fig.width=100, fig.cap="Bjørn Lomborg’s *The Skeptical Environmentalist* (2001)."}
+knitr::include_graphics('images/lomborgSES.jpg')
+```
 
-![SkepticalEnvironmentalist](lomborgSES.jpg)
-
-Bjørn Lomborg’s *The Skeptical Environmentalist* (2001).
-
-![RevengeOfGaia](revengeOfGaiaS.jpg)
-
-*The Revenge of Gaia: Why the earth is fighting back – and how we can still
-save humanity.* James Lovelock (2006). © Allen Lane.
+```{r James-Lovelock, fig.width=100, fig.cap="*The Revenge of Gaia: Why the earth is fighting back – and how we can still save humanity.* James Lovelock (2006). © Allen Lane."}
+knitr::include_graphics('images/revengeOfGaiaS.jpg')
+```
 
 This heated debate is fundamentally about numbers. How much energy could each
 source deliver, at what economic and social cost, and with what risks? But
@@ -156,11 +155,9 @@ as these:
 7.  Should people be encouraged to eat more vegetarian food?
 8.  Is the population of the earth six times too big?
 
-
-![Greenpeace leaflet](figure3.png)
-
-Figure 1.1. This Greenpeace leaflet arrived with my junk mail in May 2006.
-Do beloved windmills have the capacity to displace hated cooling towers?
+```{r Greenpeace-leaflet, fig.cap="This Greenpeace leaflet arrived with my junk mail in May 2006. Do beloved windmills have the capacity to displace hated cooling towers?"}
+knitr::include_graphics('images/figure3.png')
+```
 
 Why are we discussing energy policy?
 ------------------------------------
@@ -215,22 +212,17 @@ burning causes carbon dioxide concentrations to rise; two: carbon dioxide is a
 greenhouse gas; three: increasing the greenhouse effect in-creases average
 global temperatures (and has many other effects).
 
-![North Sea Oil production](figure4.png)
+```{r North-Sea-Oil-production, fig.cap='Are “our” fossil fuels running out? Total crude oil production from the North Sea, and oil price in 2006 dollars per barrel.'}
+knitr::include_graphics('images/figure4.png')
+```
 
-Figure 1.2 Are “our” fossil fuels running out? Total crude oil production from
-the North Sea, and oil price in 2006 dollars per barrel.
+```{r UK-energy-gap, fig.cap='The energy gap created by UK power station closures, as projected by energy company EdF. This graph shows the predicted capacity of nuclear, coal, and oil power stations, in kilowatt-hours per day per person. The capacity is the maximum deliverable power of a source.'}
+knitr::include_graphics('images/figure5.png')
+```
 
-![UK energy gap](figure5.png)
-
-Figure 1.3 The energy gap created by UK power station closures, as projected by
-energy company EdF.This graph shows the predicted capacity of nuclear, coal,
-and oil power stations, in kilowatt-hours per day per person. The capacity is
-the maximum deliverable power of a source.
-
-![CO2 concentrations](figure6.png)
-Figure 1.4. Carbon dioxide (CO~2~)concentrations (in parts per million)for the
-last 1100 years, measured from air trapped in ice cores (up to 1977)and directly
-in Hawaii (from 1958 onwards).
+```{r CO2-concentrations, fig.cap='Carbon dioxide (CO~2~) concentrations (in parts per million) for the last 1100 years, measured from air trapped in ice cores (up to 1977) and directly in Hawaii (from 1958 onwards).'}
+knitr::include_graphics('images/figure6.png')
+```
 
 We start with the fact that carbon dioxide concentrations are rising. Figure
 1.4 shows measurements of the CO~2~ concentration in the air from the year
@@ -266,24 +258,25 @@ marked the year 1769,in which James Watt patented his steam engine. (The first
 practical steam engine was invented 70 years earlier in 1698, but Watt’s was
 much more efficient.)
 
-![ ](figure13.png)
+```{r UK-Coal, fig.cap='The history of UK coal production and world coal production from 1600 to 1910. Production rates are shown in billions of tons of CO~2~ – an incomprehensible unit, yes, but don’t worry: we’ll personalize it shortly.'}
+knitr::include_graphics('images/figure13.png')
+```
 
-Figure 1.5. The history of UK coal production and world coal production from
-1600 to 1910. Production rates are shown in billions of tons of CO~2~ – an
-incomprehensible unit, yes, but don’t worry: we’ll personalize it shortly.
-
-![population England](figure14.png)
+```{r Ppoulation-of-England}
+knitr::include_graphics('images/figure14.png')
+```
 
 Eventually other countries got in on the act too as the Revolution spread.
-Figure 1.6 shows British coal production and world coal production on the same
-scale as figure 1.5, sliding the window of history 50 years later.  British
+Figure \@ref(fig:UK-and-word-coal-production) shows British coal production and world coal production on the same scale as figure 1.5, sliding the window of history 50 years later.  British
 coal production peaked in 1910, but meanwhile world coal production continued
 to double every 20 years. It’s difficult to show the history of coal production
-on a single graph. To show what happened in the *next*50 years on the same
+on a single graph. To show what happened in the *next* 50 years on the same
 scale, the book would need to be one metre tall! To cope with this difficulty,
 we can either scale down the vertical axis:
 
-![population world](figure15.png)
+```{r population-world}
+knitr::include_graphics('images/figure15.png')
+```
 
 or we can squish the vertical axis in a non-uniform way, so that small
 quantities and large quantities can be seen at the same time on a single graph.
@@ -301,10 +294,9 @@ compare growth rates.  Looking at the slopes of the population curves, for
 example, we can see that the world population’s growth rate in the last 50
 years was a little bigger than the growth rate of England and Wales in 1800.
 
-![UK and world coal production](figure16.png)
-
-Figure 1.6. What happened next. The history of UK coal production and world
-coal production from 1650 to 1960, on the same scale as figure 1.5.
+```{r UK-and-world-coal-production, fig.cap='What happened next. The history of UK coal production and world coal production from 1650 to 1960, on the same scale as figure 1.5.'}
+knitr::include_graphics('images/figure16.png')
+```
 
 From 1769 to 2006, world annual coal production increased 800-fold. Coal
 production is still increasing today. Other fossil fuels are being extracted
@@ -359,16 +351,12 @@ undeniably increasing the CO~2~ concentration in the atmosphere and in the
 surface oceans. No climate scientist disputes this fact. When it comes to CO~2~
 concentrations, man *is* significant.
 
-![CO2 concentrations, consequences of Industrial
-Revolution](figure7.png)
-
-Figure 1.7. The upper graph shows carbon dioxide CO~2~ concentrations(in parts
-per million) for the last 1100 years – the same data that was shown in figure
-1.4.
+```{r CO2-concentrations-industrial-revolution, fig.cap='The upper graph shows carbon dioxide CO~2~ concentrations(in parts per million) for the last 1100 years – the same data that was shown in figure 1.4.'}
+knitr::include_graphics('images/figure7.png')
+```
 
 Here’s a portrait of James Watt and his 1769 steam engine.
-
-![James Watt](jw.png)
+![James Watt](images/jw.png)
 
 The middle graph shows (on a logarithmic scale) the history of UK coal
 production, Saudi oil production,world coal production, world oil production,
