@@ -449,14 +449,13 @@ gigaton). In this book 1 t means one metric ton (1000 kg). I’m not going to
 distinguish imperial tons, because they differ by less than 10% from the metric
 ton or tonne.
 
-In the year 2000, the world’s greenhouse gas emissions were about
-34billion tons of CO~2~-equivalent per year. An incomprehensible
-number.But we can render it more comprehensible and more personal by
-divid-ing by the number of people on the planet, 6 billion, so as to
-obtain thegreenhouse-gas pollution *per person*, which is about 5½ tons
-CO~2~e per yearper person. We can thus represent the world emissions by
-a rectanglewhose width is the population (6 billion) and whose height is
-the per-capita emissions.
+In the year 2000, the world’s greenhouse gas emissions were about 34 billion
+tons of CO~2~-equivalent per year. An incomprehensible number.But we can render
+it more comprehensible and more personal by dividing by the number of people on
+the planet, 6 billion, so as to obtain the greenhouse-gas pollution *per
+person*, which is about 5½ tons CO~2~e per year per person. We can thus
+represent the world emissions by a rectangle whose width is the population (6
+billion) and whose height is the per-capita emissions.
 
 ![Greenhouse gas pollution](figure9.png)
 
