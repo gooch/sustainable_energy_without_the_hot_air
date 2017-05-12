@@ -241,123 +241,110 @@ and oil power stations, in kilowatt-hours per day per person. The capacity is
 the maximum deliverable power of a source.
 
 ![CO2 concentrations](figure6.png)
+Figure 1.4. Carbon dioxide (CO~2~)concentrations (in parts per million)for the
+last 1100 years, measured from air trapped in ice cores (up to 1977)and directly
+in Hawaii (from 1958 onwards).
 
-We start with the fact that carbon dioxide concentrations are
-rising.Figure 1.4 shows measurements of the CO~2~ concentration in the
-air fromthe year 1000AD to the present. Some “sceptics” have asserted
-that the re-cent increase in CO~2~ concentration is a natural
-phenomenon. Does “scep-tic” mean “a person who has not even glanced at
-the data”? Don’t youthink, just possibly, *something* may have happened
-between 1800AD and2000AD? Something that was not part of the natural
-processes present inthe preceding thousand years?
+We start with the fact that carbon dioxide concentrations are rising. Figure
+1.4 shows measurements of the CO~2~ concentration in the air from the year
+1000AD to the present. Some “sceptics” have asserted that the re-cent increase
+in CO~2~ concentration is a natural phenomenon. Does “sceptic” mean “a person
+who has not even glanced at the data”? Don’t you think, just possibly,
+*something* may have happened between 1800AD and 2000AD? Something that was not
+part of the natural processes present in the preceding thousand years?
 
-Something did happen, and it was called the Industrial Revolution.I’ve
-marked on the graph the year 1769, in which James Watt patentedhis steam
-engine. While the first practical steam engine was invented in1698,
-Watt’s more efficient steam engine really got the Industrial Revolu-tion
-going. One of the steam engine’s main applications was the pumpingof
-water out of coal mines. Figure 1.5 shows what happened to Britishcoal
-production from 1769 onwards. The figure displays coal productionin units
-of billions of tons of CO~2~ released when the coal was burned.In 1800,
-coal was used to make iron, to make ships, to heat buildings,to power
-locomotives and other machinery, and of course to power thepumps that
-enabled still more coal to be scraped up from inside the hillsof England
-and Wales. Britain was terribly well endowed with coal: whenthe
-Revolution started, the amount of carbon sitting in coal under
-Britainwas roughly the same as the amount sitting in oil under Saudi
-Arabia.
+Something did happen, and it was called the Industrial Revolution. I’ve marked
+on the graph the year 1769, in which James Watt patented his steam engine.
+While the first practical steam engine was invented in 1698, Watt’s more
+efficient steam engine really got the Industrial Revolution going. One of the
+steam engine’s main applications was the pumping of water out of coal mines.
+Figure 1.5 shows what happened to British coal production from 1769 onwards.
+The figure displays coal production in units of billions of tons of CO~2~
+released when the coal was burned.In 1800, coal was used to make iron, to make
+ships, to heat buildings,to power locomotives and other machinery, and of
+course to power the pumps that enabled still more coal to be scraped up from
+inside the hills of England and Wales. Britain was terribly well endowed with
+coal: when the Revolution started, the amount of carbon sitting in coal under
+Britain was roughly the same as the amount sitting in oil under Saudi Arabia.
 
-In the 30 years from 1769 to 1800, Britain’s annual coal
-productiondoubled. After another 30 years (1830), it had doubled again.
-The nextdoubling of production-rate happened within *20* years (1850),
-and another
+In the 30 years from 1769 to 1800, Britain’s annual coal production doubled.
+After another 30 years (1830), it had doubled again.  The next doubling of
+production-rate happened within *20* years (1850), and another doubling within
+20 years of that (1870). This coal allowed Britain to turn the globe pink. The
+prosperity that came to England and Wales was reflected in a century of
+unprecedented population growth:
 
-Figure 1.4. Carbon dioxide (CO~2~)concentrations (in parts per
-million)for the last 1100 years, measured fromair trapped in ice cores
-(up to 1977)and directly in Hawaii (from 1958onwards).
-
-I think something new may havehappened between 1800 AD and2000 AD. I’ve
-marked the year 1769,in which James Watt patented hissteam engine. (The
-first practicalsteam engine was invented 70 yearsearlier in 1698, but
-Watt’s was muchmore efficient.)
+I think something new may have happened between 1800 AD and 2000 AD. I’ve
+marked the year 1769,in which James Watt patented his steam engine. (The first
+practical steam engine was invented 70 years earlier in 1698, but Watt’s was
+much more efficient.)
 
 ![ ](figure13.png)
 
-Figure 1.5. The history of UK coalproduction and world coalproduction
-from 1600 to 1910.Production rates are shown in billionsof tons of CO~2~
-– an incomprehensibleunit, yes, but don’t worry: we’llpersonalize it
-shortly.
-
-doubling within 20 years of that (1870). This coal allowed Britain to
-turnthe globe pink. The prosperity that came to England and Wales was
-re-ﬂected in a century of unprecedented population growth:
+Figure 1.5. The history of UK coal production and world coal production from
+1600 to 1910. Production rates are shown in billions of tons of CO~2~ – an
+incomprehensible unit, yes, but don’t worry: we’ll personalize it shortly.
 
 ![population England](figure14.png)
 
-Eventually other countries got in on the act too as the Revolution
-spread.Figure 1.6 shows British coal production and world coal
-production onthe same scale as figure 1.5, sliding the window of history
-50 years later.British coal production peaked in 1910, but meanwhile
-world coal produc-tion continued to double every 20 years. It’s difficult
-to show the historyof coal production on a single graph. To show what
-happened in the *next*50 years on the same scale, the book would need to
-be one metre tall! Tocope with this difficulty, we can either scale down
-the vertical axis:
+Eventually other countries got in on the act too as the Revolution spread.
+Figure 1.6 shows British coal production and world coal production on the same
+scale as figure 1.5, sliding the window of history 50 years later.  British
+coal production peaked in 1910, but meanwhile world coal production continued
+to double every 20 years. It’s difficult to show the history of coal production
+on a single graph. To show what happened in the *next*50 years on the same
+scale, the book would need to be one metre tall! To cope with this difficulty,
+we can either scale down the vertical axis:
 
 ![population world](figure15.png)
 
 or we can squish the vertical axis in a non-uniform way, so that small
-quan-tities and large quantities can be seen at the same time on a
-single graph. Agood way to squish the axis is called a logarithmic
-scale, and that’s whatI’ve used in the bottom two graphs of figure 1.7
-(p9). On a logarithmicscale, all ten-fold increases (from 1 to 10, from
-10 to 100, from 100 to 1000)are represented by equal distances on the
-page. On a logarithmic scale, aquantity that grows at a constant
-percentage per year (which is called “ex-ponential growth”) looks like a
-straight line. Logarithmic graphs are great
+quantities and large quantities can be seen at the same time on a single graph.
+A good way to squish the axis is called a logarithmic scale, and that’s what
+I’ve used in the bottom two graphs of figure 1.7 (p9). On a logarithmic scale,
+all ten-fold increases (from 1 to 10, from 10 to 100, from 100 to 1000)are
+represented by equal distances on the page. On a logarithmic scale, a quantity
+that grows at a constant percentage per year (which is called “exponential
+growth”) looks like a straight line. Logarithmic graphs are great for
+understanding growth. Whereas the ordinary graphs in the figures on pages 6 and
+7 convey the messages that British and world coal production grew remarkably,
+and that British and world population grew remarkably,the relative growth rates
+are not evident in these ordinary graphs. The logarithmic graphs allow us to
+compare growth rates.  Looking at the slopes of the population curves, for
+example, we can see that the world population’s growth rate in the last 50
+years was a little bigger than the growth rate of England and Wales in 1800.
 
 ![UK and world coal production](figure16.png)
 
-Figure 1.6. What happened next.The history of UK coal productionand
-world coal production from 1650to 1960, on the same scale asfigure 1.5.
+Figure 1.6. What happened next. The history of UK coal production and world
+coal production from 1650 to 1960, on the same scale as figure 1.5.
 
-for understanding growth. Whereas the ordinary graphs in the figures
-onpages 6 and 7 convey the messages that British and world coal
-productiongrew remarkably, and that British and world population grew
-remarkably,the relative growth rates are not evident in these ordinary
-graphs. The log-arithmic graphs allow us to compare growth rates.
-Looking at the slopesof the population curves, for example, we can see
-that the world popula-tion’s growth rate in the last 50 years was a
-little bigger than the growthrate of England and Wales in 1800.
+From 1769 to 2006, world annual coal production increased 800-fold. Coal
+production is still increasing today. Other fossil fuels are being extracted
+too – the middle graph of figure 1.7 shows oil production for example – but in
+terms of CO~2~ emissions, coal is still king.
 
-From 1769 to 2006, world annual coal production increased 800-fold.Coal
-production is still increasing today. Other fossil fuels are being
-ex-tracted too – the middle graph of figure 1.7 shows oil production for
-ex-ample – but in terms of CO~2~ emissions, coal is still king.
+The burning of fossil fuels is the principal reason why CO~2~ concentrations
+have gone up. This is a fact, but, hang on: I hear a persistent buzzing noise
+coming from a bunch of climate-change inactivists. What are they saying? Here’s
+Dominic Lawson, a columnist from the *Independent*:
 
-The burning of fossil fuels is the principal reason why CO~2~
-concentra-tions have gone up. This is a fact, but, hang on: I hear a
-persistent buzzingnoise coming from a bunch of climate-change
-inactivists. What are theysaying? Here’s Dominic Lawson, a columnist
-from the *Independent*:
+> “The burning of fossil fuels sends about seven gigatons of CO~2~per year into
+> the atmosphere, which sounds like a lot. Yet the biosphere and the oceans
+> send about 1900 gigatons and 36000 gigatons of CO~2~ per year into the
+> atmosphere – ... one reason why some of us are sceptical about the emphasis
+> put on the role of human fuel-burning in the greenhouse gas effect. Reducing
+> man-made CO 2 emissions is megalomania, exaggerating man’s significance.
+> Politicians can’t change the weather.”
 
-> “The burning of fossil fuels sends about seven gigatons of CO~2~per
-> year into the atmosphere, which sounds like a lot. Yet thebiosphere
-> and the oceans send about 1900 gigatons and 36000gigatons of CO~2~ per
-> year into the atmosphere – ... one reasonwhy some of us are sceptical
-> about the emphasis put on the roleof human fuel-burning in the
-> greenhouse gas effect. Reducingman-made CO 2 emissions is megalomania,
-> exaggerating man’ssignificance. Politicians can’t change the weather.”
+Now I have a lot of time for scepticism, and not everything that sceptics say
+is a crock of manure – but irresponsible journalism like Dominic Lawson’s
+deserves a good flushing.
 
-Now I have a lot of time for scepticism, and not everything that
-sceptics sayis a crock of manure – but irresponsible journalism like
-Dominic Lawson’sdeserves a good ﬂushing.
-
-The first problem with Lawson’s offering is that *all three numbers*
-thathe mentions (seven, 1900, and 36000) are *wrong!* The correct
-numbers are26, 440, and 330. Leaving these errors to one side, let’s
-address Lawson’smain point, the relative smallness of man-made
-emissions.
+The first problem with Lawson’s offering is that *all three numbers* that he
+mentions (seven, 1900, and 36000) are *wrong!* The correct numbers are 26, 440,
+and 330. Leaving these errors to one side, let’s address Lawson’s main point,
+the relative smallness of man-made emissions.
 
 Yes, natural ﬂows of CO~2~ *are* larger than the additional ﬂow we
 switchedon 200 years ago when we started burning fossil fuels in
