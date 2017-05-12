@@ -574,41 +574,40 @@ climate change problem is principally an energy problem.
 Warnings to the reader
 ----------------------
 
-OK, enough about climate change. I’m going to assume we are motivatedto
-get off fossil fuels. Whatever your motivation, the aim of this bookis
-to help you figure out the numbers and do the arithmetic so that youcan
-evaluate policies; and to lay a factual foundation so that you can
-see*which proposals add up*. I’m not claiming that the arithmetic and
-numbersin this book are new; the books I’ve mentioned by Goodstein,
-Lomborg,and Lovelock, for example, are full of interesting numbers and
-back-of-envelope calculations, and there are many other helpful sources
-on theinternet too (see the notes at the end of each chapter).
+OK, enough about climate change. I’m going to assume we are motivated to get
+off fossil fuels. Whatever your motivation, the aim of this book is to help you
+figure out the numbers and do the arithmetic so that you can evaluate policies;
+and to lay a factual foundation so that you can see *which proposals add up*.
+I’m not claiming that the arithmetic and numbers in this book are new; the
+books I’ve mentioned by Goodstein, Lomborg, and Lovelock, for example, are full
+of interesting numbers and back-of-envelope calculations, and there are many
+other helpful sources on the internet too (see the notes at the end of each
+chapter).
 
-What I’m aiming to do in this book is to make these numbers simpleand
-memorable; to show you how you can figure out the numbers foryourself;
-and to make the situation so clear that any thinking reader willbe able
-to draw striking conclusions. I don’t want to feed you my own
-con-clusions. Convictions are stronger if they are self-generated,
-rather thantaught. Understanding is a creative process. When you’ve read
-this bookI hope you’ll have reinforced the confidence that you can figure
-anythingout.
+What I’m aiming to do in this book is to make these numbers simple and
+memorable; to show you how you can figure out the numbers for yourself; and to
+make the situation so clear that any thinking reader will be able to draw
+striking conclusions. I don’t want to feed you my own conclusions. Convictions
+are stronger if they are self-generated, rather than taught. Understanding is a
+creative process. When you’ve read this book I hope you’ll have reinforced the
+confidence that you can figure anything out.
 
-I’d like to emphasize that the calculations we will do are
-deliberatelyimprecise. Simplification is a key to understanding. First,
-by rounding thenumbers, we can make them easier to remember. Second,
-rounded num-bers allow quick calculations. For example, in this book,
-the populationof the United Kingdom is 60 million, and the population of
-the world is6 billion. I’m perfectly capable of looking up more accurate
-figures, butaccuracy would get in the way of fluent thought. For example,
-if we learnthat the world’s greenhouse gas emissions in 2000 were 34
-billion tons ofCO~2~-equivalent per year, then we can instantly note,
-without a calculator,that the average emissions per person are 5 or 6
-tons of CO~2~-equivalent perperson per year. This rough answer is not
-exact, but it’s accurate enough toinform interesting conversations. For
-instance, if you learn that a round-trip intercontinental flight emits
-nearly two tons of CO~2~ per passenger,then knowing the average
-emissions yardstick (5-and-a-bit tons per yearper person) helps you
-realize that just one such plane-trip per year corre-
+I’d like to emphasize that the calculations we will do are deliberately
+imprecise. Simplification is a key to understanding. First, by rounding the
+numbers, we can make them easier to remember. Second, rounded numbers allow
+quick calculations. For example, in this book, the population of the United
+Kingdom is 60 million, and the population of the world is 6 billion. I’m
+perfectly capable of looking up more accurate figures, but accuracy would get
+in the way of fluent thought. For example, if we learn that the world’s
+greenhouse gas emissions in 2000 were 34 billion tons of CO~2~-equivalent per
+year, then we can instantly note, without a calculator,that the average
+emissions per person are 5 or 6 tons of CO~2~-equivalent per person per year.
+This rough answer is not exact, but it’s accurate enough to inform interesting
+conversations. For instance, if you learn that a round-trip intercontinental
+flight emits nearly two tons of CO~2~ per passenger,then knowing the average
+emissions yardstick (5-and-a-bit tons per year per person) helps you realize
+that just one such plane-trip per year corresponds to over a third of the
+average person’s carbon emissions.
 
 ![Low carbon emission man - cartoon](LowEManS.jpg)
 
@@ -617,24 +616,21 @@ realize that just one such plane-trip per year corre-
 Figure 1.10. Reproduced by kindpermission of PRIVATE EYE / PeterDredge
 www.private-eye.co.uk.
 
-sponds to over a third of the average person’s carbon emissions.
 
-I like to base my calculations on everyday knowledge rather than
-ontrawling through impersonal national statistics. For example, if I
-wantto estimate the typical wind speeds in Cambridge, I ask “is my
-cyclingspeed usually faster than the wind?” The answer is yes. So I can
-deducethat the wind speed in Cambridge is only rarely faster than my
-typicalcycling speed of 20km/h. I back up these everyday estimates with
-otherpeoples’ calculations and with official statistics. (Please look for
-these ineach chapter’s end-notes.) This book isn’t intended to be a
-definitive storeof super-accurate numbers. Rather, it’s intended to
-illustrate how to useapproximate numbers as a part of constructive
+I like to base my calculations on everyday knowledge rather than on trawling
+through impersonal national statistics. For example, if I want to estimate the
+typical wind speeds in Cambridge, I ask “is my cycling speed usually faster
+than the wind?” The answer is yes. So I can deduce that the wind speed in
+Cambridge is only rarely faster than my typical cycling speed of 20km/h. I back
+up these everyday estimates with other peoples’ calculations and with official
+statistics. (Please look for these in each chapter’s end-notes.) This book
+isn’t intended to be a definitive store of super-accurate numbers. Rather, it’s
+intended to illustrate how to use approximate numbers as a part of constructive
 consensual conversations.
 
-In the calculations, I’ll mainly use the United Kingdom and
-occasion-ally Europe, America, or the whole world, but you should find it
-easy toredo the calculations for whatever country or region you are
-interested in.
+In the calculations, I’ll mainly use the United Kingdom and occasion-ally
+Europe, America, or the whole world, but you should find it easy to redo the
+calculations for whatever country or region you are interested in.
 
 Let me close this chapter with a few more warnings to the reader.Not
 only will we make a habit of approximating the numbers we cal-culate;
