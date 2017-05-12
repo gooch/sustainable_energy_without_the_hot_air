@@ -172,7 +172,7 @@ as these:
 
 ![Greenpeace leaflet](figure3.png)
 
-Figure 1.1. This Greenpeace leaﬂetarrived with my junk mail in May2006.
+Figure 1.1. This Greenpeace leaflet arrived with my junk mail in May 2006.
 Do beloved windmills have the capacity to displace hated cooling towers?
 
 Why are we discussing energy policy?
@@ -180,69 +180,65 @@ Why are we discussing energy policy?
 
 Three different motivations drive today’s energy discussions.
 
-First, fossil fuels are a finite resource. It seems possible that cheap
-oil (on which our cars and lorries run) and cheap gas (with which we
-heat many of our buildings) will run out in our lifetime. So we seek
-alternative energy sources. Indeed given that fossil fuels are a valuable
-resource, useful for manufacture of plastics and all sorts of other
-creative stuff, perhaps we should save them for better uses than simply
-setting fire to them.
+First, fossil fuels are a finite resource. It seems possible that cheap oil (on
+which our cars and lorries run) and cheap gas (with which we heat many of our
+buildings) will run out in our lifetime. So we seek alternative energy sources.
+Indeed given that fossil fuels are a valuable resource, useful for manufacture
+of plastics and all sorts of other creative stuff, perhaps we should save them
+for better uses than simply setting fire to them.
 
-Second, we’re interested in security of energy supply. Even if
-fossil fuels are still available somewhere in the world, perhaps we don’t
-want to depend on them if that would make our economy vulnerable to the
-whims of untrustworthy foreigners. (I hope you can hear my tongue in my
-cheek.) Going by figure 1.2, it certainly looks as if “our” fossil fuels
-have peaked. The UK has a particular security-of-supply problem looming,
-known as the “energy gap.” A substantial number of old coal power
-stations and nuclear power stations will be closing down during the next
-decade (figure 1.3), so there is a risk that electricity demand will
-sometimes exceed electricity supply, if adequate plans are not
-implemented.
+Second, we’re interested in security of energy supply. Even if fossil fuels are
+still available somewhere in the world, perhaps we don’t want to depend on them
+if that would make our economy vulnerable to the whims of untrustworthy
+foreigners. (I hope you can hear my tongue in my cheek.) Going by figure 1.2,
+it certainly looks as if “our” fossil fuels have peaked. The UK has a
+particular security-of-supply problem looming, known as the “energy gap.” A
+substantial number of old coal power stations and nuclear power stations will
+be closing down during the next decade (figure 1.3), so there is a risk that
+electricity demand will sometimes exceed electricity supply, if adequate plans
+are not implemented.
 
-Third, it’s very probable that using fossil fuels changes the
-climate.Climate change is blamed on several human activities, but the
-biggest con-tributor to climate change is the increase in greenhouse
-effect produced bycarbon dioxide (CO~2~). Most of the carbon dioxide
-emissions come from fossil-fuel burning. And the main reason we burn
-fossil fuels is for energy.So to fix climate change, we need to sort out
-a new way of getting energy.The climate problem is mostly an energy
-problem.
+Third, it’s very probable that using fossil fuels changes the climate.Climate
+change is blamed on several human activities, but the biggest contributor to
+climate change is the increase in greenhouse effect produced by carbon dioxide
+(CO~2~). Most of the carbon dioxide emissions come from fossil-fuel burning.
+And the main reason we burn fossil fuels is for energy.So to fix climate
+change, we need to sort out a new way of getting energy.The climate problem is
+mostly an energy problem.
 
-Whichever of these three concerns motivates you, we need energy
-num-bers, and policies that add up.
+Whichever of these three concerns motivates you, we need energy numbers, and
+policies that add up.
 
-The first two concerns are straightforward selfish motivations for
-dras-tically reducing fossil fuel use. The third concern, climate
-change, is a morealtruistic motivation – the brunt of climate change
-will be borne not by usbut by future generations over many hundreds of
-years. Some people feelthat climate change is not their responsibility.
-They say things like “What’s the point in my doing anything? China’s out
-of control!” So I’m going todiscuss climate change a bit more now,
-because while writing this book Ilearned some interesting facts that
-shed light on these ethical questions. Ifyou have no interest in climate
-change, feel free to fast-forward to the nextsection on page 16.
+The first two concerns are straightforward selfish motivations for drastically
+reducing fossil fuel use. The third concern, climate change, is a more
+altruistic motivation – the brunt of climate change will be borne not by us but
+by future generations over many hundreds of years. Some people feel that
+climate change is not their responsibility.  They say things like “What’s the
+point in my doing anything? China’s out of control!” So I’m going to discuss
+climate change a bit more now, because while writing this book I learned some
+interesting facts that shed light on these ethical questions. If you have no
+interest in climate change, feel free to fast-forward to the next section on
+page 16.
 
 The climate-change motivation
 -----------------------------
 
-The climate-change motivation is argued in three steps: one: human
-fossil-fuel burning causes carbon dioxide concentrations to rise; two:
-carbondioxide is a greenhouse gas; three: increasing the greenhouse
-effect in-creases average global temperatures (and has many other
-effects).
+The climate-change motivation is argued in three steps: one: human fossil-fuel
+burning causes carbon dioxide concentrations to rise; two: carbon dioxide is a
+greenhouse gas; three: increasing the greenhouse effect in-creases average
+global temperatures (and has many other effects).
 
 ![North Sea Oil production](figure4.png)
 
-Figure 1.2 Are“our” fossil fuelsrunning out? Total crude oilproduction
-from the North Sea, andoil price in 2006 dollars per barrel.
+Figure 1.2 Are “our” fossil fuels running out? Total crude oil production from
+the North Sea, and oil price in 2006 dollars per barrel.
 
 ![UK energy gap](figure5.png)
 
-Figure 1.3 The energy gap created byUK power station closures,
-asprojected by energy company EdF.This graph shows the predictedcapacity
-of nuclear, coal, and oilpower stations, in kilowatt-hours perday per
-person. The capacity is themaximum deliverable power of asource.
+Figure 1.3 The energy gap created by UK power station closures, as projected by
+energy company EdF.This graph shows the predicted capacity of nuclear, coal,
+and oil power stations, in kilowatt-hours per day per person. The capacity is
+the maximum deliverable power of a source.
 
 ![CO2 concentrations](figure6.png)
 
