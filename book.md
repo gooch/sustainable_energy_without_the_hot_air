@@ -563,15 +563,13 @@ as peat. “Waste” includes waste disposal and treatment. The sizes indicate t
 100-year global warming potential of each source. Source:Emission Database for
 Global Atmospheric Research.
 
-
-One last thing about the climate-change motivation: while a range
-ofhuman activities cause greenhouse-gas emissions, the biggest cause by
-faris **energy use**. Some people justify not doing anything about their
-energyuse by excuses such as “methane from burping cows causes more
-warmingthan jet travel.” Yes, agricultural by-products contributed one
-eighth ofgreenhouse-gas emissions in the year 2000. But energy-use
-contributedthree quarters (figure 1.9). The climate change problem is
-principally anenergy problem.
+One last thing about the climate-change motivation: while a range of human
+activities cause greenhouse-gas emissions, the biggest cause by far is **energy
+use**. Some people justify not doing anything about their energy use by excuses
+such as “methane from burping cows causes more warming than jet travel.” Yes,
+agricultural by-products contributed one eighth of greenhouse-gas emissions in
+the year 2000. But energy-use contributed three quarters (figure 1.9). The
+climate change problem is principally an energy problem.
 
 Warnings to the reader
 ----------------------
