@@ -776,46 +776,43 @@ energy in any engine must come from somewhere. Fox News peddled an even more
 absurd story[2fztd3].
 
 –*Climate change is a far greater threat to the world than international
-terrorism.* Sir David King, Chief Scientific Advisorto the UK government,
+terrorism.* Sir David King, Chief Scientific Advisor to the UK government,
 January, 2004. [26e8z]
 
 –*the glorification of travel* – an allusion to the offence of
-“glorification” defined in the UK’s Terrorism Act which cameinto force on
+“glorification” defined in the UK’s Terrorism Act which came into force on
 13 April, 2006. [ykhayj]
 
 5*Figure 1.2.* This figure shows production of crude oil including lease
-condensate, natural gas plant liquids, and otherliquids, and refinery
+condensate, natural gas plant liquids, and other liquids, and refinery
 processing gain. Sources: EIA, and BP statistical review of world
 energy.
 
-6*The first practical steam engine was invented in 1698.* In fact, Hero
-of Alexandria described a steam engine, but giventhat Hero’s engine
-didn’t catch on in the following 1600 years, I deem Savery’s 1698
-invention the first *practical* steamengine.
+6*The first practical steam engine was invented in 1698.* In fact, Hero of
+Alexandria described a steam engine, but given that Hero’s engine didn’t catch
+on in the following 1600 years, I deem Savery’s 1698 invention the first
+*practical* steam engine.
 
-–*Figures 1.4 and 1.7: Graph of carbon dioxide concentration.* The data
-are collated from Keeling and Whorf (2005)(measurements spanning
-1958–2004); Neftel et al. (1994) (1734–1983); Etheridge et al. (1998)
-(1000–1978); Siegenthaleret al. (2005) (950–1888 AD); and Indermuhle et
-al. (1999) (from 11000 to 450 years before present). This graph, by
-theway, should not be confused with the “hockey stick graph”, which
-shows the history of global *temperatures* . Attentivereaders will have
-noticed that the climate-change argument I presented makes no mention of
-*historical* temperatures.*Figures 1.5–1.7: Coal production* numbers are
-from Jevons (1866), Malanima (2006), Netherlands Environmental
-As-sessment Agency (2006), National Bureau of Economic Research (2001),
-Hatcher (1993), Flinn and Stoker (1984), Churchet al. (1986), Supple
-(1987), Ashworth and Pegg (1986). Jevons was the first “Peak Oil” author.
-In 1865, he estimatedBritain’s easily-accessible coal reserves, looked
-at the history of exponential growth in consumption, and predicted
-theend of the exponential growth and the end of the British dominance of
-world industry. “We cannot long maintain our
-
-present rate of increase of consumption. ... the check to our progress
-must become perceptible within a century fromthe present time. ... the
-conclusion is inevitable, that our present happy progressive condition
-is a thing of limitedduration.” Jevons was right. Within a century
-British coal production indeed peaked, and there were two world wars.
+–*Figures 1.4 and 1.7: Graph of carbon dioxide concentration.* The data are
+collated from Keeling and Whorf (2005)(measurements spanning 1958–2004); Neftel
+et al. (1994) (1734–1983); Etheridge et al. (1998) (1000–1978); Siegenthaleret
+al. (2005) (950–1888 AD); and Indermuhle et al. (1999) (from 11000 to 450 years
+before present). This graph, by the way, should not be confused with the
+“hockey stick graph”, which shows the history of global *temperatures* .
+Attentive readers will have noticed that the climate-change argument I
+presented makes no mention of *historical* temperatures.*Figures 1.5–1.7: Coal
+production* numbers are from Jevons (1866), Malanima (2006), Netherlands
+Environmental Assessment Agency (2006), National Bureau of Economic Research
+(2001), Hatcher (1993), Flinn and Stoker (1984), Churchet al. (1986), Supple
+(1987), Ashworth and Pegg (1986). Jevons was the first “Peak Oil” author.  In
+1865, he estimated Britain’s easily-accessible coal reserves, looked at the
+history of exponential growth in consumption, and predicted the end of the
+exponential growth and the end of the British dominance of world industry. “We
+cannot long maintain our present rate of increase of consumption. ... the check
+to our progress must become perceptible within a century from the present time.
+... the conclusion is inevitable, that our present happy progressive condition
+is a thing of limited duration.” Jevons was right. Within a century British
+coal production indeed peaked, and there were two world wars.
 
 8*Dominic Lawson, a columnist from the Independent*. My quote is
 adaptedfrom Dominic Lawson’s column in the *Independent*, 8 June,
