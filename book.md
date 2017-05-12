@@ -892,81 +892,74 @@ each. 12 + 16 + 16 = 44.
 10*The litany of probable drastic effects of climate change – I’m sure you’ve
 heard it before*. See [2z2xg7] if not.
 
-12*Breakdown of world greenhouse gas emissions by region and by
-country*. Data source: Climate Analysis IndicatorsTool (CAIT) Version
-4.0. (Washington, DC: World Resources Institute, 2007). The first three
-figures show national totalsof all six major greenhouse gases (CO~2~,
-CH~4~, N~2~O, PFC, HFC, SF~6~), excluding contributions from land-use
-change andforestry. The figure on p14 shows cumulative emissions of CO~2~
-only.
+12*Breakdown of world greenhouse gas emissions by region and by country*. Data
+source: Climate Analysis Indicator stool (CAIT) Version 4.0. (Washington, DC:
+World Resources Institute, 2007). The first three figures show national totals
+of all six major greenhouse gases (CO~2~, CH~4~, N~2~O, PFC, HFC, SF~6~),
+excluding contributions from land-use change and forestry. The figure on p14
+shows cumulative emissions of CO~2~ only.
 
-14*Congratulations, Britain! ...in the table of historical emissions,
-per capita, we are second only to the USA.* Sincereapologies here to
-Luxembourg, whose historical per-capita emissions actually exceed those
-of America and Britain;but I felt the winners’ podium should really be
-reserved for countries having both large per-capita and large
-totalemissions. In total terms the biggest historical emitters are, in
-order, USA (322 GtCO~2~), Russian Federation (90 GtCO~2~),China (89
-GtCO~2~), Germany (78 GtCO~2~), UK (62 GtCO~2~), Japan (43 GtCO~2~),
-France (30 GtCO~2~), India (25 GtCO~2~), andCanada (24 GtCO~2~). The
-per-capita order is: Luxembourg, USA, United Kingdom, Czech Republic,
-Belgium, Germany,Estonia, Qatar, and Canada.
+14*Congratulations, Britain! ...in the table of historical emissions, per
+capita, we are second only to the USA.* Sincere apologies here to Luxembourg,
+whose historical per-capita emissions actually exceed those of America and
+Britain;but I felt the winners’ podium should really be reserved for countries
+having both large per-capita and large total emissions. In total terms the
+biggest historical emitters are, in order, USA (322 GtCO~2~), Russian
+Federation (90 GtCO~2~),China (89 GtCO~2~), Germany (78 GtCO~2~), UK (62
+GtCO~2~), Japan (43 GtCO~2~), France (30 GtCO~2~), India (25 GtCO~2~), and
+Canada (24 GtCO~2~). The per-capita order is: Luxembourg, USA, United Kingdom,
+Czech Republic, Belgium, Germany,Estonia, Qatar, and Canada.
 
-–*Some countries, including Britain, have committed to at least a 60%
-reduction in greenhouse-gas emissions by 2050*.Indeed, as I write,
-Britain’s commitment is being increased to an 80% reduction relative to
-1990 levels.
+–*Some countries, including Britain, have committed to at least a 60% reduction
+in greenhouse-gas emissions by 2050*. Indeed, as I write, Britain’s commitment
+is being increased to an 80% reduction relative to 1990 levels.
 
-15*Figure 1.8*. In the lower scenario, the chance that the temperature
-rise will exceed 2°C is estimated to be 9–26%; thecumulative carbon
-emissions from 2007 onwards are 309 GtC; CO~2~ concentrations reach a
-peak of 410ppm, CO~2~econcentrations peak at 421ppm, and in 2100 CO~2~
-concentrations fall back to 355ppm. In the upper scenario, thechance of
-exceeding 2°C is estimated to be 16–43%; the cumulative carbon emissions
-from 2007 onwards are 415 GtC;CO~2~ concentrations reach a peak of 425
-ppm, CO~2~e concentrations peak at 435 ppm, and in 2100 CO~2~
-concentrationsfall back to 380 ppm. See also
+15*Figure 1.8*. In the lower scenario, the chance that the temperature rise
+will exceed 2°C is estimated to be 9–26%; the cumulative carbon emissions from
+2007 onwards are 309 GtC; CO~2~ concentrations reach a peak of 410ppm, CO~2~e
+concentrations peak at 421ppm, and in 2100 CO~2~ concentrations fall back to
+355ppm. In the upper scenario, the chance of exceeding 2°C is estimated to be
+16–43%; the cumulative carbon emissions from 2007 onwards are 415 GtC;CO~2~
+concentrations reach a peak of 425 ppm, CO~2~e concentrations peak at 435 ppm,
+and in 2100 CO~2~ concentrations fall back to 380 ppm. See also
 hdr.undp.org/en/reports/global/hdr2007-2008/.
 
-16*there are many other helpful sources on the internet*. I recommend,
-for example: BP’s *Statistical Review of World**Energy* [yyxq2m], the
-Sustainable Development Commission www.sd-commission.org.uk, the Danish
-Wind IndustryAssociation www.windpower.org, Environmentalists For
-Nuclear Energy www.ecolo.org, Wind Energy Department,Risø University
-www.risoe.dk/vea, DEFRA www.defra.gov.uk/environment/statistics,
-especially the book *Avoid-**ing Dangerous Climate Change* [dzcqq], the
-Pembina Institute www.pembina.org/publications.asp, and the DTI
-(nowknown as BERR) www.dti.gov.uk/publications/.
+16*there are many other helpful sources on the internet*. I recommend, for
+example: BP’s *Statistical Review of World**Energy* [yyxq2m], the Sustainable
+Development Commission www.sd-commission.org.uk, the Danish Wind Industry
+Association www.windpower.org, Environmentalists For Nuclear Energy
+www.ecolo.org, Wind Energy Department, Risø University www.risoe.dk/vea, DEFRA
+www.defra.gov.uk/environment/statistics, especially the book *Avoid-**ing
+Dangerous Climate Change* [dzcqq], the Pembina Institute
+www.pembina.org/publications.asp, and the DTI (now known as BERR)
+www.dti.gov.uk/publications/.
 
-17*factual assertions and ethical assertions*... Ethical assertions are
-also known as “normative claims” or “value judg-ments,” and factual
-assertions are known as “positive claims.” Ethical assertions usually
-contain verbs like “should”and “must,” or adjectives like “fair,”
-“right,” and “wrong.” For helpful further reading see Dessler and Parson
-(2006).
+17*factual assertions and ethical assertions*... Ethical assertions are also
+known as “normative claims” or “value judgments,” and factual assertions are
+known as “positive claims.” Ethical assertions usually contain verbs like
+“should”and “must,” or adjectives like “fair,” “right,” and “wrong.” For
+helpful further reading see Dessler and Parson (2006).
 
-18*Gordon Brown*. On 10th September, 2005, Gordon Brown said the high
-price of fuel posed a significant risk to theEuropean economy and to
-global growth, and urged OPEC to raise oil production. Again, six months
-later, hesaid “we need ... more production, more drilling, more
-investment, more petrochemical investment” (22nd April,2006) [y98ys5].
-Let me temper this criticism of Gordon Brown by praising one of his more
-recent initiatives, namelythe promotion of electric vehicles and plug-in
-hybrids. As you’ll see later, one of this book’s conclusions is
-thatelectrification of most transport is a good part of a plan for
-getting off fossil fuels.
+18*Gordon Brown*. On 10th September, 2005, Gordon Brown said the high price of
+fuel posed a significant risk to the European economy and to global growth, and
+urged OPEC to raise oil production. Again, six months later, he said “we need
+... more production, more drilling, more investment, more petrochemical
+investment” (22nd April,2006) [y98ys5].  Let me temper this criticism of Gordon
+Brown by praising one of his more recent initiatives, namely the promotion of
+electric vehicles and plug-in hybrids. As you’ll see later, one of this book’s
+conclusions is that electrification of most transport is a good part of a plan
+for getting off fossil fuels.
 
 2   The balance sheet {.lightblue}
 =====================
 
-> Nature cannot be fooledRichard Feynman
+> Nature cannot be fooled --- Richard Feynman
 
-Let’s talk about energy consumption and energy production. At the
-mo-ment, most of the energy the developed world consumes is produced
-fromfossil fuels; that’s not sustainable. Exactly how long we could keep
-liv-ing on fossil fuels is an interesting question, but it’s not the
-question we’lladdress in this book. I want to think about *living
-without fossil fuels*.
+Let’s talk about energy consumption and energy production. At the moment, most
+of the energy the developed world consumes is produced from fossil fuels;
+that’s not sustainable. Exactly how long we could keep living on fossil fuels
+is an interesting question, but it’s not the question we’ll address in this
+book. I want to think about *living without fossil fuels*.
 
 We’re going to make two stacks. In the left-hand, red stack we will
 addup our energy consumption, and in the right-hand, green stack, we’ll
