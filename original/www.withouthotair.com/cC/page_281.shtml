@@ -12,7 +12,7 @@
 </script><div id="header">
 
 <div id="leftheader">
-<span  style="font-family: helvetica, sans-serif;font-size:0.92em"><a href=http://www.withouthotair.com/Contents.html  style="color:black;text-decoration:none">Sustainable Energy - <font color="#ff0000">without the
+<span  style="font-family: helvetica, sans-serif;font-size:0.92em"><a href="../Contents.html"  style="color:black;text-decoration:none">Sustainable Energy - <font color="#ff0000">without the
 hot air</font> &nbsp;  &nbsp;  &nbsp;  &nbsp; David JC MacKay</a></span>
 </div>
 
@@ -32,7 +32,7 @@ writePages(ytop);
 <div id="textcol"><div><img style="margin:0em 0 0em 10em" src="E188-0-0-0-1.png" width="146" height="39" alt=""></div>
 <div class="eqref" style="margin-top:-3.6em">(C.37)</div>
 <p>That&rsquo;s a rather nice result! The gross transport cost of this idealized<br>
-airship depends only<a href=http://www.withouthotair.com/Errata.html#281><font style="color:blue"><sup><abbr title="See errata"><b>E</b></abbr></sup></font></a> its speed <em>v</em> and length <em>L</em>, not on the density <em>&rho;</em> of the<br>
+airship depends only<a href="../Errata.html#281"><font style="color:blue"><sup><abbr title="See errata"><b>E</b></abbr></sup></font></a> its speed <em>v</em> and length <em>L</em>, not on the density <em>&rho;</em> of the<br>
 air, nor on the airship&rsquo;s frontal area <em>A</em>.<br></p>
 <p>This cartoon also applies without modification to submarines. The<br>
 gross transport cost (in kWh per ton-km) of an airship is just the same<br>

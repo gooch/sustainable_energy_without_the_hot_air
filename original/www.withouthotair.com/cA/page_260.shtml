@@ -12,7 +12,7 @@
 </script><div id="header">
 
 <div id="leftheader">
-<span  style="font-family: helvetica, sans-serif;font-size:0.92em"><a href=http://www.withouthotair.com/Contents.html  style="color:black;text-decoration:none">Sustainable Energy - <font color="#ff0000">without the
+<span  style="font-family: helvetica, sans-serif;font-size:0.92em"><a href="../Contents.html"  style="color:black;text-decoration:none">Sustainable Energy - <font color="#ff0000">without the
 hot air</font> &nbsp;  &nbsp;  &nbsp;  &nbsp; David JC MacKay</a></span>
 </div>
 
@@ -33,7 +33,7 @@ writePages(ytop);
 <p class="first">given by</p>
 <div><img style="margin:0em 0 0em 13em" src="E114.png" width="129" height="40" alt=""></div>
 <p class="first">that is,</p>
-<div><img style="margin:0em 0 0.5em 7em" src="E115.png" width="287" height="52" alt=""><a href=http://www.withouthotair.com/Errata.html#260><font style="color:blue"><sup><abbr title="See errata"><b>E</b></abbr></sup></font></a></div>
+<div><img style="margin:0em 0 0.5em 7em" src="E115.png" width="287" height="52" alt=""><a href="../Errata.html#260"><font style="color:blue"><sup><abbr title="See errata"><b>E</b></abbr></sup></font></a></div>
 <p class="first"><em>Bicycles</em></p>
 <br>
 <p class="first">For a bicycle (<em>m</em> = 90 kg, <em>A</em>= 0.75 m<sup>2</sup>), the transition from rolling-resist-<br>

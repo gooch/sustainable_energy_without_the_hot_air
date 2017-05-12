@@ -12,7 +12,7 @@
 </script><div id="header">
 
 <div id="leftheader">
-<span  style="font-family: helvetica, sans-serif;font-size:0.92em"><a href=http://www.withouthotair.com/Contents.html  style="color:black;text-decoration:none">Sustainable Energy - <font color="#ff0000">without the
+<span  style="font-family: helvetica, sans-serif;font-size:0.92em"><a href="../Contents.html"  style="color:black;text-decoration:none">Sustainable Energy - <font color="#ff0000">without the
 hot air</font> &nbsp;  &nbsp;  &nbsp;  &nbsp; David JC MacKay</a></span>
 </div>
 
@@ -31,7 +31,7 @@ writePages(ytop);
 </div>
 <div id="textcol"><img style="margin:6em 0 0em 0" src="figure291.png" width="679" height="636" alt="">
 <div class="imgcap" style="top:5em">
-<div class="sidebarcaption"><span class="figurenumber">Figure E.12.</span> Building benchmarks. Power used per unit area in various homes and offices.<a href=http://www.withouthotair.com/Errata.html#299><font style="color:blue"><sup><abbr title="See errata"><b>E</b></abbr></sup></font></a></div>
+<div class="sidebarcaption"><span class="figurenumber">Figure E.12.</span> Building benchmarks. Power used per unit area in various homes and offices.<a href="../Errata.html#299"><font style="color:blue"><sup><abbr title="See errata"><b>E</b></abbr></sup></font></a></div>
 </div>
 </div>
 <!-- textcol -->

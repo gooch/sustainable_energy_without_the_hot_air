@@ -45,7 +45,7 @@ table#p342B tr+tr td{
 </script><div id="header">
 
 <div id="leftheader">
-<span  style="font-family: helvetica, sans-serif;font-size:0.92em"><a href=http://www.withouthotair.com/Contents.html  style="color:black;text-decoration:none">Sustainable Energy - <font color="#ff0000">without the
+<span  style="font-family: helvetica, sans-serif;font-size:0.92em"><a href="../Contents.html"  style="color:black;text-decoration:none">Sustainable Energy - <font color="#ff0000">without the
 hot air</font> &nbsp;  &nbsp;  &nbsp;  &nbsp; David JC MacKay</a></span>
 </div>
 
@@ -113,8 +113,8 @@ writePages(ytop);
 <td>0.8</td>
 </tr>
 </table>
-<div><img style="margin:0em 0 2em 0" src="http://withouthotair.com/cL/figure316.png" width="429" height="222" alt=""></div>
-<div><img style="margin:0em 0 4em 5em" src="http://withouthotair.com/cL/figure317.png" width="275" height="187" alt=""></div>
+<div><img style="margin:0em 0 2em 0" src="http://www.withouthotair.com/cL/figure316.png" width="429" height="222" alt=""></div>
+<div><img style="margin:0em 0 4em 5em" src="http://www.withouthotair.com/cL/figure317.png" width="275" height="187" alt=""></div>
 <table class="framed" id="p342B" summary="">
 <tr>
 <th>&nbsp;</th>

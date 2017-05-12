@@ -1,0 +1,360 @@
+body{
+	font-family: Georgia,"Times New Roman",serif;
+	font-size: 0.875em;
+	line-height:130%;
+	white-space:nowrap;
+}
+#container {
+	position:relative;	
+	width: 55em;
+	height:73em;
+	margin:0px 0 50px 0px;
+	padding:0 0 0px 65px;
+	border-top: 2px none 2px none;
+	border-style: solid none solid none;
+	border-color: silver silver;
+	/*background:#ffd700;*/
+}
+#bottomlesscontainer {
+	position:relative;	
+	width: 55em;
+	height:73em;
+	margin:0px 0 50px 0px;
+	padding:0 0 0px 65px;
+	border-top: 2px none 2px none;
+	border-style: solid none none none;
+	border-color: silver silver;
+	/*background:#ffd700;*/
+}
+#textcol{
+	position:relative;
+	margin:60px 0 0 0;
+}
+#page_sidebar {
+	/*position: absolute;
+	right: 0px;
+	width: 18.57em;
+	top:60px; /*should be same as textcol margin-top*/
+	bottom:0px;
+	white-space: normal;*/
+	/*z-index:-1;*/
+	/*background: fuchsia;*/
+}
+#book_sidebar {
+	position: absolute;
+	left:60em;
+	width: 12.14em;
+	top:-2.75em;
+	/*bottom:4px;*/
+/*	background: #b0c5e6; */
+ 	background: #b0e0e6;
+	white-space: normal;
+}
+dl{
+    white-space:normal;
+    text-align: left;
+    margin: 0px;
+    margin-right: 0px;
+    padding: 0px;
+    text-indent: 0px;
+    width:50em;
+    }
+dd{
+    margin: 2px;
+     white-space:normal;
+    text-align: left;
+    margin-left: 25px;
+padding: 0px 0 0px 0;
+margin-right: 10px;
+    text-indent: 0px;
+    }
+blockquote{
+	font-style:italic;
+	width:28em;
+	margin-left:2em;
+	white-space:normal;
+}
+h1+blockquote{
+	text-align:left;
+}
+blockquote p{
+	text-indent: 0;
+	margin-bottom:1em;
+}
+cite{
+	display:block;
+	text-align:right;
+	font-style:normal;
+	margin-top:0.5em;
+}
+h1 { 
+	font-size: 2em; font-style: italic;  font-weight:normal;
+	padding:0 0 10px 0;
+}
+p {
+	text-align: left;
+	margin: 0px;
+	padding: 0px;
+	text-indent: 20px;
+}
+p.first{ text-indent: 0px; }
+#header{
+	position:relative;
+	width:55em;
+	left:65px;
+	top:0px;
+}
+#leftheader{
+	float:left;
+	margin-top:10px;
+}
+#rightheader{
+	float:right;
+	width:20em;
+}
+*.float-divider { clear:both; display:block; 
+                  height:1px; font-size:1px; line-height:1px; }
+#groupread {
+	float:left;
+	color: #1e90ff;
+	font-size:0.86em;
+	line-height: 130%;
+}
+#groupreadimage{
+	float:right;
+}
+#contentslink{
+	position:absolute;
+	top:12px;
+	right:1em;
+	color:#392e90;
+}
+.websitetitle {
+	font-family: "Courier New", Courier; /*Chrome doesn't like monospace*/
+}
+ol li{
+	margin-bottom:15px;
+}
+.figurenumber { font-family: "Arial"; font-size: 1em; }
+
+.sidebarcaption{
+	position:absolute;
+	top:0;
+	left:43.9em;
+	font-size:0.82em;
+	line-height: 135%;
+	white-space:normal;
+	width:19em;
+}
+.sidebarcaption p{
+	text-indent:0px;
+	margin-bottom:0.71em;
+}
+
+/*div class for image and caption in the page sidebar*/
+.imgcap{
+	position:absolute;
+	top:0;
+	left:36em;
+	white-space:normal;
+}
+
+/*caption below an image in the page sidebar*/
+.imgcap .sidebarcaption {
+	position:relative;
+	left:0;
+	padding-top:10px;
+}
+
+h2{
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 1.14em; 
+	font-weight: bold; 
+	margin:25px 0 15px 0;
+}
+/*heading*/
+.lightblue{ color: #006491; }
+/*text*/
+.darkblue{color:#392e90;}
+/*heading, text*/
+.green {	color: #357e36;}
+/*heading, text*/
+.red { color: #ec2b26; } 
+/*text*/
+.mauve{ color: #a35388; } 
+/*endnote*/
+.darkred {color:#a73a23;}
+h3{
+	font-size: 1.14em;
+	font-style: italic;
+	font-weight:normal;
+	margin:20px 0 10px 0;
+}
+h4{
+	font-style:italic;
+	font-weight:bold;
+	font-size: 1em;
+	margin-top:20px;
+	margin-bottom:0;
+}
+h5{
+	font-size: 1em;
+	font-style: italic;
+	font-weight:normal;
+	margin:20px 0 10px 0;
+}
+.endnote{
+	font-size:0.86em;
+}
+.endnote p {
+	text-indent: 0px;
+	margin:12px 0 0 0;
+}
+.endnote .notes p{
+	margin-left:30px;
+	line-height: 130%;
+}
+/* outdent */
+.endnote .notes p.nomargin{
+	text-indent: -30px;
+}
+span.rpad{
+	padding-right:15px;
+}
+.mark{
+	float:left;
+	margin-left:-30px;
+	width:30px;
+	color:#a50000;/*dark red*/
+}
+.tinylink{
+	font-family:"Courier New", Courier;
+}
+/*line-height:0 removes uneven line spacing*/
+sup { vertical-align: 0.8ex; font-size:85%; line-height:0}
+sub { vertical-align: -0.6ex; font-size:95%; line-height:0}
+
+.equation{
+	width:30em;
+	text-align:center;
+	margin:10px 0 10px 0;
+}
+/*symbol &cong;*/
+.cong{
+	font-family: "Palatino Linotype","Lucida Sans Unicode";
+}
+.fontstyle-normal{
+	font-style: normal;
+}
+img{
+	border: 0;
+}
+table.fraction {
+	text-align: center;
+	vertical-align: middle;
+	margin: 0.5em 0 0.5em 2em;
+	line-height: 12px;
+	padding:0;
+	
+}
+table.fraction td{
+	padding: 2px;
+	white-space:nowrap;
+}
+/* table for fractions */
+td.upper_line { border-top: solid 1px black; }
+.sidebartable{
+	width:16em;
+}
+table.framed{
+	border-collapse:collapse;
+}
+table.framed th{
+	border-top:2px solid #000;
+	border-bottom:1px solid #000;
+	padding:2px 6px 2px 6px;
+	font-weight: normal;
+}
+table.framed td {
+	border:0;
+	padding:2px 6px 2px 6px;
+}
+table.framed tr.top td{
+	border-top:2px solid #000;
+}
+table.framed tr.thinbottom td{
+	border-bottom:1px solid #000;
+	padding:2px 6px 4px 6px;
+}
+table.framed tr.bottom td{
+	border-bottom:2px solid #000;
+	padding:2px 6px 4px 6px;
+}
+table.framed td.bottom{
+	border-bottom:2px solid #000;
+}
+table.layout{
+	table-layout: auto;
+	width: auto;
+}
+
+/*value col*/
+td.vc{
+	text-align:right;
+}
+.indent{
+	padding-left:15px;
+}
+/*label col*/
+td.lc{
+	text-align:left;
+}
+table.size1{
+	font-size: 0.85em;
+	line-height: 120%;
+}
+
+.above, .below { 
+	font-size: 75%;
+   font-family: Verdana, Arial, sans-serif; 
+	line-height:0;
+}
+.above { vertical-align: 0.7ex; }
+.below { vertical-align: -0.3ex; }
+a {text-decoration: none;}
+p.hi{
+	text-indent:-3em;
+	padding-left:3em;
+	margin-top:1em;
+	margin-bottom:1em;
+}
+p.indent{
+	text-indent: 0;
+	padding-left:3em;
+	margin-top:20px;
+}
+p.indent .leadin{
+	float:left;
+	margin-left:-3em;
+	width:3em;
+	font-weight:bold;
+}
+p.centrespaced{
+	width:400px;
+	text-align: center;
+	margin:12px 0 12px 0;
+}
+p.noteoutdent{
+	text-indent:-30px;
+}
+.smallsub{
+  font-size:0.8em;
+}
+.eqref{
+	position:relative;
+	float:right;
+	margin:-2.5em 22em 0 0;	
+}
+.overline{
+	text-decoration: overline;
+}

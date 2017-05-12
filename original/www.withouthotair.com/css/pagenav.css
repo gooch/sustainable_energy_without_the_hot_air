@@ -1,0 +1,47 @@
+/* Page Numbers */
+.pages {
+	position:absolute;
+	font: 83%/1.4 arial, helvetica, sans-serif;
+   padding: 5px;
+   margin: 4px 0 0 0;
+   clear: left;
+   font-size: 83%;
+ 	background-color: #b0e0e6;
+	width: 65.46em;
+}
+
+.pages a, .pages span {
+	color:#003366;
+	display: block;
+	float: left;
+	padding: 0.2em 0.5em;
+	margin-right: 0.1em;
+	border: 1px solid #fff;
+	background: #fff;
+}
+
+.pages span.current {
+	border: 1px solid #2E6AB1;
+	font-weight: bold;
+	background: #2E6AB1;
+	color: #fff;
+}
+
+.pages a {
+	border: 1px solid #9AAFE5;
+	text-decoration: none;
+}
+
+.pages a:hover {
+	border-color: #2E6AB1;
+}
+
+.pages a.nextprev {
+	font-weight: bold;
+}
+
+.pages span.nextprev {
+	border: 1px solid #ddd;
+   color: #999;
+}
+

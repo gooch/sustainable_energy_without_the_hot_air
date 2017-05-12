@@ -12,7 +12,7 @@
 </script><div id="header">
 
 <div id="leftheader">
-<span  style="font-family: helvetica, sans-serif;font-size:0.92em"><a href=http://www.withouthotair.com/Contents.html  style="color:black;text-decoration:none">Sustainable Energy - <font color="#ff0000">without the
+<span  style="font-family: helvetica, sans-serif;font-size:0.92em"><a href="../Contents.html"  style="color:black;text-decoration:none">Sustainable Energy - <font color="#ff0000">without the
 hot air</font> &nbsp;  &nbsp;  &nbsp;  &nbsp; David JC MacKay</a></span>
 </div>
 
@@ -33,7 +33,7 @@ writePages(ytop);
 <div class="endnote">
 <div class="notes">
 <p>in the UK is 24 kWh/d per person,&rdquo; I bet some people would misunderstand<br />
-and say: &ldquo;I&rsquo;m a car driver so I guess I use 24 kWh/d.&rdquo;<a href=http://www.withouthotair.com/Errata.html#31><font style="color:blue"><sup><abbr title="See errata"><b>E</b></abbr></sup></font></a><br /></p>
+and say: &ldquo;I&rsquo;m a car driver so I guess I use 24 kWh/d.&rdquo;<a href="../Errata.html#31"><font style="color:blue"><sup><abbr title="See errata"><b>E</b></abbr></sup></font></a><br /></p>
 <p><span class="mark">29</span><em class="darkred">... let&rsquo;s use 33 miles per UK gallon.</em> In the European language, this is 8.6 litres<br />
 per 100 km. 33 miles per gallon was the average for UK cars in 2005 [<span class="tinylink">27jdc5</span>].<br />
 Petrol cars have an average fuel consumption of 31 mpg; diesel cars, 39 mpg;<br />

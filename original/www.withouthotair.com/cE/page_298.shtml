@@ -12,7 +12,7 @@
 </script><div id="header">
 
 <div id="leftheader">
-<span  style="font-family: helvetica, sans-serif;font-size:0.92em"><a href=http://www.withouthotair.com/Contents.html  style="color:black;text-decoration:none">Sustainable Energy - <font color="#ff0000">without the
+<span  style="font-family: helvetica, sans-serif;font-size:0.92em"><a href="../Contents.html"  style="color:black;text-decoration:none">Sustainable Energy - <font color="#ff0000">without the
 hot air</font> &nbsp;  &nbsp;  &nbsp;  &nbsp; David JC MacKay</a></span>
 </div>
 
@@ -30,7 +30,7 @@ writePages(ytop);
 <a href="../sewthacontents.shtml" ><strong>Contents</strong></a>
 </div>
 <div id="textcol">
-<p class="first">age power per unit area, that&rsquo;s <span class="red">6.6 W/m<sup>2</sup></span>.<a href=http://www.withouthotair.com/Errata.html#298><font style="color:blue"><sup><abbr title="See errata"><b>E</b></abbr></sup></font></a><br></p>
+<p class="first">age power per unit area, that&rsquo;s <span class="red">6.6 W/m<sup>2</sup></span>.<a href="../Errata.html#298"><font style="color:blue"><sup><abbr title="See errata"><b>E</b></abbr></sup></font></a><br></p>
 <p>Figure E.12 compares the power consumption per unit area of this<br>
 Heatkeeper house with my house (before and after my efficiency push)<br>
 and with the European average. My house&rsquo;s post-efficiency-push con-<br>
