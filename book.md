@@ -752,29 +752,28 @@ homes” and “only reducing emissions by about 4%” are the same thing.
 
 ![Do nothing - cartoon ](DoNothing5M.jpg)
 
-*“Okay – it’s agreed; we announce– ‘to do nothing is not an option!’then
-we wait and see how thingspan out...”*
+*“Okay – it’s agreed; we announce– ‘to do nothing is not an option!’ then we
+wait and see how things pan out...”*
 
-Figure 1.11. Reproduced by kindpermission of PRIVATE EYE / PaulLowe
+Figure 1.11. Reproduced by kind permission of PRIVATE EYE / Paul Lowe
 www.private-eye.co.uk.
 
 
-4*“water-powered car”* *New Scientist*, 29th July 2006, p.35. This
-article, headlined “Water-powered car might be availableby 2009,” opened
-thus:“Forget cars fuelled by alcohol and vegetable oil. Before long, you
-might be able to run your car with nothing morethan water in its fuel
-tank. It would be the ultimate zero-emissions vehicle.“While water is
-not at first sight an obvious power source, it has a key virtue: it is an
-abundant source of hydrogen,the element widely touted as the green fuel
-of the future.”The work *New Scientist* was describing was not
-ridiculous – it was actually about a car using *boron* as a fuel, with
-aboron/water reaction as one of the first chemical steps. Why did *New
-Scientist* feel the urge to turn this into a storysuggesting that water
-was the fuel? Water is not a fuel. It never has been, and it never will
-be. It is already burned!The first law of thermodynamics says you can’t
-get energy for nothing; you can only convert energy from one formto
-another. The energy in any engine must come from somewhere. Fox News
-peddled an even more absurd story[2fztd3].
+4*“water-powered car”* *New Scientist*, 29th July 2006, p.35. This article,
+headlined “Water-powered car might be available by 2009,” opened thus:“Forget
+cars fuelled by alcohol and vegetable oil. Before long, you might be able to
+run your car with nothing more than water in its fuel tank. It would be the
+ultimate zero-emissions vehicle.“While water is not at first sight an obvious
+power source, it has a key virtue: it is an abundant source of hydrogen,the
+element widely touted as the green fuel of the future.”The work *New Scientist*
+was describing was not ridiculous – it was actually about a car using *boron*
+as a fuel, with a boron/water reaction as one of the first chemical steps. Why
+did *New Scientist* feel the urge to turn this into a story suggesting that
+water was the fuel? Water is not a fuel. It never has been, and it never will
+be. It is already burned! The first law of thermodynamics says you can’t get
+energy for nothing; you can only convert energy from one form to another. The
+energy in any engine must come from somewhere. Fox News peddled an even more
+absurd story[2fztd3].
 
 –*Climate change is a far greater threat to the world than international
 terrorism.* Sir David King, Chief Scientific Advisorto the UK government,
