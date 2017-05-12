@@ -137,10 +137,11 @@ power all UK homes” is *exactly the same* as the amount that would be generate
 by the 10 nuclear power stations! “Powering all UK homes” accounts for just 4%
 of UK emissions.
 
-Perhaps the worst offenders in the kingdom of codswallop are the peo-ple
-who really should know better – the media publishers who promotethe
-codswallop – for example, New Scientist with their article about
-the “water-powered car.” \*
+Perhaps the worst offenders in the kingdom of codswallop are the people who
+really should know better – the media publishers who promote the codswallop –
+for example, New Scientist with their article about the “water-powered
+car.”^[See this chapter’s notes (p19) for the awful details. (Every chapter has
+endnotes giving references, sources, and details of arguments.]
 
 In a climate where people don’t understand the numbers,
 newspapers, campaigners, companies, and politicians can get away with
@@ -169,10 +170,6 @@ as these:
 7.  Should people be encouraged to eat more vegetarian food?
 8.  Is the population of the earth six times too big?
 
-\*See this chapter’s notes (p19) for theawful details. (Every chapter
-has endnotes giving references, sources, and details of arguments. To
-avoid distracting the reader, I won’t includeany more footnote marks in
-the text.)
 
 ![Greenpeace leaflet](figure3.png)
 
