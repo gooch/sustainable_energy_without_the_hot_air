@@ -10,3 +10,8 @@ documentclass: book
 to those who will not have the benefit of two billion years' accumulated
 energy reserves
 
+```{r build function}
+make <- function(){
+  bookdown::render_book("book.Rmd", output_format = "bookdown::gitbook")
+}
+```
