@@ -1000,33 +1000,29 @@ The outcome when we add everything up might look like this:
 
 ![](figure326.png)
 
-If we find consumption is much less than conceivable sustainable
-pro-duction, then we can say “good, *maybe* we can live sustainably;
-let’s lookinto the economic, social, and environmental costs of the
-sustainable al-ternatives, and figure out which of them deserve the most
-research anddevelopment; if we do a good job, there *might* not be an
-energy crisis.”
+If we find consumption is much less than conceivable sustainable production,
+then we can say “good, *maybe* we can live sustainably; let’s look into the
+economic, social, and environmental costs of the sustainable alternatives, and
+figure out which of them deserve the most research and development; if we do a
+good job, there *might* not be an energy crisis.”
 
 On the other hand, the outcome of our sums might look like this:
 
 ![](figure327.png)
 
 – a much bleaker picture. This picture says “it doesn’t matter what the
-
-economics of sustainable power are: there’s simply *not enough*
-sustainablepower to support our current lifestyle; massive change is
-coming.”
+economics of sustainable power are: there’s simply *not enough* sustainable
+power to support our current lifestyle; massive change is coming.”
 
 Energy and power
 ----------------
 
-Most discussions of energy consumption and production are
-confusingbecause of the proliferation of *units*in which energy and
-power are mea-sured, from “tons of oil equivalent” to “terawatt-hours”
-(TWh) and “exa-joules” (EJ). Nobody but a specialist has a feeling for
-what “a barrel of oil”or “a million BTUs” means in human terms. In this
-book, we’ll expresseverything in a single set of personal units that
-everyone can relate to.
+Most discussions of energy consumption and production are confusing because of
+the proliferation of *units*in which energy and power are measured, from “tons
+of oil equivalent” to “terawatt-hours” (TWh) and “exa-joules” (EJ). Nobody but
+a specialist has a feeling for what “a barrel of oil”or “a million BTUs” means
+in human terms. In this book, we’ll express everything in a single set of
+personal units that everyone can relate to.
 
 The unit of **energy** I have chosen is the kilowatt-hour (kWh).
 Thisquantity is called “one unit” on electricity bills, and it costs a
