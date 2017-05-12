@@ -814,89 +814,83 @@ to our progress must become perceptible within a century from the present time.
 is a thing of limited duration.” Jevons was right. Within a century British
 coal production indeed peaked, and there were two world wars.
 
-8*Dominic Lawson, a columnist from the Independent*. My quote is
-adaptedfrom Dominic Lawson’s column in the *Independent*, 8 June,
-2007.It is not a verbatim quote: I edited his words to make them briefer
-but tookcare not to correct any of his errors. *All three numbers he
-mentions are in-**correct*. Here’s how he screwed up. First, he says
-“carbon dioxide” but givesnumbers for carbon: the burning of fossil
-fuels sends *26* gigatonnes of CO~2~per year into the atmosphere (not 7
-gigatonnes). A common mistake. Sec-ond, he claims that the oceans send
-36000 gigatonnes of carbon per yearinto the atmosphere. This is a far
-worse error: 36000 gigatonnes is the *totalamount* of carbon in the
-ocean! The annual *flow* is much smaller – about 90 gi-gatonnes of carbon
-per year (330 GtCO~2~/y), according to standard diagramsof the carbon
-cycle [l6y5g] (I believe this 90 GtC/y is the estimated flowrate, were
-the atmosphere suddenly to have its CO~2~ concentration reducedto zero.)
-Similarly his “1900 gigatonne” flow from biosphere to atmosphereis wrong.
-The correct figure according to the standard diagrams is about
-120gigatonnes of carbon per year (440 Gt CO~2~/y).
+8*Dominic Lawson, a columnist from the Independent*. My quote is adapted from
+Dominic Lawson’s column in the *Independent*, 8 June, 2007.It is not a verbatim
+quote: I edited his words to make them briefer but took care not to correct any
+of his errors. *All three numbers he mentions are in-**correct*. Here’s how he
+screwed up. First, he says “carbon dioxide” but gives numbers for carbon: the
+burning of fossil fuels sends *26* gigatonnes of CO~2~per year into the
+atmosphere (not 7 gigatonnes). A common mistake. Second, he claims that the
+oceans send 36000 gigatonnes of carbon per year into the atmosphere. This is a
+far worse error: 36000 gigatonnes is the *totalamount* of carbon in the ocean!
+The annual *flow* is much smaller – about 90 gigatonnes of carbon per year (330
+GtCO~2~/y), according to standard diagrams of the carbon cycle [l6y5g] (I
+believe this 90 GtC/y is the estimated flowrate, were the atmosphere suddenly
+to have its CO~2~ concentration reducedto zero.) Similarly his “1900 gigatonne”
+flow from biosphere to atmosphere is wrong.  The correct figure according to
+the standard diagrams is about 120 gigatonnes of carbon per year (440 Gt
+CO~2~/y).
 
-Incidentally, the observed rise in CO~2~ concentration is nicely in line
-with what you’d expect, assuming most of thehuman emissions of carbon
-remained in the atmosphere. From 1715 to 2004, roughly 1160 GtCO~2~ have
-been releasedto the atmosphere from the consumption of fossil fuels and
-cement production (Marland et al., 2007). If *all* of this CO~2~had
-stayed in the atmosphere, the concentration would have risen by 160ppm
-(from 280 to 440 ppm). The actual risehas been about 100ppm (from 275 to
-377ppm). So roughly 60% of what was emitted is now in the atmosphere.
+Incidentally, the observed rise in CO~2~ concentration is nicely in line with
+what you’d expect, assuming most of the human emissions of carbon remained in
+the atmosphere. From 1715 to 2004, roughly 1160 GtCO~2~ have been released to
+the atmosphere from the consumption of fossil fuels and cement production
+(Marland et al., 2007). If *all* of this CO~2~had stayed in the atmosphere, the
+concentration would have risen by 160ppm (from 280 to 440 ppm). The actual rise
+has been about 100ppm (from 275 to 377ppm). So roughly 60% of what was emitted
+is now in the atmosphere.
 
-10*Carbon dioxide has a warming effect*. The over-emotional debate about
-this topic is getting quite tiresome, isn’t it?“The science is now
-settled.” “No it isn’t!” “Yes it is!” I think the most helpful thing I
-can do here is direct anyonewho wants a break from the shouting to a
-brief report written by Charney et al. (1979). This report’s
-conclusionscarry weight because the National Academy of Sciences (the US
-equivalent of the Royal Society) commissioned thereport and selected its
-authors on the basis of their expertise, “and with regard for
-appropriate balance.” The studygroup was convened “under the auspices of
-the Climate Research Board of the National Research Council to assessthe
-scientific basis for projection of possible future climatic changes
-resulting from man-made releases of carbondioxide into the atmosphere.”
-Specifically, they were asked: “to identify the principal premises on
-which our currentunderstanding of the question is based, to assess
-quantitatively the adequacy and uncertainty of our knowledge ofthese
-factors and processes, and to summarize in concise and objective terms
-our best present understanding of thecarbon dioxide/climate issue for
-the benefit of policy-makers.”The report is just 33 pages long, it is
-free to download [5qfkaw], and I recommend it. It makes clear which bits
-of thescience were already settled in 1979, and which bits still had
-uncertainty.Here are the main points I picked up from this report.
-First, doubling the atmospheric CO~2~ concentration wouldchange the net
-heating of the troposphere, oceans, and land by an average power per
-unit area of roughly 4 W/m^2^,if all other properties of the atmosphere
-remained unchanged. This heating effect can be compared with the
-averagepower absorbed by the atmosphere, land, and oceans, which is 238
-W/m^2^. So doubling CO~2~ concentrations wouldhave a warming effect
-equivalent to increasing the intensity of the sun by 4/238 = 1.7%.
-Second, the consequencesof this CO~2~-induced heating are hard to
-predict, on account of the complexity of the atmosphere/ocean system,
-butthe authors predicted a global surface warming of between 2°C and
-3.5°C, with greater increases at high latitudes.Finally, the authors
-summarize: “we have tried but have been unable to find any overlooked or
-underestimatedphysical effects that could reduce the currently estimated
-global warmings due to a doubling of atmospheric CO~2~ tonegligible
-proportions or reverse them altogether.” They warn that, thanks to the
-ocean, “the great and ponderousflywheel of the global climate system,” it
-is quite possible that the warming would occur sufficiently sluggishly
-that it
+10*Carbon dioxide has a warming effect*. The over-emotional debate about this
+topic is getting quite tiresome, isn’t it? “The science is now settled.” “No it
+isn’t!” “Yes it is!” I think the most helpful thing I can do here is direct
+anyone who wants a break from the shouting to a brief report written by Charney
+et al. (1979). This report’s conclusions carry weight because the National
+Academy of Sciences (the US equivalent of the Royal Society) commissioned the
+report and selected its authors on the basis of their expertise, “and with
+regard for appropriate balance.” The study group was convened “under the
+auspices of the Climate Research Board of the National Research Council to
+assess the scientific basis for projection of possible future climatic changes
+resulting from man-made releases of carbon dioxide into the atmosphere.”
+Specifically, they were asked: “to identify the principal premises on which our
+current understanding of the question is based, to assess quantitatively the
+adequacy and uncertainty of our knowledge of these factors and processes, and
+to summarize in concise and objective terms our best present understanding of
+the carbon dioxide/climate issue for the benefit of policy-makers.”The report
+is just 33 pages long, it is free to download [5qfkaw], and I recommend it. It
+makes clear which bits of the science were already settled in 1979, and which
+bits still had uncertainty. Here are the main points I picked up from this
+report.  First, doubling the atmospheric CO~2~ concentration would change the
+net heating of the troposphere, oceans, and land by an average power per unit
+area of roughly 4 W/m^2^,if all other properties of the atmosphere remained
+unchanged. This heating effect can be compared with the average power absorbed
+by the atmosphere, land, and oceans, which is 238 W/m^2^. So doubling CO~2~
+concentrations would have a warming effect equivalent to increasing the
+intensity of the sun by 4/238 = 1.7%.  Second, the consequences of this
+CO~2~-induced heating are hard to predict, on account of the complexity of the
+atmosphere/ocean system, but the authors predicted a global surface warming of
+between 2°C and 3.5°C, with greater increases at high latitudes. Finally, the
+authors summarize: “we have tried but have been unable to find any overlooked
+or underestimated physical effects that could reduce the currently estimated
+global warmings due to a doubling of atmospheric CO~2~ to negligible
+proportions or reverse them altogether.” They warn that, thanks to the ocean,
+“the great and ponderous flywheel of the global climate system,” it is quite
+possible that the warming would occur sufficiently sluggishly that it would be
+difficult to detect in the coming decades. Nevertheless “warming will
+eventually occur, and the associated regional climatic changes ...  may well be
+significant.” The foreword by the chairman of the Climate Research Board,
+Verner E. Suomi, summarizes the conclusions with a famous cascade of double
+negatives.  “If carbon dioxide continues to increase, the study group finds no
+reason to doubt that climate changes will result and no reason to believe that
+these changes will be negligible.”
 
 ![Weights of carbon atom and CO2 molecule](figure245.png)
 
-The weights of an atom of carbon and amolecule of CO~2~ are in the ratio
-12 to 44,because the carbon atom weighs 12 unitsand the two oxygen atoms
-weigh 16 each.12 + 16 + 16 = 44.
+The weights of an atom of carbon and a molecule of CO~2~ are in the ratio 12 to
+44, because the carbon atom weighs 12 units and the two oxygen atoms weigh 16
+each. 12 + 16 + 16 = 44.
 
-would be difficult to detect in the coming decades. Nevertheless “warming
-will eventually occur, and the associatedregional climatic changes ...
-may well be significant.”The foreword by the chairman of the Climate
-Research Board, Verner E. Suomi, summarizes the conclusions with afamous
-cascade of double negatives. “If carbon dioxide continues to increase,
-the study group finds no reason to doubtthat climate changes will result
-and no reason to believe that these changes will be negligible.”
-
-10*The litany of probable drastic effects of climate change – I’m sure
-you’ve heard it before*. See [2z2xg7] if not.
+10*The litany of probable drastic effects of climate change – I’m sure you’ve
+heard it before*. See [2z2xg7] if not.
 
 12*Breakdown of world greenhouse gas emissions by region and by
 country*. Data source: Climate Analysis IndicatorsTool (CAIT) Version
