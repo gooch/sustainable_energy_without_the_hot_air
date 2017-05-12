@@ -459,47 +459,42 @@ billion) and whose height is the per-capita emissions.
 
 ![Greenhouse gas pollution](figure9.png)
 
-Now, all people are created equal, but we don’t all emit 5½ tons of
-CO~2~per year. We can break down the emissions of the year 2000, showing
-howthe 34-billion-ton rectangle is shared between the regions of the
-world:
+Now, all people are created equal, but we don’t all emit 5½ tons of CO~2~per
+year. We can break down the emissions of the year 2000, showing how the
+34-billion-ton rectangle is shared between the regions of the world:
 
 ![Greenhouse gas pollution](figure10.png)
 
-This picture, which is on the same scale as the previous one, divides
-theworld into eight regions. Each rectangle’s area represents the
-greenhousegas emissions of one region. The width of the rectangle is the
-populationof the region, and the height is the average per-capita
-emissions in thatregion.
+This picture, which is on the same scale as the previous one, divides the world
+into eight regions. Each rectangle’s area represents the greenhouse gas
+emissions of one region. The width of the rectangle is the population of the
+region, and the height is the average per-capita emissions in that region.
 
-In the year 2000, Europe’s per-capita greenhouse gas emissions weretwice
-the world average; and North America’s were four times the worldaverage.
+In the year 2000, Europe’s per-capita greenhouse gas emissions were twice the
+world average; and North America’s were four times the world average.
 
-We can continue subdividing, splitting each of the regions into
-coun-tries. This is where it gets really interesting:
+We can continue subdividing, splitting each of the regions into countries. This
+is where it gets really interesting:
 
 ![Greenhouse gas pollution](figure11.png)
 
-The major countries with the biggest per-capita emissions are
-Australia,the USA, and Canada. European countries, Japan, and South
-Africa arenotable runners up. Among European countries, the United
-Kingdomis resolutely average. What about China, that naughty “out of
-control”country? Yes, the area of China’s rectangle is about the same as
-the USA’s,but the fact is that their per-capita emissions are *below*
-the world average.India’s per-capita emissions are less than *half* the
-world average. Moreover,it’s worth bearing in mind that much of the
-industrial emissions of Chinaand India are associated with the
-manufacture of *stuff for rich countries.*
+The major countries with the biggest per-capita emissions are Australia,the
+USA, and Canada. European countries, Japan, and South Africa are notable
+runners up. Among European countries, the United Kingdom is resolutely average.
+What about China, that naughty “out of control”country? Yes, the area of
+China’s rectangle is about the same as the USA’s,but the fact is that their
+per-capita emissions are *below* the world average.India’s per-capita emissions
+are less than *half* the world average. Moreover,it’s worth bearing in mind
+that much of the industrial emissions of China and India are associated with
+the manufacture of *stuff for rich countries.*
 
-So, assuming that “something needs to be done” to reduce greenhousegas
-emissions, who has a special responsibility to do something? As Isaid,
-that’s an ethical question. But I find it hard to imagine any systemof
-ethics that denies that the responsibility falls especially on the
-countries
-
-to the left hand side of this diagram – the countries whose emissions
-aretwo, three, or four times the world average. Countries that are most
-ableto pay. Countries like Britain and the USA, for example.
+So, assuming that “something needs to be done” to reduce greenhouse gas
+emissions, who has a special responsibility to do something? As I said, that’s
+an ethical question. But I find it hard to imagine any system of ethics that
+denies that the responsibility falls especially on the countries to the left
+hand side of this diagram – the countries whose emissions are two, three, or
+four times the world average. Countries that are most able to pay.  Countries
+like Britain and the USA, for example.
 
 ### Historical responsibility for climate impact
 
