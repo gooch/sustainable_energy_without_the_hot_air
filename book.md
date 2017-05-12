@@ -97,13 +97,12 @@ buses.”
 If all the ineffective ideas for solving the energy crisis were laid end to
 end, they would reach to the moon and back... I digress.
 
-The result of this lack of meaningful numbers and facts? We are
-inun-dated with a ﬂood of crazy innumerate codswallop. The BBC doles
-outadvice on how we can do our bit to save the planet – for example
-“switchoff your mobile phone charger when it’s not in use;” if anyone
-objects thatmobile phone chargers are not *actually* our number one form
-of energyconsumption, the mantra “every little helps” is wheeled out.
-Every littlehelps? A more realistic mantra is:
+The result of this lack of meaningful numbers and facts? We are inundated with
+a flood of crazy innumerate codswallop. The BBC doles out advice on how we can
+do our bit to save the planet – for example “switch off your mobile phone
+charger when it’s not in use;” if anyone objects that mobile phone chargers are
+not *actually* our number one form of energy consumption, the mantra “every
+little helps” is wheeled out.  Every little helps? A more realistic mantra is:
 
 > if everyone does a little, we’ll achieve only a little.
 
