@@ -76,14 +76,13 @@ Bjørn Lomborg’s *The Skeptical Environmentalist* (2001).
 *The Revenge of Gaia: Why the earth is fighting back – and how we can still
 save humanity.* James Lovelock (2006). © Allen Lane.
 
-This heated debate is fundamentally about numbers. How much energy
-could each source deliver, at what economic and social cost, and
-withwhat risks? But actual numbers are rarely mentioned. In public
-debates,people just say “Nuclear is a money pit” or “We have a *huge*
-amount ofwave and wind.” The trouble with this sort of language is that
-it’s notsufficient to know that something is huge: we need to know how
-the one“huge” compares with another “huge,” namely *our huge energy
-consump-**tion*. To make this comparison, we need numbers, not
+This heated debate is fundamentally about numbers. How much energy could each
+source deliver, at what economic and social cost, and with what risks? But
+actual numbers are rarely mentioned. In public debates,people just say “Nuclear
+is a money pit” or “We have a *huge* amount of wave and wind.” The trouble with
+this sort of language is that it’s not sufficient to know that something is
+huge: we need to know how the one “huge” compares with another “huge,” namely
+*our huge energy consumption*. To make this comparison, we need numbers, not
 adjectives.
 
 Where numbers are used, their meaning is often obfuscated by
