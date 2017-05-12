@@ -102,7 +102,9 @@ a flood of crazy innumerate codswallop. The BBC doles out advice on how we can
 do our bit to save the planet – for example “switch off your mobile phone
 charger when it’s not in use;” if anyone objects that mobile phone chargers are
 not *actually* our number one form of energy consumption, the mantra “every
-little helps” is wheeled out.  Every little helps? A more realistic mantra is:
+little helps”^[For the benefit of readers who speak American, rather than
+English, the translation of “every little helps” into American is “every little
+bit helps.”] is wheeled out.  Every little helps? A more realistic mantra is:
 
 > if everyone does a little, we’ll achieve only a little.
 
@@ -120,12 +122,9 @@ up? – if the true cost of fixing climate change were £40per person then the
 government could fix it with the loose change in the Chancellor’s pocket!
 
 Even more reprehensible are companies that exploit the current
-concernfor the environment by offering “water-powered batteries,”
+concern for the environment by offering “water-powered batteries,”
 “biodegrad-
 
-For the benefit of readers who speakAmerican, rather than English,
-thetranslation of “every little helps” intoAmerican is “every little bit
-helps.”
 
 able mobile phones,” “portable arm-mounted wind-turbines,” and
 otherpointless tat.
