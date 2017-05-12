@@ -143,30 +143,29 @@ for example, New Scientist with their article about the “water-powered
 car.”^[See this chapter’s notes (p19) for the awful details. (Every chapter has
 endnotes giving references, sources, and details of arguments.]
 
-In a climate where people don’t understand the numbers,
-newspapers, campaigners, companies, and politicians can get away with
-murder.
+In a climate where people don’t understand the numbers, newspapers,
+campaigners, companies, and politicians can get away with murder.
 
-We need simple numbers, and we need the numbers to be comprehen-sible,
+We need simple numbers, and we need the numbers to be comprehensible,
 comparable, and memorable.
 
-With numbers in place, we will be better placed to answer questionssuch
+With numbers in place, we will be better placed to answer questions such
 as these:
 
-1.  Can a country like Britain conceivably live on its own renewable
-    energy sources?
-2.  If everyone turns their thermostats one degree closer to the
-    outside temperature, drives a smaller car, and switches off phone
-    chargers when not in use, will an energy crisis be averted?
-3.  Should the tax on transportation fuels be significantly
-    increased? Should speed-limits on roads be halved?
-4.  Is someone who advocates windmills over nuclear power stations “an
-    enemy of the people”?
-5.  If climate change is “a greater threat than terrorism,” should
-    govern-ments criminalize “the glorification of travel” and pass laws
-    against “advocating acts of consumption”?
-6.  Will a switch to “advanced technologies” allow us to eliminate
-    carbon dioxide pollution without changing our lifestyle?
+1.  Can a country like Britain conceivably live on its own renewable energy
+    sources?
+2.  If everyone turns their thermostats one degree closer to the outside
+    temperature, drives a smaller car, and switches off phone chargers when not
+    in use, will an energy crisis be averted?
+3.  Should the tax on transportation fuels be significantly increased? Should
+    speed-limits on roads be halved?
+4.  Is someone who advocates windmills over nuclear power stations “an enemy of
+    the people”?
+5.  If climate change is “a greater threat than terrorism,” should governments
+    criminalize “the glorification of travel” and pass laws against “advocating
+    acts of consumption”?
+6.  Will a switch to “advanced technologies” allow us to eliminate carbon
+    dioxide pollution without changing our lifestyle?
 7.  Should people be encouraged to eat more vegetarian food?
 8.  Is the population of the earth six times too big?
 
