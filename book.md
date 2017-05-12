@@ -395,24 +395,22 @@ due course, the world; and remarkable growth in British pig-iron production (in
 thousand tons per year); and growth In the tonnage of British ships (in
 thousand tons).
 
-In contrast to the ordinary graphs onthe previous pages, the
-logarithmicscale allows us to show both thepopulation of England and
-thepopulation of the World on a singlediagram, and to see
-interestingfeatures in both.
+In contrast to the ordinary graphs on the previous pages, the logarithmic scale
+allows us to show both the population of England and the population of the
+World on a single diagram, and to see interesting features in both.
 
-OK. Fossil fuel burning increases CO~2~ concentrations significantly.
-Butdoes it matter? “Carbon is nature!”, the oilspinners remind us,
-“Carbon islife!” If CO~2~ had no harmful effects, then indeed carbon
-emissions wouldnot matter. However, carbon dioxide is a greenhouse gas.
-Not the strongestgreenhouse gas, but a significant one nonetheless. Put
-more of it in theatmosphere, and it does what greenhouse gases do: it
-absorbs infraredradiation (heat) heading out from the earth and reemits
-it in a random di-rection; the effect of this random redirection of the
-atmospheric heat trafficis to impede the flow of heat from the planet,
-just like a quilt. So carbondioxide has a warming effect. This fact is
-based not on complex historicalrecords of global temperatures but on the
-simple physical properties ofCO~2~ molecules. Greenhouse gases are a
-quilt, and CO~2~ is one layer of thequilt.
+OK. Fossil fuel burning increases CO~2~ concentrations significantly.  But does
+it matter? “Carbon is nature!”, the oil spinners remind us, “Carbon is life!”
+If CO~2~ had no harmful effects, then indeed carbon emissions would not matter.
+However, carbon dioxide is a greenhouse gas.  Not the strongest greenhouse gas,
+but a significant one nonetheless. Put more of it in the atmosphere, and it
+does what greenhouse gases do: it absorbs infrared radiation (heat) heading out
+from the earth and re-emits it in a random direction; the effect of this random
+redirection of the atmospheric heat traffic is to impede the flow of heat from
+the planet, just like a quilt. So carbon dioxide has a warming effect. This
+fact is based not on complex historical records of global temperatures but on
+the simple physical properties of CO~2~ molecules. Greenhouse gases are a
+quilt, and CO~2~ is one layer of the quilt.
 
 So, if humanity succeeds in doubling or tripling CO~2~
 concentrations(which is where we are certainly heading, under business
