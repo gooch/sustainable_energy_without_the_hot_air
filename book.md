@@ -961,42 +961,40 @@ that’s not sustainable. Exactly how long we could keep living on fossil fuels
 is an interesting question, but it’s not the question we’ll address in this
 book. I want to think about *living without fossil fuels*.
 
-We’re going to make two stacks. In the left-hand, red stack we will
-addup our energy consumption, and in the right-hand, green stack, we’ll
-addup sustainable energy production. We’ll assemble the two stacks
-gradually,adding items one at a time as we discuss them.
+We’re going to make two stacks. In the left-hand, red stack we will add up our
+energy consumption, and in the right-hand, green stack, we’ll add up
+sustainable energy production. We’ll assemble the two stacks gradually, adding
+items one at a time as we discuss them.
 
-The question addressed in this book is “can we *conceivably* live
-sustain-ably?” So, we will add up all *conceivable* sustainable energy
-sources andput them in the right-hand, green stack.
+The question addressed in this book is “can we *conceivably* live sustainably?”
+So, we will add up all *conceivable* sustainable energy sources and put them in
+the right-hand, green stack.
 
-In the left-hand, red stack, we’ll estimate the consumption of a
-“typ-ical moderately-affluent person;” I encourage you to tot up an
-estimateof your *own* consumption, creating your own personalized
-left-hand stacktoo. Later on we’ll also find out the current *average*
-energy consumption ofEuropeans and Americans.
+In the left-hand, red stack, we’ll estimate the consumption of a “typical
+moderately-affluent person;” I encourage you to total up an estimate of your
+*own* consumption, creating your own personalized left-hand stack too. Later on
+we’ll also find out the current *average* energy consumption of Europeans and
+Americans.
 
 ![](figure325.png)
 
 ![](figure324.png)
 
-As we estimate our consumption of energy for heating,
-transportation,manufacturing, and so forth, the aim is not only to
-compute a number forthe left-hand stack of our balance sheet, but also
-to understand what eachnumber depends on, and how susceptible to
-modification it is.
+As we estimate our consumption of energy for heating, transportation,
+manufacturing, and so forth, the aim is not only to compute a number for the
+left-hand stack of our balance sheet, but also to understand what each number
+depends on, and how susceptible to modification it is.
 
-In the right-hand, green stack, we’ll add up the sustainable produc-tion
-estimates for the United Kingdom. This will allow us to answer
-thequestion “can the UK conceivably live on its own renewables?”
+In the right-hand, green stack, we’ll add up the sustainable production
+estimates for the United Kingdom. This will allow us to answer the question
+“can the UK conceivably live on its own renewables?”
 
-Whether the sustainable energy sources that we put in the
-right-handstack are *economically* feasible is an important question,
-but let’s leave thatquestion to one side, and just add up the two stacks
-first. Sometimes peo-ple focus too much on economic feasibility and they
-miss the big picture.For example, people discuss “is wind cheaper than
-nuclear?” and forgetto ask “how *much* wind is available?” or “how much
-uranium is left?”
+Whether the sustainable energy sources that we put in the right-hand stack are
+*economically* feasible is an important question, but let’s leave that question
+to one side, and just add up the two stacks first. Sometimes people focus too
+much on economic feasibility and they miss the big picture. For example, people
+discuss “is wind cheaper than nuclear?” and forget to ask “how *much* wind is
+available?” or “how much uranium is left?”
 
 The outcome when we add everything up might look like this:
 
