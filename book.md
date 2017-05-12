@@ -498,68 +498,62 @@ like Britain and the USA, for example.
 
 ### Historical responsibility for climate impact
 
-If we assume that the climate has been damaged by human activity,
-andthat someone needs to fix it, who should pay? Some people say
-“thepolluter should pay.” The preceding pictures showed who’s doing
-thepolluting today. But it isn’t the *rate* of CO~2~ pollution that
-matters, it’sthe cumulative *total* emissions; much of the emitted
-carbon dioxide (aboutone third of it) will hang around in the atmosphere
-for at least 50 or 100years. If we accept the ethical idea that “the
-polluter should pay” thenwe should ask how big is each country’s
-historical footprint. The nextpicture shows each country’s cumulative
-emissions of CO~2~, expressed asan average emission rate over the period
-1880–2004.
+If we assume that the climate has been damaged by human activity, and that
+someone needs to fix it, who should pay? Some people say “the polluter should
+pay.” The preceding pictures showed who’s doing the polluting today. But it
+isn’t the *rate* of CO~2~ pollution that matters, it’s the cumulative *total*
+emissions; much of the emitted carbon dioxide (about one third of it) will hang
+around in the atmosphere for at least 50 or 100 years. If we accept the ethical
+idea that “the polluter should pay” then we should ask how big is each
+country’s historical footprint. The next picture shows each country’s
+cumulative emissions of CO~2~, expressed as an average emission rate over the
+period 1880–2004.
 
 ![Average pollution rate](figure12.png)
 
-Congratulations, Britain! The UK has made it onto the winners’ podium.We
-may be only an average European country today, but in the table
-ofhistorical emitters, per capita, we are second only to the USA.
+Congratulations, Britain! The UK has made it onto the winners’ podium. We may
+be only an average European country today, but in the table of historical
+emitters, per capita, we are second only to the USA.
 
-OK, that’s enough ethics. What do scientists reckon needs to be done,to
-avoid a risk of giving the earth a 2°C temperature rise (2°C being
-therise above which they predict lots of bad consequences)? The
-consensusis clear. We need to get off our fossil fuel habit, and we need
-to do sofast. Some countries, including Britain, have committed to at
-least a 60%reduction in greenhouse-gas emissions by 2050, but it must be
-emphasizedthat 60% cuts, radical though they are, are unlikely to cut
-the mustard. Ifthe world’s emissions were gradually reduced by 60% by
-2050, climate sci-
+OK, that’s enough ethics. What do scientists reckon needs to be done,to avoid a
+risk of giving the earth a 2°C temperature rise (2°C being the rise above which
+they predict lots of bad consequences)? The consensus is clear. We need to get
+off our fossil fuel habit, and we need to do so fast. Some countries, including
+Britain, have committed to at least a 60% reduction in greenhouse-gas emissions
+by 2050, but it must be emphasized that 60% cuts, radical though they are, are
+unlikely to cut the mustard. If the world’s emissions were gradually reduced by
+60% by 2050, climate scientists reckon it’s more likely than not that global
+temperatures will rise by more than 2°C. The sort of cuts we need to aim for
+are shown in figure 1.8. This figure shows two possibly-safe emissions
+scenarios presented by Baer and Mastrandrea (2006) in a report from the
+Institute for Public Policy Research. The lower curve assumes that a decline in
+emissions started in 2007, with total global emissions falling at roughly 5%
+per year.The upper curve assumes a brief delay in the start of the decline, and
+a 4%drop per year in global emissions. Both scenarios are believed to offer a
+modest chance of avoiding a 2°C temperature rise above the pre-industrial
+level. In the lower scenario, the chance that the temperature rise will
+*exceed* 2°C is estimated to be 9–26%. In the upper scenario, the chance of
+exceeding 2°C is estimated to be 16–43%. These possibly-safe emissions
+trajectories, by the way, involve significantly sharper reductions in emissions
+than any of the scenarios presented by the Intergovernmental Panelon Climate
+Change (IPCC), or by the Stern Review (2007).
 
-entists reckon it’s more likely than not that global temperatures will
-riseby more than 2°C. The sort of cuts we need to aim for are shown in
-fig-ure 1.8. This figure shows two possibly-safe emissions scenarios
-presentedby Baer and Mastrandrea (2006) in a report from the Institute
-for Pub-lic Policy Research. The lower curve assumes that a decline in
-emissionsstarted in 2007, with total global emissions falling at roughly
-5% per year.The upper curve assumes a brief delay in the start of the
-decline, and a 4%drop per year in global emissions. Both scenarios are
-believed to offer amodest chance of avoiding a 2°C temperature rise
-above the pre-industriallevel. In the lower scenario, the chance that
-the temperature rise will *ex-**ceed* 2°C is estimated to be 9–26%. In
-the upper scenario, the chance ofexceeding 2°C is estimated to be
-16–43%. These possibly-safe emissionstrajectories, by the way, involve
-significantly sharper reductions in emis-sions than any of the scenarios
-presented by the Intergovernmental Panelon Climate Change (IPCC), or by
-the Stern Review (2007).
-
-These possibly-safe trajectories require global emissions to fall by
-70%or 85% by 2050. What would this mean for a country like Britain? Ifwe
-subscribe to the idea of “contraction and convergence,” which meansthat
-all countries aim eventually to have equal per-capita emissions,
-thenBritain needs to aim for cuts greater than 85%: it should get down
-from itscurrent 11 tons of CO~2~e per year per person to roughly 1 ton
-per year per
+These possibly-safe trajectories require global emissions to fall by 70% or 85%
+by 2050. What would this mean for a country like Britain? If we subscribe to
+the idea of “contraction and convergence,” which means that all countries aim
+eventually to have equal per-capita emissions, then Britain needs to aim for
+cuts greater than 85%: it should get down from its current 11 tons of CO~2~e
+per year per person to roughly 1 ton per year per person by 2050. This is such
+a deep cut, I suggest the best way to think about it is *no more fossil fuels.*
 
 ![World greenhouse gas emissions](figure8.png)
 
 ![Global emissions scenarios](figure17.png)
 
-Figure 1.8. Global emissions for twoscenarios considered by Baer
-andMastrandrea, expressed in tons ofCO~2~ per year per person, using
-aworld population of six billion. Bothscenarios are believed to offer
-amodest chance of avoiding a 2°Ctemperature rise above thepre-industrial
-level.
+Figure 1.8. Global emissions for two scenarios considered by Baer and
+Mastrandrea, expressed in tons of CO~2~ per year per person, using a world
+population of six billion. Both scenarios are believed to offer a modest chance
+of avoiding a 2°C temperature rise above the pre-industrial level.
 
 Figure 1.9. Breakdown of worldgreenhouse-gas emissions (2000) bycause
 and by gas. “Energy” includespower stations, industrial
@@ -570,8 +564,6 @@ wastedisposal and treatment. The sizesindicate the 100-year global
 warmingpotential of each source. Source:Emission Database for
 GlobalAtmospheric Research.
 
-person by 2050. This is such a deep cut, I suggest the best way to
-thinkabout it is *no more fossil fuels.*
 
 One last thing about the climate-change motivation: while a range
 ofhuman activities cause greenhouse-gas emissions, the biggest cause by
