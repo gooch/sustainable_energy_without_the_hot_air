@@ -85,14 +85,14 @@ huge: we need to know how the one “huge” compares with another “huge,” n
 *our huge energy consumption*. To make this comparison, we need numbers, not
 adjectives.
 
-Where numbers are used, their meaning is often obfuscated by
-enor-mousness. Numbers are chosen to impress, to score points in
-arguments,rather than to inform. “Los Angeles residents drive 142
-million miles – the distance from Earth to Mars – every single day.”
-“Each year, 27 millionacres of tropical rainforest are destroyed.” “14
-billion pounds of trash aredumped into the sea every year.” “British
-people throw away 2.6 billionslices of bread per year.” “The waste paper
-buried each year in the UKcould fill 103448 double-decker buses.”
+Where numbers are used, their meaning is often obfuscated by enormousness.
+Numbers are chosen to impress, to score points in arguments,rather than to
+inform. “Los Angeles residents drive 142 million miles – the distance from
+Earth to Mars – every single day.” “Each year, 27 million acres of tropical
+rainforest are destroyed.” “14 billion pounds of trash are dumped into the sea
+every year.” “British people throw away 2.6 billion slices of bread per year.”
+“The waste paper buried each year in the UK could fill 103448 double-decker
+buses.”
 
 If all the ineffective ideas for solving the energy crisis were laid end
 toend, they would reach to the moon and back.... I digress.
