@@ -1018,7 +1018,7 @@ Energy and power
 ----------------
 
 Most discussions of energy consumption and production are confusing because of
-the proliferation of *units*in which energy and power are measured, from “tons
+the proliferation of *units* in which energy and power are measured, from “tons
 of oil equivalent” to “terawatt-hours” (TWh) and “exa-joules” (EJ). Nobody but
 a specialist has a feeling for what “a barrel of oil”or “a million BTUs” means
 in human terms. In this book, we’ll express everything in a single set of
