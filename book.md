@@ -346,18 +346,18 @@ mentions (seven, 1900, and 36000) are *wrong!* The correct numbers are 26, 440,
 and 330. Leaving these errors to one side, let’s address Lawson’s main point,
 the relative smallness of man-made emissions.
 
-Yes, natural ﬂows of CO~2~ *are* larger than the additional ﬂow we
+Yes, natural flows of CO~2~ *are* larger than the additional flow we
 switchedon 200 years ago when we started burning fossil fuels in
 earnest. But itis terribly misleading to quantify only the large natural
-ﬂows *into* the at-mosphere, failing to mention the almost exactly equal
-ﬂows *out* of theatmosphere back into the biosphere and the oceans. The
-point is that these*natural* ﬂows in and out of the atmosphere have been
+flows *into* the at-mosphere, failing to mention the almost exactly equal
+flows *out* of theatmosphere back into the biosphere and the oceans. The
+point is that these*natural* flows in and out of the atmosphere have been
 almost exactly inbalance for millenia. So it’s not relevant at all that
-these natural ﬂows arelarger than human emissions. The natural ﬂows
-*cancelled themselves out*.So the natural ﬂows, large though they were,
+these natural flows arelarger than human emissions. The natural flows
+*cancelled themselves out*.So the natural flows, large though they were,
 left the concentration of CO~2~in the atmosphere and ocean *constant*,
 over the last few thousand years.Burning fossil fuels, in contrast,
-creates a *new* ﬂow of carbon that, thoughsmall, is *not cancelled*.
+creates a *new* flow of carbon that, thoughsmall, is *not cancelled*.
 Here’s a simple analogy, set in the passport-controlarrivals area of an
 airport. One thousand passengers arrive per hour, and
 
@@ -392,7 +392,7 @@ interestingfeatures in both.
 there are exactly enough clockwork officials to process one thousand
 pas-sengers per hour. There’s a modest queue, but because of the match
 ofarrival rate to service rate, the queue isn’t getting any longer. Now
-imag-ine that owing to fog an extra stream of ﬂights is diverted here
+imag-ine that owing to fog an extra stream of flights is diverted here
 from asmaller airport. This stream adds an extra 50 passengers per hour
 to thearrivals lobby – a small addition compared to the original arrival
 rate ofone thousand per hour. Initially at least, the authorities don’t
@@ -411,7 +411,7 @@ Not the strongestgreenhouse gas, but a significant one nonetheless. Put
 more of it in theatmosphere, and it does what greenhouse gases do: it
 absorbs infraredradiation (heat) heading out from the earth and reemits
 it in a random di-rection; the effect of this random redirection of the
-atmospheric heat trafficis to impede the ﬂow of heat from the planet,
+atmospheric heat trafficis to impede the flow of heat from the planet,
 just like a quilt. So carbondioxide has a warming effect. This fact is
 based not on complex historicalrecords of global temperatures but on the
 simple physical properties ofCO~2~ molecules. Greenhouse gases are a
@@ -624,13 +624,13 @@ by rounding thenumbers, we can make them easier to remember. Second,
 rounded num-bers allow quick calculations. For example, in this book,
 the populationof the United Kingdom is 60 million, and the population of
 the world is6 billion. I’m perfectly capable of looking up more accurate
-figures, butaccuracy would get in the way of ﬂuent thought. For example,
+figures, butaccuracy would get in the way of fluent thought. For example,
 if we learnthat the world’s greenhouse gas emissions in 2000 were 34
 billion tons ofCO~2~-equivalent per year, then we can instantly note,
 without a calculator,that the average emissions per person are 5 or 6
 tons of CO~2~-equivalent perperson per year. This rough answer is not
 exact, but it’s accurate enough toinform interesting conversations. For
-instance, if you learn that a round-trip intercontinental ﬂight emits
+instance, if you learn that a round-trip intercontinental flight emits
 nearly two tons of CO~2~ per passenger,then knowing the average
 emissions yardstick (5-and-a-bit tons per yearper person) helps you
 realize that just one such plane-trip per year corre-
@@ -869,11 +869,11 @@ fuels sends *26* gigatonnes of CO~2~per year into the atmosphere (not 7
 gigatonnes). A common mistake. Sec-ond, he claims that the oceans send
 36000 gigatonnes of carbon per yearinto the atmosphere. This is a far
 worse error: 36000 gigatonnes is the *totalamount* of carbon in the
-ocean! The annual *ﬂow* is much smaller – about 90 gi-gatonnes of carbon
+ocean! The annual *flow* is much smaller – about 90 gi-gatonnes of carbon
 per year (330 GtCO~2~/y), according to standard diagramsof the carbon
-cycle [l6y5g] (I believe this 90 GtC/y is the estimated ﬂowrate, were
+cycle [l6y5g] (I believe this 90 GtC/y is the estimated flowrate, were
 the atmosphere suddenly to have its CO~2~ concentration reducedto zero.)
-Similarly his “1900 gigatonne” ﬂow from biosphere to atmosphereis wrong.
+Similarly his “1900 gigatonne” flow from biosphere to atmosphereis wrong.
 The correct figure according to the standard diagrams is about
 120gigatonnes of carbon per year (440 Gt CO~2~/y).
 
@@ -922,7 +922,7 @@ summarize: “we have tried but have been unable to find any overlooked or
 underestimatedphysical effects that could reduce the currently estimated
 global warmings due to a doubling of atmospheric CO~2~ tonegligible
 proportions or reverse them altogether.” They warn that, thanks to the
-ocean, “the great and ponderousﬂywheel of the global climate system,” it
+ocean, “the great and ponderousflywheel of the global climate system,” it
 is quite possible that the warming would occur sufficiently sluggishly
 that it
 
@@ -1029,7 +1029,7 @@ sustain-ably?” So, we will add up all *conceivable* sustainable energy
 sources andput them in the right-hand, green stack.
 
 In the left-hand, red stack, we’ll estimate the consumption of a
-“typ-ical moderately-afﬂuent person;” I encourage you to tot up an
+“typ-ical moderately-affluent person;” I encourage you to tot up an
 estimateof your *own* consumption, creating your own personalized
 left-hand stacktoo. Later on we’ll also find out the current *average*
 energy consumption ofEuropeans and Americans.
@@ -1119,14 +1119,14 @@ speech, but in this book we must stick rigorously to their
 scientificdefinitions. *Power is the rate at which something uses energy*.
 
 Maybe a good way to explain energy and power is by an analogy withwater
-and water-ﬂow from taps. If you want a drink of water, you want
+and water-flow from taps. If you want a drink of water, you want
 a*volume* of water – one litre, perhaps (if you’re thirsty). When you
-turn on atap, you create a *ﬂow* of water – one litre per minute, say,
+turn on atap, you create a *flow* of water – one litre per minute, say,
 if the tap yieldsonly a trickle; or 10 litres per minute, from a more
 generous tap. You canget the same volume (one litre) either by running
 the trickling tap for oneminute, or by running the generous tap for one
 tenth of a minute. The*volume* delivered in a particular time is equal
-to the *ﬂow* multiplied by the
+to the *flow* multiplied by the
 
 ![](figure18.png)
 
@@ -1137,7 +1137,7 @@ ofpower in the form of light and heat(mainly the latter).
 
 volumeis measured inlitres
 
-ﬂowis measured inlitres per minute
+flowis measured inlitres per minute
 
 energyis measured inkWh
 
@@ -1145,16 +1145,16 @@ poweris measured inkWh per day
 
 *time:*
 
-volume = ﬂow × time.
+volume = flow × time.
 
-We say that a *ﬂow* is a *rate* at which *volume* is delivered. If you
-know thevolume delivered in a particular time, you get the ﬂow by
+We say that a *flow* is a *rate* at which *volume* is delivered. If you
+know thevolume delivered in a particular time, you get the flow by
 dividing thevolume by the time:
 
 ![](figure7.png)
 
 Here’s the connection to energy and power. *Energy* is like water
-*volume*:*power* is like water *ﬂow*. For example, whenever a toaster is
+*volume*:*power* is like water *flow*. For example, whenever a toaster is
 switched on, itstarts to consume *power* at a rate of one kilowatt. It
 continues to consumeone kilowatt until it is switched off. To put it
 another way, the toaster (ifit’s left on permanently) consumes one
@@ -1171,10 +1171,10 @@ The joule is the standard international unit of energy, but sadly it’s
 fartoo small to work with. The kilowatt-hour is equal to 3.6 million
 joules (3.6megajoules).
 
-Powers are so useful and important, they have something that waterﬂows
-don’t have: they have their own special units. When we talk of aﬂow, we
+Powers are so useful and important, they have something that waterflows
+don’t have: they have their own special units. When we talk of aflow, we
 might measure it in “litres per minute,” “gallons per hour,”
-or“cubic-metres per second;” these units’ names make clear that the ﬂow
+or“cubic-metres per second;” these units’ names make clear that the flow
 is“a volume per unit time.” A power of *one joule per second* is called
 *one watt*.1000 joules per second is called one kilowatt. Let’s get the
 terminologystraight: the toaster uses one kilowatt. It doesn’t use “one
@@ -1351,7 +1351,7 @@ horsepower per hour, nor 50 horsepower per day, just50 horsepower).
 –*Please, never, ever say “one kilowatt per second.”* There are specific,
 rare exceptions to this rule. If talking about agrowth in demand for
 power, we might say “British demand is growing at one gigawatt per
-year.” In Chapter 26 whenI discuss ﬂuctuations in wind power, I will say
+year.” In Chapter 26 whenI discuss fluctuations in wind power, I will say
 “one morning, the power delivered by Irish windmills fell at a rate of84
 MW per hour.” Please take care! Just one accidental syllable can lead to
 confusion: for example, your electricitymeter’s reading is in
