@@ -412,23 +412,22 @@ fact is based not on complex historical records of global temperatures but on
 the simple physical properties of CO~2~ molecules. Greenhouse gases are a
 quilt, and CO~2~ is one layer of the quilt.
 
-So, if humanity succeeds in doubling or tripling CO~2~
-concentrations(which is where we are certainly heading, under business
-as usual), whathappens? Here, there is a lot of uncertainty. Climate
-science is difficult.The climate is a complex, twitchy beast, and exactly
-how much warmingCO~2~ -doubling would produce is uncertain. The
-consensus of the best cli-mate models seems to be that doubling the
-CO~2~ concentration would haveroughly the same effect as increasing the
-intensity of the sun by 2%, andwould bump up the global mean temperature
-by something like 3°C. Thiswould be what historians call a Bad Thing. I
-won’t recite the whole litanyof probable drastic effects, as I am sure
-you’ve heard it before. The litanybegins “the Greenland icecap would
-gradually melt, and, over a period ofa few 100 years, sea-level would
-rise by about 7 metres.” The brunt of thelitany falls on future
-generations. Such temperatures have not been seenon earth for at least
-100000 years, and it’s conceivable that the ecosystemwould be so
-significantly altered that the earth would stop supplying someof the
-goods and services that we currently take for granted.
+So, if humanity succeeds in doubling or tripling CO~2~ concentrations(which is
+where we are certainly heading, under business as usual), what happens? Here,
+there is a lot of uncertainty. Climate science is difficult.The climate is a
+complex, twitchy beast, and exactly how much warming CO~2~ -doubling would
+produce is uncertain. The consensus of the best climate models seems to be that
+doubling the CO~2~ concentration would have roughly the same effect as
+increasing the intensity of the sun by 2%, and would bump up the global mean
+temperature by something like 3°C. This would be what historians call a Bad
+Thing. I won’t recite the whole litany of probable drastic effects, as I am
+sure you’ve heard it before. The litany begins “the Greenland icecap would
+gradually melt, and, over a period of a few 100 years, sea-level would rise by
+about 7 metres.” The brunt of the litany falls on future generations. Such
+temperatures have not been seen on earth for at least 100000 years, and it’s
+conceivable that the ecosystem would be so significantly altered that the earth
+would stop supplying some of the goods and services that we currently take for
+granted.
 
 Climate modelling is difficult and is dogged by uncertainties. But
 un-certainty about exactly how the climate will respond to extra
