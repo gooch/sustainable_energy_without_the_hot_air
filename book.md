@@ -1024,27 +1024,25 @@ a specialist has a feeling for what “a barrel of oil”or “a million BTUs”
 in human terms. In this book, we’ll express everything in a single set of
 personal units that everyone can relate to.
 
-The unit of **energy** I have chosen is the kilowatt-hour (kWh).
-Thisquantity is called “one unit” on electricity bills, and it costs a
-domestic userabout 10p in the UK in 2008. As we’ll see, most individual
-daily choicesinvolve amounts of energy equal to small numbers of
-kilowatt-hours.
+The unit of **energy** I have chosen is the kilowatt-hour (kWh).  This quantity
+is called “one unit” on electricity bills, and it costs a domestic user about
+10p in the UK in 2008. As we’ll see, most individual daily choices involve
+amounts of energy equal to small numbers of kilowatt-hours.
 
-When we discuss **powers** (rates at which we use or produce energy),the
-main unit will be the kilowatt-hour per day (kWh/d). We’ll also
-occa-sionally use the watt (40 W ≈ 1kWh/d) and the kilowatt (1 kW = 1000
-W= 24 kWh/d), as I’ll explain below. The kilowatt-hour per day is a
-nicehuman-sized unit: most personal energy-guzzling activities guzzle at
-arate of a small number of kilowatt-hours per day. For example, one 40
-Wlightbulb, kept switched on all the time, uses **one** kilowatt-hour
-per day.Some electricity companies include graphs in their electricity
-bills, show-ing energy consumption in kilowatt-hours per day. I’ll use
-the same unitfor all forms of power, not just electricity. Petrol
-consumption, gas con-sumption, coal consumption: I’ll measure all these
-powers in kilowatt-hours per day. Let me make this clear: for some
-people, the word “power”means only *electrical* energy consumption. But
-this book concerns *all* formsof energy consumption and production, and
-I will use the word “power”for all of them.
+When we discuss **powers** (rates at which we use or produce energy),the main
+unit will be the kilowatt-hour per day (kWh/d). We’ll also occasionally use the
+watt (40 W ≈ 1kWh/d) and the kilowatt (1 kW = 1000 W= 24 kWh/d), as I’ll
+explain below. The kilowatt-hour per day is a nice human-sized unit: most
+personal energy-guzzling activities guzzle at a rate of a small number of
+kilowatt-hours per day. For example, one 40 W light-bulb, kept switched on all
+the time, uses **one** kilowatt-hour per day.Some electricity companies include
+graphs in their electricity bills, showing energy consumption in kilowatt-hours
+per day. I’ll use the same unit for all forms of power, not just electricity.
+Petrol consumption, gas consumption, coal consumption: I’ll measure all these
+powers in kilowatt-hours per day. Let me make this clear: for some people, the
+word “power”means only *electrical* energy consumption. But this book concerns
+*all* forms of energy consumption and production, and I will use the word
+“power”for all of them.
 
 One kilowatt-hour per day is roughly the power you could get fromone
 human servant. The number of kilowatt-hours per day you use is thusthe
