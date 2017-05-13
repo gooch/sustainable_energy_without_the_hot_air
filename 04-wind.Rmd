@@ -43,11 +43,7 @@ that's 200 kWh/d per person.
 knitr::include_graphics('images/figure26.png')
 ```
 
-![](images/figure400.png)
-
-Figure 4.2. Cairngorm mean wind speed in metres per second, during six
-months of 2006.
-
+![Cairngorm and Cambridge](images/figure400.png)
 
 $2 W/m^2 \times 4000 m^2 / person = 8000 W\space per\space person$,
 
