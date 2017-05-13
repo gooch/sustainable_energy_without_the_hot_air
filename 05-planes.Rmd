@@ -66,7 +66,21 @@ already almost as energy-efficient as they could possibly be. Planes
 unavoidably have to use energy for two reasons: they have to throw air
 down in order to stay up, and they need energy to overcome air
 resistance. No redesign of a plane is going to radically improve its
-efficiency. A 10% improvement? Yes, possible. A doubling of efficiency?
+efficiency^[Actually,the Advisory Council for Aerospace Research in Europe (ACARE)
+target is for an overall 50% reduction in fuel burned per passenger-km by
+2020(relative to a 2000 baseline), with 15–20% improvement expected in
+engine efficiency. As of 2006, Rolls Royce is half way to this engine
+target [36w5gz]. Dennis Bushnell, chief scientist at NASA's Langley
+Research Center, seems to agree with my overall assessment of prospects
+for efficiency improvements in aviation. The aviation industry is mature.
+"There is not much left to gain except by the glacial accretion of a per
+cent here and there over long time periods."  (New Scientist, 24 February
+2007, page 33.) The radically reshaped "Silent Aircraft" 
+[silentaircraft.org/sax40], if it were built, is predicted to be 16% more
+efficient than a conventional-shaped plane (Nickol, 2008). If the ACARE
+target is reached, it's presumably going to be thanks mostly to having
+fuller planes and better air-traffic management.
+]. A 10% improvement? Yes, possible. A doubling of efficiency?
 I'd eat my complimentary socks.
 
 Queries
