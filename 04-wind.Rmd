@@ -36,7 +36,12 @@ that's 200 kWh/d per person.
 ![](images/figure333.png)
 
 Figure 4.1. Cambridge mean wind speed in metres per second, daily (red
-line), and half-hourly (blue line) during 2006. See also figure 4.6.
+line), and half-hourly (blue line) during 2006^[Cambridge wind data are from the Digital
+Technology Group, Computer Laboratory, Cambridge[vxhhj]. The weather station is
+on the roof of the Gates building, roughly 10 m high. Wind speeds at a height
+of50 m are usually about 25% bigger. Cairngorm data (*figure 4.2*) are from
+Heriot–Watt University Physics Department[tdvml].
+]. See also figure 4.6.
 
 ![](images/figure400.png)
 
@@ -58,7 +63,12 @@ huge as our huge consumption. We'll come to offshore wind later.
 I should emphasize how generous an assumption I'm making. Let's compare this
 estimate of British wind potential with current installed wind power worldwide.
 The windmills that would be required to provide the UK with 20 kWh/d per person
-amount to 50 times the entire wind hardware of Denmark; 7 times all the wind
+amount to 50 times the entire wind hardware of Denmark^[Assuming a load factor of 33%, an
+average power of 20 kWh/d per person requires an installed capacity of 150 GW.
+At the end of 2006, Denmark had an installed capacity of 3.1 GW; Germany had
+20.6 GW. The world total was 74 GW(wwindea.org).  Incidentally, the load factor
+of the Danish wind fleet was 22% in 2006, and the average power it delivered
+was 3 kWh/d per person.]; 7 times all the wind
 farms of Germany; and double the entire fleet of all wind turbines in the
 world.
 
@@ -116,22 +126,5 @@ energy storage and demand management.
 
 Notes and further reading
 -------------------------
-
-page no.
-
-32*Figure 4.1 and figure 4.6.* Cambridge wind data are from the Digital
-Technology Group, Computer Laboratory, Cambridge[vxhhj]. The weather station is
-on the roof of the Gates building, roughly 10 m high. Wind speeds at a height
-of50 m are usually about 25% bigger. Cairngorm data (*figure 4.2*) are from
-Heriot–Watt University Physics Department[tdvml].
-
-33*The windmills required to provide the UK with 20 kWh/d per person are 50
-times the entire wind power of Denmark.*Assuming a load factor of 33%, an
-average power of 20 kWh/d per person requires an installed capacity of 150 GW.
-At the end of 2006, Denmark had an installed capacity of 3.1 GW; Germany had
-20.6 GW. The world total was 74 GW(wwindea.org).  Incidentally, the load factor
-of the Danish wind fleet was 22% in 2006, and the average power it delivered
-was 3 kWh/d per person.
-
 Figure 4.6. Histogram of Cambridge average wind speed in metres per second:
 daily averages (left), and half-hourly averages (right).
