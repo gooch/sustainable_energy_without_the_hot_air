@@ -22,15 +22,16 @@ knitr::include_graphics('images/figure25.png')
 ```
 
 This figure of 6 m/s is probably an over-estimate for many locations in
-Britain. For example, figure \@ref(fig:cambridge-windspeed) shows daily average wind speeds in Cambridge
-during 2006^[Cambridge wind data are from the
-Digital Technology Group, Computer Laboratory, Cambridge[vxhhj]. The weather
-station is on the roof of the Gates building, roughly 10 m high. Wind speeds at
-a height of 50 m are usually about 25% bigger. Cairngorm data (*figure \@ref(fig:cairngorm-windspeed)*) are
-from Heriot–Watt University Physics Department[tdvml].]
-. The daily average speed reached 6 m/s on only about 30 days of the
-year – see figure \@ref(fig:cambridge-windspeed-histogram) for a histogram. But some spots do have wind speeds above
-6 m/s – for example, the summit of Cairngorm in Scotland (figure \@ref(fig:cairngorm-windspeed)).
+Britain. For example, figure \@ref(fig:cambridge-windspeed) shows daily average
+wind speeds in Cambridge during 2006^[Cambridge wind data are from the Digital
+Technology Group, Computer Laboratory, Cambridge[vxhhj]. The weather station is
+on the roof of the Gates building, roughly 10 m high. Wind speeds at a height
+of 50 m are usually about 25% bigger. Cairngorm data (*figure
+\@ref(fig:cairngorm-windspeed)*) are from Heriot–Watt University Physics
+Department[tdvml].] . The daily average speed reached 6 m/s on only about 30
+days of the year – see figure \@ref(fig:cambridge-windspeed-histogram) for a
+histogram. But some spots do have wind speeds above 6 m/s – for example, the
+summit of Cairngorm in Scotland (figure \@ref(fig:cairngorm-windspeed)).
 
 Plugging in the British population density: 250 people per square kilo-metre,
 or 4000 square metres per person, we find that wind power could generate if
