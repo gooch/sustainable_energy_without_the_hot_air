@@ -311,14 +311,14 @@ beyond 1 W/m^2^.
 
 I'll pop 24 kWh/d per person onto the green stack, emphasizing that I think this
 number is an over-estimate – I think the true maximum power that we could get
-from biomass will be smaller because of the losses infarming and processing.
+from biomass will be smaller because of the losses in farming and processing.
 
 I think one conclusion is clear: *biofuels can't add up* – at least, not
-incountries like Britain, and not as a replacement for all transport fuels.
-Evenleaving aside biofuels' main defects – that their production competes
-withfood, and that the additional inputs required for farming and
-processingoften cancel out most of the delivered energy (images/figure 6.14) –
-biofuels madefrom plants, in a European country like Britain, can deliver so
+in countries like Britain, and not as a replacement for all transport fuels.
+Even leaving aside biofuels' main defects – that their production competes
+with food, and that the additional inputs required for farming and
+processing often cancel out most of the delivered energy (images/figure 6.14) –
+biofuels made from plants, in a European country like Britain, can deliver so
 little power,I think they are scarcely worth talking about.
 
 Notes and further reading
