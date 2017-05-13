@@ -174,7 +174,14 @@ gigawatt are pronounced hard, the same as in "giggle." And, while I’m
 tapping the blackboard, we capitalize the "g" and "w" in "gigawatt"
 only when we write the abbreviation"GW."
 
-Please, never, ever say "one kilowatt per second," "one kilowatt
+Please, never, ever say "one kilowatt per second,"^[There are specific,
+rare exceptions to this rule. If talking about a growth in demand for
+power, we might say "British demand is growing at one gigawatt per
+year." In Chapter 26 when I discuss fluctuations in wind power, I will say
+"one morning, the power delivered by Irish windmills fell at a rate of84
+MW per hour." Please take care! Just one accidental syllable can lead to
+confusion: for example, your electricity meter’s reading is in
+kilowatt-hours (kWh), *not* ‘kilowatts-per-hour’.] "one kilowatt
 per hour," or "one kilowatt per day;" none of these is a valid measure of
 power.The urge that people have to say "per something" when talking
 about their toasters is one of the reasons I decided to use the
@@ -316,20 +323,6 @@ got ’em, and it shows how to handle them. I hope you enjoy it!
 
 Notes and further reading
 -------------------------
-
-page no.
-
-25*The "per second" is already built in to the definition of the
-kilowatt.* 
-
-–*Please, never, ever say "one kilowatt per second." * There are specific,
-rare exceptions to this rule. If talking about a growth in demand for
-power, we might say "British demand is growing at one gigawatt per
-year." In Chapter 26 when I discuss fluctuations in wind power, I will say
-"one morning, the power delivered by Irish windmills fell at a rate of84
-MW per hour." Please take care! Just one accidental syllable can lead to
-confusion: for example, your electricity meter’s reading is in
-kilowatt-hours (kWh), *not* ‘kilowatts-per-hour’.
 
 I’ve provided a chart on p368 to help you translate between kWh per day
 per person and the other major units in which powers are discussed.
