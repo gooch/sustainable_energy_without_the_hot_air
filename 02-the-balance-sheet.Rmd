@@ -145,7 +145,7 @@ The longer the toaster is on, the more energy it uses. You can work
 out the energy used by a particular activity by multiplying the power by
 the duration:
 
-energy= power × time.
+$energy = power \times time$
 
 The joule is the standard international unit of energy, but sadly it’s
 far too small to work with. The kilowatt-hour is equal to 3.6 million
