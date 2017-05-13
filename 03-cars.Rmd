@@ -35,7 +35,25 @@ obtain a calorific value of:
 $8\space kWh\space per\space kg \times 0.8\space kg\space per\space litre \approx 7\space kWh\space per\space litre$
 
 Rather than willfully perpetuate an inaccurate estimate, let’s switch to the
-actual value, for petrol, of 10 kWh per litre.
+actual value^[ORNL [2hcgdh] provide the
+following calorific values: diesel: 10.7 kWh/l; jet fuel: 10.4 kWh/l; petrol:
+9.7 kWh/l.When looking up calorific values, you’ll find "gross calorific value"
+and"net calorific value" listed (also known as "high heat value" and "low heat
+value" ). These differ by only 6% for motor fuels, so it’s not crucial to
+distinguish them here, but let me explain anyway. The gross calorific value is
+the actual chemical energy released when the fuel is burned. One of the
+products of combustion is water, and in most engines and power stations, part
+of the energy goes into vaporizing this water. The net calorific value measure
+show much energy is left over assuming this energy of vaporization is discarded
+and wasted.When we ask "how much energy does my lifestyle consume?" the gross
+calorific value is the right quantity to use. The net calorific value, on the
+other hand, is of interest to a power station engineer, who needs to decide
+which fuel to burn in his power station. Throughout this book I’ve tried to use
+gross calorific values.A final note for party-pooping pedants who say "butter
+is not a hydrocarbon" :OK, butter is not a pure hydrocarbon; but it’s a good
+approximation to say that the main component of butter is long hydrocarbon
+chains, just like petrol. The proof of the pudding is, this approximation got
+us within 30% of the correct answer. Welcome to guerrilla physics.], for petrol, of 10 kWh per litre.
 
 $\begin{align}
 energy\space per\space date &= \frac{distance\space travelled\space per\space day}{distance\space per\space unit\space of\space fuel} \times energy\space per\space unit\space of\space fuel\\
@@ -130,26 +148,7 @@ its fleet of new cars sold in 2005 has an average top-level fuel economy of
 29*Let’s guess a density of 0.8 kg per litre.* Petrol’s density is 0.737.
 Diesel’s is0.820–0.950 [nmn4l].
 
-–*... the actual value of 10 kWh per litre.* ORNL [2hcgdh] provide the
-following calorific values: diesel: 10.7 kWh/l; jet fuel: 10.4 kWh/l; petrol:
-9.7 kWh/l.When looking up calorific values, you’ll find "gross calorific value"
-and"net calorific value" listed (also known as "high heat value" and "low heat
-value" ). These differ by only 6% for motor fuels, so it’s not crucial to
-distinguish them here, but let me explain anyway. The gross calorific value is
-the actual chemical energy released when the fuel is burned. One of the
-products of combustion is water, and in most engines and power stations, part
-of the energy goes into vaporizing this water. The net calorific value measure
-show much energy is left over assuming this energy of vaporization is discarded
-and wasted.When we ask "how much energy does my lifestyle consume?" the gross
-calorific value is the right quantity to use. The net calorific value, on the
-other hand, is of interest to a power station engineer, who needs to decide
-which fuel to burn in his power station. Throughout this book I’ve tried to use
-gross calorific values.A final note for party-pooping pedants who say "butter
-is not a hydrocarbon" :OK, butter is not a pure hydrocarbon; but it’s a good
-approximation to say that the main component of butter is long hydrocarbon
-chains, just like petrol. The proof of the pudding is, this approximation got
-us within 30% of the correct answer. Welcome to guerrilla physics.
-
+–*... the actual value of 10 kWh per litre.* 
 ![](images/figure23.png)
 
 ![](images/figure24.png)
