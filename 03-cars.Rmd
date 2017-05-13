@@ -6,7 +6,7 @@ civilization: the car with a lone person in it.
 How much power does a regular car-user consume? Once we know the conversion
 rates, it’s simple arithmetic:
 
-${energy\space used per\space day} = \frac{distance\space travelled\space per\space day}{distance\space per\space unit\space of\space fuel} \times emergy\space per\space unit\space of\space fuel$
+${energy\space used\space per\space day} = \frac{distance\space travelled\space per\space day}{distance\space per\space unit\space of\space fuel} \times energy\space per\space unit\space of\space fuel$
 
 For the **distance travelled per day**, let’s use 50 km (30 miles).
 
@@ -39,7 +39,7 @@ actual value^[ORNL [2hcgdh] provide the
 following calorific values: diesel: 10.7 kWh/l; jet fuel: 10.4 kWh/l; petrol:
 9.7 kWh/l.When looking up calorific values, you’ll find "gross calorific value"
 and"net calorific value" listed (also known as "high heat value" and "low heat
-value" ). These differ by only 6% for motor fuels, so it’s not crucial to
+value"). These differ by only 6% for motor fuels, so it’s not crucial to
 distinguish them here, but let me explain anyway. The gross calorific value is
 the actual chemical energy released when the fuel is burned. One of the
 products of combustion is water, and in most engines and power stations, part
