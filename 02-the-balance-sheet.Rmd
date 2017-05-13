@@ -151,41 +151,39 @@ The joule is the standard international unit of energy, but sadly it’s
 far too small to work with. The kilowatt-hour is equal to 3.6 million
 joules (3.6mega joules).
 
-Powers are so useful and important, they have something that water flows
-don’t have: they have their own special units. When we talk of a flow, we
-might measure it in "litres per minute," "gallons per hour,"
-or"cubic-metres per second;" these units’ names make clear that the flow
-is"a volume per unit time." A power of *one joule per second* is called
-*one watt*.1000 joules per second is called one kilowatt. Let’s get the
-terminology straight: the toaster uses one kilowatt. It doesn’t use "one
-kilowatt per second." The "per second" is already built in to the
-definition of the kilowatt^[Other examples of units that, like the watt, already have a
-"per time" built in are the knot – "our yacht’s speed was ten knots!" (a
-knot is one nautical mile *per* hour); the hertz – "I could hear a
-buzzing at 50 hertz" (one hertz is a frequency of one cycle *per*
-second); the ampere – "the fuse blows when the current is higher than 13
-amps" (*not* 13 amps per second); and the horsepower – "that stinking
+Powers are so useful and important, they have something that water flows don’t
+have: they have their own special units. When we talk of a flow, we might
+measure it in "litres per minute," "gallons per hour," or"cubic-metres per
+second;" these units’ names make clear that the flow is"a volume per unit
+time." A power of *one joule per second* is called *one watt*.1000 joules per
+second is called one kilowatt. Let’s get the terminology straight: the toaster
+uses one kilowatt. It doesn’t use "one kilowatt per second." The "per second"
+is already built in to the definition of the kilowatt^[Other examples of units
+that, like the watt, already have a "per time" built in are the knot – "our
+yacht’s speed was ten knots!" (a knot is one nautical mile *per* hour); the
+hertz – "I could hear a buzzing at 50 hertz" (one hertz is a frequency of one
+cycle *per* second); the ampere – "the fuse blows when the current is higher
+than 13 amps" (*not* 13 amps per second); and the horsepower – "that stinking
 engine delivers 50 horsepower" (*not* 50 horsepower per second, nor 50
-horsepower per hour, nor 50 horsepower per day, just 50 horsepower).]: one kilowatt means "one kilo-joule per second."
-Similarly we say "a nuclear power station generates one gigawatt." One
-gigawatt, by the way, is one billion watts, one million kilowatts, or
-1000 megawatts. So one gigawatt is a million toasters. And the "g" s in
-gigawatt are pronounced hard, the same as in "giggle." And, while I’m
-tapping the blackboard, we capitalize the "g" and "w" in "gigawatt"
-only when we write the abbreviation"GW."
+horsepower per hour, nor 50 horsepower per day, just 50 horsepower).]: one
+kilowatt means "one kilo-joule per second." Similarly we say "a nuclear power
+station generates one gigawatt." One gigawatt, by the way, is one billion
+watts, one million kilowatts, or 1000 megawatts. So one gigawatt is a million
+toasters. And the "g" s in gigawatt are pronounced hard, the same as in
+"giggle." And, while I’m tapping the blackboard, we capitalize the "g" and "w"
+in "gigawatt" only when we write the abbreviation "GW."
 
-Please, never, ever say "one kilowatt per second,"^[There are specific,
-rare exceptions to this rule. If talking about a growth in demand for
-power, we might say "British demand is growing at one gigawatt per
-year." In Chapter 26 when I discuss fluctuations in wind power, I will say
-"one morning, the power delivered by Irish windmills fell at a rate of84
-MW per hour." Please take care! Just one accidental syllable can lead to
-confusion: for example, your electricity meter’s reading is in
-kilowatt-hours (kWh), *not* ‘kilowatts-per-hour’.] "one kilowatt
-per hour," or "one kilowatt per day;" none of these is a valid measure of
-power.The urge that people have to say "per something" when talking
-about their toasters is one of the reasons I decided to use the
-"kilowatt-hour per day" as my unit of power. I’m sorry that it’s a bit
+Please, never, ever say "one kilowatt per second,"^[There are specific, rare
+exceptions to this rule. If talking about a growth in demand for power, we
+might say "British demand is growing at one gigawatt per year." In Chapter 26
+when I discuss fluctuations in wind power, I will say "one morning, the power
+delivered by Irish windmills fell at a rate of84 MW per hour." Please take
+care! Just one accidental syllable can lead to confusion: for example, your
+electricity meter’s reading is in kilowatt-hours (kWh), *not*
+‘kilowatts-per-hour’.] "one kilowatt per hour," or "one kilowatt per day;" none
+of these is a valid measure of power.The urge that people have to say "per
+something" when talking about their toasters is one of the reasons I decided to
+use the "kilowatt-hour per day" as my unit of power. I’m sorry that it’s a bit
 cumbersome to say and to write.
 
 Here’s one last thing to make clear: if I say "someone used a
