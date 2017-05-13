@@ -18,8 +18,8 @@ person" – the consumption that many people aspire to. Some people don’t driv
 much. In this chapter, I want to estimate the energy consumed by someone who
 chooses to drive, rather than depersonalize the answer by reporting the UK
 average, which mixes together the drivers and non-drivers. If I said "the
-average use of energy for car driving in the UK is 24 kWh/d per person," I bet some people would
-misunderstand and say: "I’m a car driver so I guess I use 24
+average use of energy for car driving in the UK is 24 kWh/d per person," I bet
+some people would misunderstand and say: "I’m a car driver so I guess I use 24
 kWh/d." [^**E**^](http://www.withouthotair.com/Errata.html#31)] (30 miles).
 
 For the **distance per unit of fuel**, also known as the **economy** of the
@@ -36,43 +36,43 @@ $33\space miles\space per\space imperial\space gallon \approx 12\space km\space 
 
 (The symbol ≈ means "is approximately equal to." )
 
-What about the **energy per unit of fuel** (also called the **calorific
-value** or **energy density**)? Instead of looking it up, it’s fun to estimate
-this sort of quantity by a bit of lateral thinking. Automobile fuels (whether
-diesel or petrol) are all hydrocarbons; and hydrocarbons can also be found on
-our breakfast table, with the calorific value conveniently written on the
-side: roughly 8 kWh per kg (images/figure 3.2). Since we’ve estimated the
-economy of the car in miles per unit *volume* of fuel, we need to express the
-calorific value as an energy per unit *volume*. To turn our fuel’s "8 kWh per
-kg" (an energy per unit *mass*) into an energy per unit volume, we need to know
-the density of the fuel. What’s the density of butter? Well, butter just floats
-on water, as do fuel-spills, so its density must be a little less than
-water’s, which is 1 kg per litre. If we guess a density of 0.8 kg per litre^[Petrol’s density is 0.737.
-Diesel’s is 0.820–0.950 [nmn4l].], we
-obtain a calorific value of:
+What about the **energy per unit of fuel** (also called the **calorific value**
+or **energy density**)? Instead of looking it up, it’s fun to estimate this
+sort of quantity by a bit of lateral thinking. Automobile fuels (whether diesel
+or petrol) are all hydrocarbons; and hydrocarbons can also be found on our
+breakfast table, with the calorific value conveniently written on the side:
+roughly 8 kWh per kg (images/figure 3.2). Since we’ve estimated the economy of
+the car in miles per unit *volume* of fuel, we need to express the calorific
+value as an energy per unit *volume*. To turn our fuel’s "8 kWh per kg" (an
+energy per unit *mass*) into an energy per unit volume, we need to know the
+density of the fuel. What’s the density of butter? Well, butter just floats on
+water, as do fuel-spills, so its density must be a little less than water’s,
+which is 1 kg per litre. If we guess a density of 0.8 kg per litre^[Petrol’s
+density is 0.737. Diesel’s is 0.820–0.950 [nmn4l].], we obtain a calorific
+value of:
 
 $8\space kWh\space per\space kg \times 0.8\space kg\space per\space litre \approx 7\space kWh\space per\space litre$
 
 Rather than willfully perpetuate an inaccurate estimate, let’s switch to the
-actual value^[ORNL [2hcgdh] provide the
-following calorific values: diesel: 10.7 kWh/l; jet fuel: 10.4 kWh/l; petrol:
-9.7 kWh/l.When looking up calorific values, you’ll find "gross calorific value"
-and "net calorific value" listed (also known as "high heat value" and "low heat
-value"). These differ by only 6% for motor fuels, so it’s not crucial to
-distinguish them here, but let me explain anyway. The gross calorific value is
-the actual chemical energy released when the fuel is burned. One of the
-products of combustion is water, and in most engines and power stations, part
-of the energy goes into vaporizing this water. The net calorific value measure
-show much energy is left over assuming this energy of vaporization is discarded
-and wasted.When we ask "how much energy does my lifestyle consume?" the gross
-calorific value is the right quantity to use. The net calorific value, on the
-other hand, is of interest to a power station engineer, who needs to decide
-which fuel to burn in his power station. Throughout this book I’ve tried to use
-gross calorific values.A final note for party-pooping pedants who say "butter
-is not a hydrocarbon": OK, butter is not a pure hydrocarbon; but it’s a good
-approximation to say that the main component of butter is long hydrocarbon
-chains, just like petrol. The proof of the pudding is, this approximation got
-us within 30% of the correct answer. Welcome to guerrilla physics.], for petrol, of 10 kWh per litre.
+actual value^[ORNL [2hcgdh] provide the following calorific values: diesel:
+10.7 kWh/l; jet fuel: 10.4 kWh/l; petrol: 9.7 kWh/l.When looking up calorific
+values, you’ll find "gross calorific value" and "net calorific value" listed
+(also known as "high heat value" and "low heat value"). These differ by only 6%
+for motor fuels, so it’s not crucial to distinguish them here, but let me
+explain anyway. The gross calorific value is the actual chemical energy
+released when the fuel is burned. One of the products of combustion is water,
+and in most engines and power stations, part of the energy goes into vaporizing
+this water. The net calorific value measure show much energy is left over
+assuming this energy of vaporization is discarded and wasted.When we ask "how
+much energy does my lifestyle consume?" the gross calorific value is the right
+quantity to use. The net calorific value, on the other hand, is of interest to
+a power station engineer, who needs to decide which fuel to burn in his power
+station. Throughout this book I’ve tried to use gross calorific values.A final
+note for party-pooping pedants who say "butter is not a hydrocarbon": OK,
+butter is not a pure hydrocarbon; but it’s a good approximation to say that the
+main component of butter is long hydrocarbon chains, just like petrol. The
+proof of the pudding is, this approximation got us within 30% of the correct
+answer. Welcome to guerrilla physics.], for petrol, of 10 kWh per litre.
 
 $\begin{align}
 energy\space per\space date &= \frac{distance\space travelled\space per\space day}{distance\space per\space unit\space of\space fuel} \times energy\space per\space unit\space of\space fuel\\
@@ -102,11 +102,11 @@ fuel_energy_content = tibble::data_frame(type = c('petrol', 'diesel'), value = c
 knitr::kable(fuel_energy_content, caption = 'calorific values')
 ```
 
-This is the estimate for a typical car-driver driving a typical car today. Later
-chapters will discuss the *average* consumption of all the people in Britain,
-taking into account the fact that not everyone drives. We’ll also discuss in
-Part II what the consumption *could* be, with the help of other technologies
-such as electric cars.
+This is the estimate for a typical car-driver driving a typical car today.
+Later chapters will discuss the *average* consumption of all the people in
+Britain, taking into account the fact that not everyone drives. We’ll also
+discuss in Part II what the consumption *could* be, with the help of other
+technologies such as electric cars.
 
 Why does the car deliver 33 miles per gallon? Where’s that energy going? Could
 we manufacture cars that do 3300 miles per gallon? If we are interested in
