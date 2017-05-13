@@ -9,11 +9,7 @@ litre. (We learned that in Chapter 3.) So the energy cost of one
 full-distance round-trip on such a plane, if divided equally among the
 passengers, is
 
-2 × 240 000 litre
-
-× 10 kWh/litre ≈ 12 000 kWh per passenger
-
-416 passengers
+$\frac{2 \times 240 000\space litre}{416\space passengers} \times 10 kWh/litre \approx 12 000 kWh\space per\space passenger$
 
 If you make one such trip per year, then your average energy
 consumption per day is
