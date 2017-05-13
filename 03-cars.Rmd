@@ -113,7 +113,7 @@ we manufacture cars that do 3300 miles per gallon? If we are interested in
 trying to reduce cars’ consumption, we need to understand the physics behind
 cars’ consumption. These questions are answered in the accompanying technical
 chapter A (p254), which provides a cartoon theory of cars’ consumption. I
-encourage you to read the technical chapters if formulae like ^1^⁄~2~mv^2^
+encourage you to read the technical chapters if formulae like $\frac{1}{2}mv^2$
 don’t give you medical problems.
 
 Chapter 3’s conclusion: a typical car-driver uses about 40 kWh per day. Next we
