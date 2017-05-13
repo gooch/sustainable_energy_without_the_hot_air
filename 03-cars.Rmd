@@ -97,7 +97,7 @@ knitr::include_graphics('images/figure20.png')
 ```
 
 ```{r calorific-values-for-hyrocarbon-fuels}
-fuel_energy_content = tibble::data_frame(type = c('petrol', 'diesel'), value = c('10 kWh per litre', '11 kWh per litre'))
+fuel_energy_content <- tibble::data_frame(type = c('petrol', 'diesel'), value = c('10 kWh per litre', '11 kWh per litre'))
 
 knitr::kable(fuel_energy_content, caption = 'calorific values')
 ```
