@@ -49,17 +49,17 @@ A regular oven guzzles more: about 3 kW when on full. If you use theoven
 for one hour per day, and the oven’s on full power for half of thattime,
 that’s 1.5 kWh per day.
 
-![](figure53.png)
+![](images/figure53.png)
 
 Figure 7.1. A flock of new houses.
 
-![](figure54.png)
+![](images/figure54.png)
 
 Figure 7.2. The water in a bath.
 
 230 V × 13 A = 3000 W
 
-![](figure55.png)
+![](images/figure55.png)
 
 Figure 7.3. Power consumption by a heating and cooling device.
 
@@ -198,7 +198,7 @@ where the heat is going in a building; this model makes it possible to
 Table 7.4. Energy consumption figures for heating and cooling devices,
 per household.
 
-![](figure56.png)
+![](images/figure56.png)
 
 Figure 7.5. The hot water total at both home and work – including
 bathing, showering, clothes washing, cookers, kettles, microwave oven,
@@ -206,7 +206,7 @@ and dishwashing – is about 12 kWh per day per person. I’ve given this
 box a light colour to indicate that this power could be delivered by
 low-grade thermal energy.
 
-![](figure57.png)
+![](images/figure57.png)
 
 Figure 7.6. A big electric heater: 2 kW.
 
@@ -238,9 +238,9 @@ In countries where the temperature gets above 30 °C, air-conditioning
 isviewed as a necessity, and the energy cost of delivering that
 temperaturecontrol can be large. However, this part of the book is about
 British energyconsumption, and Britain’s temperatures provide little
-need for air- conditioning (figure 7.8).
+need for air- conditioning (images/figure 7.8).
 
-![](figure59.png)
+![](images/figure59.png)
 
 An economical way to get air-conditioning is an air-source heat pump.A
 window-mounted electric air-conditioning unit for a single room uses0.6
@@ -254,7 +254,7 @@ This chapter’s estimate of the energy cost of cooling – 1 kWh/d
 perperson – includes this air-conditioning and a domestic refrigerator.
 Society
 
-![](figure58.png)
+![](images/figure58.png)
 
 Figure 7.7. Hot air total – including domestic and workplace heating –
 about 24 kWh per day per person.
@@ -262,7 +262,7 @@ about 24 kWh per day per person.
 Figure 7.8. Cambridge temperature in degrees Celsius, daily (red line),
 and half-hourly (blue line) during 2006.
 
-![](figure60.png)
+![](images/figure60.png)
 
 Figure 7.9. Cooling total – including a refrigerator (fridge/freezer)
 and a little summer air-conditioning – 1 kWh/d.

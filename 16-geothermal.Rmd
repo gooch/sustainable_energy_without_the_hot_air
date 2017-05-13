@@ -17,7 +17,7 @@ switch them on and off so as to follow demand.
 But how much geothermal power is available? We could estimate geothermal
 power of two types: the power available at an ordinary location on the
 earth’s crust; and the power available in special hot spots like Iceland
-(figure 16.3). While the right place to first develop geothermal
+(images/figure 16.3). While the right place to first develop geothermal
 technology is definitely the special hot spots, I’m going to assume that
 the greater total resource comes from the ordinary locations, since
 ordinary locations are so much more numerous.
@@ -47,15 +47,15 @@ stop-gap giving us another 100 years of unsustainable living? In this
 book I’m most interested in *sustainable* energy, as the title hinted.
 Let’s do the sums.
 
-![](figure116.png)
+![](images/figure116.png)
 
 Figure 16.1. An earth in section.
 
-![](figure117.png)
+![](images/figure117.png)
 
 Figure 16.2. Some granite.
 
-![](figure115.png)
+![](images/figure115.png)
 
 Geothermal power that would be sustainable forever
 --------------------------------------------------
@@ -95,7 +95,7 @@ aluminium production. Photo by Gretar Ívarsson.
 
 one milliwatt (1 mW) is 0.001 W.
 
-![](figure118.png)
+![](images/figure118.png)
 
 Figure 16.4. Temperature profile in a typical continent.
 
@@ -119,7 +119,7 @@ Geothermal power as mining
 --------------------------
 
 The other geothermal strategy is to treat the heat as a resource to be
-mined. In “enhanced geothermal extraction” from hot dry rocks (figure
+mined. In “enhanced geothermal extraction” from hot dry rocks (images/figure
 16.5), we first drill down to a depth of 5 or 10 km, and fracture the
 rocks by pumping in water. (This step may create earthquakes, which
 don’t go down well with the locals.) Then we drill a second well into
@@ -152,14 +152,14 @@ water to customers, and sells electricity to the grid. Geothermal energy
 contributes about 15% of the 70 GWh of heat per year delivered by this
 system. The population
 
-![](figure119.png)
+![](images/figure119.png)
 
 Figure 16.5. Enhanced geothermal extraction from hot dry rock. One well
 is drilled and pressurized to create fractures. A second well is drilled
 into the far side of the fracture zone. Then cold water is pumped down
 one well and heated water (indeed, steam) is sucked up the other.
 
-![](figure343.png)
+![](images/figure343.png)
 
 of Southampton at the last census was 217 445, so the geothermal power
 being delivered there is **0.13kWh/d per person** in Southampton.
@@ -194,6 +194,6 @@ economically.
 –*Southampton Geothermal District Heating Scheme*.
 www.southampton.gov.uk.
 
-![](figure120.png)
+![](images/figure120.png)
 
 Figure 16.6. Geothermal.

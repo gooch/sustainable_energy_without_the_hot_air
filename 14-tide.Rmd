@@ -32,7 +32,7 @@ Why are there two high tides and two low tides per day? Well, if the
 earth were a perfect sphere, a smooth billiard ball covered by oceans,
 the tidal effect of the earth-moon whirling would be to deform the wa-
 ter slightly towards and away from the moon, making the water slightly
-rugby-ball shaped (figure 14.1). Someone living on the equator of this
+rugby-ball shaped (images/figure 14.1). Someone living on the equator of this
 billiard-ball earth, spinning round once per day within the water
 cocoon, would notice the water level going up and down twice per day: up
 once as he passed under the nose of the rugby-ball, and up a second time
@@ -47,7 +47,7 @@ they whoosh around the perimeter of the Ocean. In the North Atlantic
 there are two crests and two troughs, all circling the Atlantic in an
 anticlockwise direction once a
 
-![](figure96.png)
+![](images/figure96.png)
 
 Figure 14.1. An ocean covering a billiard-ball earth. We’re looking down
 on the North pole, and the moon is 60 cm off the page to the right. The
@@ -94,7 +94,7 @@ Rough estimates of tidal power
 
 When you think of tidal power, you might think of an artificial pool
 next to the sea, with a water-wheel that is turned as the pool fills or
-empties (figures 14.2 and 14.3). Chapter G shows how to estimate the
+empties (images/figures 14.2 and 14.3). Chapter G shows how to estimate the
 power avail- able from such tide-pools. Assuming a range of 4 m, a
 typical range in many European estuaries, the maximum power of an
 artificial tide-pool that’s filled rapidly at high tide and emptied
@@ -108,16 +108,16 @@ to be similar to the area of Britain.
 
 Amazingly, Britain is already supplied with a natural tide-pool of just
 the required dimensions. This tide-pool is known as the North Sea
-(figure 14.5). If we simply insert generators in appropriate spots,
+(images/figure 14.5). If we simply insert generators in appropriate spots,
 significant power can be extracted. The generators might look like
 underwater wind
 
-![](figure97.png)
+![](images/figure97.png)
 
 Figure 14.2. Woodbridge tide-pool and tide-mill. Photos kindly provided
 by Ted Evans.
 
-![](figure99.png)
+![](images/figure99.png)
 
 Figure 14.3. An artificial tide-pool. The pool was filled at high tide,
 and now it’s low tide. We let the water out through the electricity
@@ -133,7 +133,7 @@ generator to turn the water’s potential energy into electricity.
 Table 14.4. Power density (power per unit area) of tide-pools, assuming
 generation from both the rising and the falling tide.
 
-![](figure98.png)
+![](images/figure98.png)
 
 mills. Because the density of water is roughly 1000 times that of air,
 the power of water flow is 1000 times greater than the power of wind at
@@ -171,7 +171,7 @@ Figure 14.5. The British Isles are in a fortunate position: the North
 Sea forms a natural tide-pool, in and out of which great sloshes of
 water pour twice a day.
 
-![](figure100.png)
+![](images/figure100.png)
 
 Figure 14.6. The average incoming power of lunar tidal waves crossing
 these two lines has been measured to be 250 GW. This raw power, shared
@@ -216,7 +216,7 @@ produced an average power of 60 MW since 1966. The tidal range in the
 Severn Estuary is also unusually large. At Cardiff the range is 11.3 m
 at spring tides, and 5.8 m at neaps. If a barrage were put across the
 mouth of the Severn Estuary (from Weston-super-Mare to Cardiff), it
-would make a 500 km^2^ tide-pool (figure 14.8). Notice how much bigger
+would make a 500 km^2^ tide-pool (images/figure 14.8). Notice how much bigger
 this pool is than the estuary at La Rance. What power could this
 tide-pool deliver, if we let the water in and out at the ideal times,
 generating on both the flood and the ebb? According to the theoretical
@@ -277,7 +277,7 @@ Table 14.7. Tide farm power density (in watts per square metre of
 sea-floor) as a function of flow speed. (1 knot = 1 nautical mile per
 hour = 0.514 m/s.)
 
-![](figure101.png)
+![](images/figure101.png)
 
 The current proposals for the barrage will generate power in one
 direction only. This reduces the power delivered by another 50%. The
@@ -295,7 +295,7 @@ lagoons are that the water must be shallow and the tidal range must be
 large. Economies of scale apply: big tidal lagoons make cheaper
 electricity than small ones. The two main locations for large tidal
 lagoons in Britain are the Wash on the east coast, and the waters off
-Blackpool on the west coast (figure 14.9). Smaller facilities could be
+Blackpool on the west coast (images/figure 14.9). Smaller facilities could be
 built in north Wales, Lincolnshire, southwest Wales, and east Sussex.
 
 If two lagoons are built in one location, a neat trick can be used to
@@ -337,7 +337,7 @@ Beauties of tide
 ----------------
 
 Totting everything up, the barrage, the lagoons, and the tidal stream
-farms could deliver something like 11 kWh/d per person (figure 14.10).
+farms could deliver something like 11 kWh/d per person (images/figure 14.10).
 
 Tide power has never been used on an industrial scale in Britain, so
 it’s hard to know what economic and technical challenges will be raised
@@ -366,7 +366,7 @@ the land, and they can’t see under the sea, so objections to the visual
 impact of tide turbines should be less strong than the objections to
 wind turbines.
 
-![](figure102.png)
+![](images/figure102.png)
 
 Figure 14.9. Two tidal lagoons, each with an area of 400 km^2^, one off
 Blackpool, and one in the Wash. The Severn estuary is also highlighted

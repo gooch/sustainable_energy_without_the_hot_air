@@ -29,14 +29,14 @@ lowland water power.People may enjoy making “run-of-the-river” hydro and
 other small-scalehydroelectric schemes, but such lowland facilities can
 never deliver morethan 1 kWh per day per person.
 
-![](figure407.png)
+![](images/figure407.png)
 
-![](figure64.png)
+![](images/figure64.png)
 
 Figure 8.1. Nant-y-Moch dam, part of a 55 MW hydroelectric scheme in
 Wales. Photo by Dave Newbould, www.origins-photography.co.uk.
 
-![](figure406.png)
+![](images/figure406.png)
 
 [^**Erratum**^](http://www.withouthotair.com/Errata.html#55)
 
@@ -101,10 +101,10 @@ Glendoe’s peak output ratherthan its average, which is 5 times smaller;
 and by discussing “homes” ratherthan the total electrical power of
 Glasgow (see p329).
 
-![](figure65.png)
+![](images/figure65.png)
 
 Figure 8.3. Hydroelectricity.
 
-![](figure66.png)
+![](images/figure66.png)
 
 Figure 8.4. A 60 kW waterwheel.

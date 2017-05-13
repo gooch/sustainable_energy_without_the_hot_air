@@ -44,7 +44,7 @@ consuming one litre per 12 km
   10 incandescent lights   1 kW     5 h            5 kWh
   10 low-energy lights     0.1 kW   5 h            0.5 kWh
 
-![](figure67.png)
+![](images/figure67.png)
 
 Figure 9.1. Lighting – 4 kWh per day per person.
 
@@ -70,7 +70,7 @@ exceptionfor lightbulbs. Osram’s 20 W low-energy bulb claims the same
 lightoutput as a 100 W incandescent bulb. Moreover, its lifetime is said
 to be15 000 hours (or “12 years,” at 3 hours per day). In contrast a
 typical in-candescent bulb might last 1000 hours. So during a 12-year
-period, youhave this choice (figure 9.3): buy 15 incandescent bulbs and
+period, youhave this choice (images/figure 9.3): buy 15 incandescent bulbs and
 1500 kWh ofelectricity (which costs roughly £150); or buy one low-energy
 bulb and300 kWh of electricity (which costs roughly £30).
 
@@ -89,7 +89,7 @@ Researchers say that LED (light-emitting diode) bulbs will soon be
 evenmore energy-efficient than compact fluorescent lights. The
 efficiency of alight is measured in *lumens per watt*. I checked the
 numbers on my latestpurchases: the Philips Genie 11 W compact
-fluorescent bulb (figure 9.4)has a brightness of 600 lumens, which is an
+fluorescent bulb (images/figure 9.4)has a brightness of 600 lumens, which is an
 efficiency of **55 lumens perwatt**; regular incandescent bulbs deliver
 **10 lumens per watt**; the Omicron1.3 W lamp, which has 20 white LEDs
 hiding inside it, has a brightnessof 46 lumens, which is an efficiency
@@ -103,7 +103,7 @@ watt [ynjzej]. I expect that within another coupleof years, the best
 advice, from the point of view of both energy efficiencyand avoiding
 mercury pollution, will be to use LED bulbs.
 
-![](figure68.png)
+![](images/figure68.png)
 
 Figure 9.3. Total cumulative cost of using a traditional incandescent
 100 W bulb for 3 hours per day, compared with replacing it *now* with an
@@ -113,7 +113,7 @@ energy-saving bulbs cost £9. (I know you can find them cheaper than
 this, but this graph shows that even at £9, they’re much more
 economical.)
 
-![](figure69.png)
+![](images/figure69.png)
 
 Figure 9.4. Philips 11 W alongside Omicron 1.3 W LED bulb.
 

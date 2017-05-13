@@ -18,27 +18,27 @@ awind farm in the UK. If the typical windspeed is 6 m/s (13 miles per
 hour,or 22 km/h), the power per unit area of wind farm is about 2
 W/m^2^.
 
-![](figure25.png)
+![](images/figure25.png)
 
 This figure of 6 m/s is probably an over-estimate for many locations
 inBritain. For example, figure 4.1 shows daily average windspeeds in
 Cam-bridge during 2006. The daily average speed reached 6 m/s on only
 about30 days of the year – see figure 4.6 for a histogram. But some
 spots dohave windspeeds above 6 m/s – for example, the summit of
-Cairngorm inScotland (figure 4.2).
+Cairngorm inScotland (images/figure 4.2).
 
 Plugging in the British population density: 250 people per square
 kilo-metre, or 4000 square metres per person, we find that wind power
 could
 
-![](figure26.png)
+![](images/figure26.png)
 
-![](figure333.png)
+![](images/figure333.png)
 
 Figure 4.1. Cambridge mean wind speed in metres per second, daily (red
 line), and half-hourly (blue line) during 2006. See also figure 4.6.
 
-![](figure400.png)
+![](images/figure400.png)
 
 Figure 4.2. Cairngorm mean wind speed in metres per second, during six
 months of 2006.
@@ -90,22 +90,22 @@ modern turbines is 30%.If we assume Whitelee has a load factor of 33%
 then the average powerproduction per unit land area is 2 W/m^2^ –
 exactly the same as the powerdensity we assumed above.
 
-![](figure27.png)
+![](images/figure27.png)
 
 Figure 4.3. Chapter 4’s conclusion: the maximum plausible production
 from on-shore windmills in the United Kingdom is 20 kWh per day per
 person.
 
-![](figure401.png)
+![](images/figure401.png)
 
 Table 4.4. Facts worth remembering:wind farms.
 
-![](figure402.png)
+![](images/figure402.png)
 
 Table 4.5. Facts worth remembering:population density. See page 338
 formore population densities.
 
-![](figure28.png)
+![](images/figure28.png)
 
 Queries
 -------

@@ -11,7 +11,7 @@ persquare metre. That’s 1000 W per m^2^ of area oriented towards the
 sun, notper m^2^ of land area. To get the power per m^2^ of *land area*
 in Britain, wemust make several corrections. We need to compensate for
 the tilt betweenthe sun and the land, which reduces the intensity of
-midday sun to about60% of its value at the equator (figure 6.1). We also
+midday sun to about60% of its value at the equator (images/figure 6.1). We also
 lose out because it isnot midday all the time. On a cloud-free day in
 March or September, theratio of the *average* intensity to the midday
 intensity is about 32%. Finally,we lose power because of cloud cover. In
@@ -48,23 +48,23 @@ The simplest solar power technology is a panel making hot water.
 Let’simagine we cover *all* south-facing roofs with solar thermal panels
 – that
 
-![](figure33.png)
+![](images/figure33.png)
 
 Figure 6.1. Sunlight hitting the earth at midday on a spring or autumn
 day. The density of sunlight per unit land area in Cambridge (latitude
 52.) is about 60% of that at the equator.
 
-![](figure34.png)
+![](images/figure34.png)
 
 Figure 6.2. Average solar intensity in London and Edinburgh as a
 function of time of year. The average intensity, per unit land area, is
 100 W/m^2^.
 
-![](figure35.png)
+![](images/figure35.png)
 
 would be about 10 m^2^ of panels per person – and let’s assume these
 are50%-efficient at turning the sunlight’s 110 W/m^2^ into hot water
-(figure 6.3).
+(images/figure 6.3).
 
 Multiplying
 
@@ -114,7 +114,7 @@ water used (red line) is caused by heat-loss. The magenta line shows the
 electrical power required to run the solar system. The average power per
 unit area of these solar panels is 53 W/m^2^.
 
-![](figure36.png)
+![](images/figure36.png)
 
 Figure 6.4. Solar thermal: a 10 m^2^ array of thermal panels can deliver
 (on average) about 13 kWh per day of thermal energy.
@@ -145,9 +145,9 @@ enough tomake a huge dent in our total *energy* consumption. To do more
 with PV,we need to step down to terra firma. The solar warriors in
 figure 6.6 showthe way.
 
-![](figure37.png)
+![](images/figure37.png)
 
-![](figure38.png)
+![](images/figure38.png)
 
 Figure 6.5. Solar photovoltaics: data from a 25-m^2^ array in
 Cambridgeshire in 2006. The peak power delivered by this array is about
@@ -178,7 +178,7 @@ would be
 
 10% × 100 W/m^2^ = 10 W/m^2^.
 
-This power density is twice that of the Bavaria Solarpark (figure 6.7).
+This power density is twice that of the Bavaria Solarpark (images/figure 6.7).
 
 Could this flood of solar panels co-exist with the army of windmills
 weimagined in Chapter 4? Yes, no problem: windmills cast little shadow,
@@ -210,13 +210,13 @@ roof-mounted,grid-connected solar system in Central Northern Europe is
 4, for a systemwith a lifetime of 20 years (Richards and Watt, 2007);
 and more than 7 in
 
-![](figure39.png)
+![](images/figure39.png)
 
 Figure 6.7. A solar photovoltaic farm: the 6.3 MW (peak) Solarpark in
 Mühlhausen, Bavaria. Its average power per unit land area is expected to
 be about 5 W/m^2^. Photo by SunPower.
 
-![](figure40.png)
+![](images/figure40.png)
 
 Figure 6.8. Land areas per person in Britain.
 
@@ -269,7 +269,7 @@ routes to getenergy from solar-powered biological systems:
     power per unit areaof farmland as an optimized biomass-growing
     facility, but it has the
 
-![](figure41.png)
+![](images/figure41.png)
 
 Figure 6.9. Solar photovoltaics: a 10 m^2^ array of building-mounted
 south-facing panels with 20% efficiency can deliver about 5 kWh per day
@@ -308,9 +308,9 @@ to 0.5 W/m^2^. Let’scover 75% of the country with quality green stuff.
 That’s 3000 m^2^ perperson devoted to bio-energy. This is the same as
 the British land area
 
-![](figure42.png)
+![](images/figure42.png)
 
-![](figure43.png)
+![](images/figure43.png)
 
 Figure 6.10. Some *Miscanthus* grass enjoying the company of Dr Emily
 Heaton, who is 5′4″ (163 cm) tall. In Britain, *Miscanthus* achieves a
@@ -359,7 +359,7 @@ I think one conclusion is clear: *biofuels can’t add up* – at least, not
 incountries like Britain, and not as a replacement for all transport
 fuels. Evenleaving aside biofuels’ main defects – that their production
 competes withfood, and that the additional inputs required for farming
-and processingoften cancel out most of the delivered energy (figure
+and processingoften cancel out most of the delivered energy (images/figure
 6.14) – biofuels madefrom plants, in a European country like Britain,
 can deliver so little power,I think they are scarcely worth talking
 about.
@@ -381,17 +381,17 @@ The bestspots in Scotland get 1400 h per year – 32%. Cambridge: 1500 ±
 UK): 1700 h peryear – 39%. [2rqloc] Cambridge data from [2szckw]. See
 also figure 6.16.
 
-![](figure44.png)
+![](images/figure44.png)
 
 Figure 6.12. Solar biomass, including all forms of biofuel, waste
 incineration, and food: 24 kWh/d per person.
 
-![](figure49.png)
+![](images/figure49.png)
 
 Figure 6.13. Sunniness of Cambridge: the number of hours of sunshine per
 year, expressed as a fraction of the total number of daylight hours.
 
-![](figure45.png)
+![](images/figure45.png)
 
 38*The average raw power of sunshine per square metre of south-facing
 roof inBritain is roughly 110 W/m^2^, and of flat ground, roughly 100
@@ -431,13 +431,13 @@ inputs required for farming and processing? What is the delivered
 energy? What is the *net* energy output? Often the additional inputs and
 losses wipe out most of the energy delivered by the plants.
 
-![](figure50.png)
+![](images/figure50.png)
 
 Figure 6.15. Power produced by the Sanyo HIP-210NKHE1 module as a
 function of light intensity (at 25°C, assuming an output voltage of 40
 V). Source: datasheet, www.sanyo-solar.eu.
 
-![](figure48.png)
+![](images/figure48.png)
 
 may be true, but efficiency should not be confused with delivered power.
 
@@ -492,7 +492,7 @@ energy of every 2.2 eV photon is lost.Further losses are incurred
 because of inevitable radiation from recombining charges in the
 photovoltaic material.
 
-![](figure51.png)
+![](images/figure51.png)
 
 Figure 6.18. Efficiencies of solar photovoltaic modules available for
 sale today. In the text I assume that roof-top photovoltaics are 20%
@@ -554,7 +554,7 @@ Pollution, 2004). On page43 of the Royal Society’s biofuels document
 (Royal Society working groupon biofuels, 2008), *Miscanthus* tops the
 list, delivering about 0.8 W/m^2^ ofchemical power.
 
-![](figure52.png)
+![](images/figure52.png)
 
 Figure 6.19. A combined-heat-and-power photovoltaic unit from
 Heliodynamics. A reflector area of 32 m^2^ (a bit larger than the side

@@ -52,9 +52,9 @@ those nuclear weapons been used? The energies of the biggest thermonu-
 clear weapons developed by the USA and USSR are measured in megatons of
 TNT. A ton of TNT is 1200 kWh. The bomb that destroyed Hiroshima
 
-![](figure121.png)
+![](images/figure121.png)
 
-![](figure122.png)
+![](images/figure122.png)
 
 had the energy of 15 000 tons of TNT (18 million kWh). A *megaton* bomb
 delivers an energy of 1.2 billion kWh. If dropped on a city of one
@@ -106,7 +106,7 @@ There may be other energy-consuming public services we could talk about,
 but at this point I’d like to wrap up our race between the red and green
 stacks.
 
-![](figure123.png)
+![](images/figure123.png)
 
 Figure 17.1. The energy cost of defence in the UK is estimated to be
 about 4 kWh per day per person.
@@ -161,7 +161,7 @@ million SWU, which works out to 0.1 kWh/d per person (assuming 250
 million Americans, and using 2500 kWh/SWU as the cost of diffusion
 enrichment).
 
-![](figure124.png)
+![](images/figure124.png)
 
-![](figure344.png)
+![](images/figure344.png)
 

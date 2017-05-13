@@ -53,11 +53,11 @@ miles.
 We can find an upper bound on the maximum conceivable power that could
 be obtained from wave power by estimating the incoming power
 
-![](figure84.png)
+![](images/figure84.png)
 
-![](figure85.png)
+![](images/figure85.png)
 
-![](figure83.png)
+![](images/figure83.png)
 
 Figure 12.1. A Pelamis wave energy collector is a sea snake made of four
 sections. It faces nose-on towards the incoming waves. The waves make
@@ -94,7 +94,7 @@ coastline* with wave absorbers will sound bananas to many readers.
 
 How do the numbers assumed in this calculation compare with today’s
 technology? As I write, there are just three wave machines working in
-deep water: three Pelamis wave energy collectors (figure 12.1) built in
+deep water: three Pelamis wave energy collectors (images/figure 12.1) built in
 Scotland and deployed off Portugal. No actual performance results have
 been pub- lished, but the makers of the Pelamis (“designed with survival
 as the key objective before power capture efficiency”) predict that a
@@ -117,7 +117,7 @@ machine’s. The Pelamis is a first prototype; presumably with further
 investment and development in wave technology, the weight-to-power ra-
 tio would fall.
 
-![](figure86.png)
+![](images/figure86.png)
 
 Figure 12.2. Wave.
 
@@ -170,8 +170,8 @@ electrical components mean the actual average output is 21 kW – just
 5%[^**E**^](http://www.withouthotair.com/Errata.html#75) of the
 predicted output (Wavegen, 2002).
 
-![](figure411.png)
+![](images/figure411.png)
 
 Photo by Terry Cavner.
 
-![](figure88.png)
+![](images/figure88.png)

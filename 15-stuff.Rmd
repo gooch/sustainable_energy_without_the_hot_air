@@ -48,7 +48,7 @@ so as to reduce its total energy cost, we should usually focus on
 reducing the cost of the dominant phase, while making sure that
 energy-savings in that phase
 
-![](figure105.png)
+![](images/figure105.png)
 
 Figure 15.1. Selfridges’ rubbish advertisement.
 
@@ -132,22 +132,22 @@ similar, throwing away two AA batteries per month uses about 0.1 kWh/d.
 The energy cost of batteries is thus likely to be a minor item in your
 stack of energy consumption.
 
-![](figure413.png)
+![](images/figure413.png)
 
-![](figure106.png)
+![](images/figure106.png)
 
 Figure 15.3. Five aluminium cans per day is 3 kWh/d. The embodied energy
 in other packaging chucked away by the average Brit is 4 kWh/d.
 
-![](figure107.png)
+![](images/figure107.png)
 
 Figure 15.4. She’s making chips. Photo: ABB. Making one personal
 computer every two years costs 2.5 kWh per day.
 
-![](figure104.png)
+![](images/figure104.png)
 
 Freight transport is measured in ton-kilometres (t-km). If one ton of
-Cornish pasties are transported 580 km (figure 15.5) then we say 580
+Cornish pasties are transported 580 km (images/figure 15.5) then we say 580
 t-km of freight transport have been achieved. The energy intensity of
 road trans- port in the UK is about 1 kWh per t-km.
 
@@ -180,19 +180,19 @@ litres
 Figure 15.5. Food-miles – Pasties, hand-made in Helston, Cornwall,
 shipped 580 km for consumption in Cambridge.
 
-![](figure111.png)
+![](images/figure111.png)
 
 Figure 15.6. The container ship *Ever Uberty* at Thamesport Container
 Terminal. Photo by Ian Boyle www.simplonpc.co.uk.
 
-![](figure112.png)
+![](images/figure112.png)
 
 Figure 15.7. The lorry delivereth and the lorry taketh away. Energy cost
 of UK road freight: 7 kWh/d per person.
 
-![](figure340.png)
+![](images/figure340.png)
 
-![](figure109.png)
+![](images/figure109.png)
 
 per day per person. In turn, we provide about 160 litres per day per
 person of sewage to the water companies. The cost of pumping water
@@ -212,7 +212,7 @@ low entropy, and nature prefers high entropy states where everything is
 mixed up. We must pay high-grade energy to achieve unmixing.
 
 The Island of Jersey has a desalination plant that can produce 6000 m^3^
-of pure water per day (figure 15.10). Including the pumps for bringing
+of pure water per day (images/figure 15.10). Including the pumps for bringing
 the water up from the sea and through a series of filters, the whole
 plant uses a power of 2 MW. That’s an energy cost of 8 kWh per m^3^ of
 water produced. At a cost of 8 kWh per m^3^, a daily water consumption
@@ -224,16 +224,16 @@ kWh per net ton-km, (that is, the energy per t-km of freight moved, not
 including the weight of the vehicle). See also figure 20.23 (energy
 requirements of passenger transport).
 
-![](figure108.png)
+![](images/figure108.png)
 
 Water transport requires energy because boats make waves. Nevertheless,
 transporting freight by ship is surprisingly energy efficient.
 
-![](figure113.png)
+![](images/figure113.png)
 
 Figure 15.9. Water delivery: 0.3 kWh/d; sewage processing: 0.1 kWh/d.
 
-![](figure110.png)
+![](images/figure110.png)
 
 Stuff retail
 ------------
@@ -270,7 +270,7 @@ membranes in the banks of blue horizontal tubes, left, delivering 1500
 m^3^ per day of clean water. The clean water from this facility has a
 total energy cost of 8 kWh per m^3^.
 
-![](figure341.png)
+![](images/figure341.png)
 
 over 2 tons per person of stuff every year, of which about 1.3 tons per
 per- son are processed and manufactured stuff like vehicles, machinery,
@@ -330,7 +330,7 @@ net life-cycle energy cost of a car. One reason for the difference may
 be that the latter life- cycle analysis assumes the vehicle is recycled,
 thus reducing the net materials cost.
 
-![](figure114.png)
+![](images/figure114.png)
 
 Figure 15.11. Making our stuff costs at least 48 kWh/d. Delivering the
 stuff costs 12 kWh/d.
@@ -407,4 +407,4 @@ uk/documents/upload/postpn282.pdf], Water UK (2006).
 carbon footprint is nearly **doubled** to about 21 tons*. Helm et al.
 (2007).
 
-![](figure342.png)
+![](images/figure342.png)

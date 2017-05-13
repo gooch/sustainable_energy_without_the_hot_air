@@ -53,14 +53,14 @@ person.
 Before moving on, I want to emphasize the large area – two thirds of a
 Wales – that would be required to deliver this 16 kWh/d per person. If
 
-![](figure71.png)
+![](images/figure71.png)
 
 Figure 10.1. Kentish Flats – a shallow offshore wind farm. Each rotor
 has a diameter of 90 m centred on a hub height of 70 m. Each “3 MW”
 turbine weighs 500 tons, half of which is its foundation. Photos © Elsam
 (elsam.com). Used with permission.
 
-![](figure70.png)
+![](images/figure70.png)
 
 we take the total coastline of Britain (length: 3000 km), and put a
 strip of turbines 4 km wide all the way round, that strip would have an
@@ -92,7 +92,7 @@ Figure 10.2. UK territorial waters with depth less than 25 m (yellow)
 and depth between 25 m and 50 m (purple). Data from DTI Atlas of
 Renewable Marine Resources. © Crown copyright.
 
-![](figure408.png)
+![](images/figure408.png)
 
 and much of it would be further than 50 km offshore. The outcome: if an
 area equal to a 9 km-wide strip all round the coast were filled with
@@ -135,12 +135,12 @@ the UK would require 8 million tons of steel and 0.14 million
 tons[^**E**^](http://www.withouthotair.com/Errata.html#62) of concrete.
 We can also compare the 60 million tons of offshore wind hardware that
 we’re trying to imagine with the existing fossil-fuel hardware already
-sitting in and around the North Sea (figure 10.4). In 1997, 200
+sitting in and around the North Sea (images/figure 10.4). In 1997, 200
 installations and 7000 km of pipelines in the UK waters of the North Sea
 contained 8 million tons of steel and concrete. The newly built Langeled
 gas pipeline from Norway to Britain, which will convey gas with a power
 of 25 GW (10 kWh/d/p), used another 1 million tons of steel and 1
-million tons of concrete (figure 10.5).
+million tons of concrete (images/figure 10.5).
 
 The UK government announced on 10th December 2007 that it would permit
 the creation of 33 GW of offshore wind capacity (which would deliver on
@@ -148,7 +148,7 @@ average 10 GW to the UK, or 4.4 kWh per day per person), a plan branded
 “pie in the sky” by some in the wind industry. Let’s run with a round
 figure of 4 kWh per day per person. This is one quarter of my
 
-![](figure72.png)
+![](images/figure72.png)
 
 Figure 10.3. Offshore wind.
 
@@ -188,7 +188,7 @@ turbines in Denmark, where windmills generate
 electricity. Horror! Ban windmills! We also learn, moreover, that
 *traffic* kills *one million* birds per year in Den- mark.
 Thirty-times-greater horror! Thirty-times-greater incentive to ban cars!
-And in Britain, 55 million birds per year are killed by *cats* (figure
+And in Britain, 55 million birds per year are killed by *cats* (images/figure
 10.6).
 
 Going on emotions alone, I would like to live in a country with
@@ -198,18 +198,18 @@ Norwegian white- tailed eagles, to even things up). But what I really
 hope is that decisions about cars and windmills are made by careful
 rational thought, not by emotions alone. Maybe we do need the windmills!
 
-![](figure74.png)
+![](images/figure74.png)
 
 Figure 10.4. The Magnus platform in the northern UK sector of the North
 Sea contains 71 000 tons of steel. In the year 2000 this platform
 delivered 3.8 million tons of oil and gas – a power of 5 GW. The
 platform cost £1.1 billion. Photos by Terry Cavner.
 
-![](figure75.png)
+![](images/figure75.png)
 
 Figure 10.5. Pipes for Langeled. From Bredero–Shaw [brederoshaw.com].
 
-![](figure73.png)
+![](images/figure73.png)
 
 Notes and further reading
 -------------------------
@@ -237,7 +237,7 @@ wind associa- tion windpower.org.
 Source: BritishWind Energy Association briefing document, September
 2005, www.bwea.com. Nevertheless, a deep offshore demonstration project
 in 2007 put two turbines adjacent to the Beatrice oil field, 22 km off
-the east coast of Scotland (figure 10.8). Each turbine has a “capacity”
+the east coast of Scotland (images/figure 10.8). Each turbine has a “capacity”
 of 5 MW and sits in a water depth of 45 m. Hub height: 107 m; diameter
 126 m. All the elec- tricity generated will be used by the oil
 platforms. Isn’t that special! The 10 MW project cost £30 million – this
@@ -411,12 +411,12 @@ the Sinclair C5 of the Noughties.” [5soql2]. The Met Office and Carbon
 Trust published a report in July 2008 [6g2jm5], which estimates that, if
 small-scale
 
-![](figure77.png)
+![](images/figure77.png)
 
 Figure 10.8. Construction of the Beatrice demonstrator deep offshore
 windfarm. Photos kindly provided by Talisman Energy (UK) Limited.
 
-![](figure76.png)
+![](images/figure76.png)
 
 Figure 10.9. Kentish Flats. Photos © Elsam (elsam.com). Used with
 permission.

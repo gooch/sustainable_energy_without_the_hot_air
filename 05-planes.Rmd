@@ -60,14 +60,14 @@ No. The “comfortably greener” Bombardier Q400 NextGen, “the
 mosttechnologically advanced turboprop in the world,” according to its
 manu-
 
-![](figure334.png)
+![](images/figure334.png)
 
-![](figure29.png)
+![](images/figure29.png)
 
 Figure 5.1. Taking oneintercontinental trip per year usesabout 30 kWh
 per day.
 
-![](figure30.png)
+![](images/figure30.png)
 
 Figure 5.2. Bombardier Q400 NextGen www.q400.com
 
@@ -123,7 +123,7 @@ low-densityseating (262 seats) has an energy consumption of 50 kWh per
 100 p-km. Ina high-density seating configuration (568 seats) and
 travelling 4000 km, the
 
-![](figure31.png)
+![](images/figure31.png)
 
 Figure 5.4. Ryanair Boeing 737-800. Photograph by Adrian Pingstone.
 
@@ -180,7 +180,7 @@ efficient than a conventional-shapedplane (Nickol, 2008).If the ACARE
 target is reached, it’s presumably going to be thanks mostlyto having
 fuller planes and better air-traffic management.
 
-![](figure32.png)
+![](images/figure32.png)
 
 Figure 5.5. Two short-haul trips on the greenest short-haul airline: 6.3
 kWh/d. Flying enough to qualify for silver frequent flyer status: 60

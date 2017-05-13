@@ -47,15 +47,15 @@ make milk and the milk to turn to cheese, and of getting the milk and
 cheese to travel from her to me. We’ll cover some of these costs when we
 discuss freight and supermarkets in Chapter 15.
 
-![](figure89.png)
+![](images/figure89.png)
 
 Figure 13.1. A salad Niçoise.
 
-![](figure412.png)
+![](images/figure412.png)
 
 Figure 13.2. Minimum energy requirement of one person.
 
-![](figure90.png)
+![](images/figure90.png)
 
 Figure 13.3. Milk and cheese.
 
@@ -116,11 +116,11 @@ of vegetables, dairy, eggs, and meat is 1.5 + 1.5 + 1 + 8 = 12 kWh per
 day. (The daily calorific balance of this rough diet is 1.5 kWh from
 vegetables;
 
-![](figure91.png)
+![](images/figure91.png)
 
 Figure 13.4. Two eggs per day.
 
-![](figure92.png)
+![](images/figure92.png)
 
 Figure 13.5. Eating meat requires extra power because we have to feed
 the queue of animals lining up to be eaten by the human.
@@ -176,11 +176,11 @@ day. A vegetarian cat would require less.
 
 Similarly if your dog Fido eats 200 g of meat per day, and carbohydrates
 
-![](figure93.png)
+![](images/figure93.png)
 
 Figure 13.6. Will harvest energy crops for food.
 
-![](figure94.png)
+![](images/figure94.png)
 
 Figure 13.7. The power required for animal companions’ food.
 
@@ -234,7 +234,7 @@ chicken weighing 2.95 kg consumes a total of 5.32 kg of feed [5h69fm].
 So the embodied energy of a meat chicken is about 6.7 kWh per kg of
 animal, or 10 kWh per kg of eaten meat.
 
-![](figure95.png)
+![](images/figure95.png)
 
 Figure 13.8. Food and farming.
 
