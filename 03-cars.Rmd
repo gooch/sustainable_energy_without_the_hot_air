@@ -43,24 +43,21 @@ energy\space per\space date &= \frac{distance\space travelled\space per\space da
 &\simeq 40\space kWh / day
 \end{align}$
 
-Congratulations! We’ve made our first estimate of consumption. I’ve dis-played
-this estimate in the left-hand stack in figure 3.3. The red box’s height
+Congratulations! We’ve made our first estimate of consumption. I’ve displayed
+this estimate in the left-hand stack in figure \@ref(fig:stack-1). The red box’s height
 represents 40 kWh per day per person.
 
-![](images/figure19.png)
+```{r giant-car, fig.cap="Cars. A red BMW dwarfed by a spaceship from the planet Dorkon."}
+knitr::include_graphics('images/figure19.png')
+```
 
-Figure 3.1. Cars. A red BMW dwarfed by a spaceship from the planet Dorkon.
+```{r butter, fig.cap='Want to know the energy in car fuel? Look at the label on a pack of butter or margarine. The calorific value is 3000 kJ per 100 g, or about 8 kWh per kg.'}
+knitr::include_graphics('images/figure20.png')
+```
 
-![](images/figure20.png)
-
-Figure 3.2. Want to know the energy in car fuel? Look at the label on a pack of
-butter or margarine. The calorific value is 3000 kJ per 100 g, or about 8 kWh
-per kg.
-
-![](images/figure21.png)
-
-Figure 3.3. Chapter 3’s conclusion: atypical car-driver uses about 40 kWh per
-day.
+```{r stack-1, fig.cap="Chapter 3’s conclusion: atypical car-driver uses about 40 kWh per day."}
+knitr::include_graphics('images/figure21.png')
+```
 
 This is the estimate for a typical car-driver driving a typical car today.Later
 chapters will discuss the *average* consumption of all the people in Britain,
@@ -151,7 +148,7 @@ gross calorific values.A final note for party-pooping pedants who say "butter
 is not a hydrocarbon" :OK, butter is not a pure hydrocarbon; but it’s a good
 approximation to say that the main component of butter is long hydrocarbon
 chains, just like petrol. The proof of the pudding is, this approximation got
-us within 30%of the correct answer. Welcome to guerrilla physics.
+us within 30% of the correct answer. Welcome to guerrilla physics.
 
 ![](images/figure23.png)
 
