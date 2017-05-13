@@ -125,64 +125,25 @@ don't include that multiplier because here we are focusing on our
 
 Notes and further reading
 -------------------------
+```{r ryan-air-737, fig.cap='Ryanair Boeing 737-800. Photograph by Adrian Pingstone.'}
+knitr::include_graphics('images/figure31.png')
+```
 
-page no.
+```{r energy-per-distance}
 
-35*Boeing 747-400* – 
+modes <- c('Car (4 occupants)', "Ryanair's planes, year 2007", 'Bombardier Q400, full', '747, full', '747 80% full', "Ryanair's planes, year 2000", 'Car (1 occupant)')
 
-![](images/figure31.png)
+energy_uses <- c(20,37,38,42,53,73,80)
 
-Figure 5.4. Ryanair Boeing 737-800. Photograph by Adrian Pingstone.
+energy_per_distance <- tibble::data_frame(mode = modes, `energy per distance (kWh per 100 p-km)` = energy_uses)
+```
 
-energy per distance(kWh per 100 p-km)
-
-Car (4 occupants)
-
-20
-
-Ryanair's planes, year 2007
-
-37
-
-Bombardier Q400, full
-
-38
-
-747, full
-
-42
-
-747, 80% full
-
-53
-
-Ryanair's planes, year 2000
-
-73
-
-Car (1 occupant)
-
-80
-
-Table 5.3. Passenger transport efficiencies, expressed as energy
-required per 100 passenger-km.
+```{r energy-per-distance-table, fig.cap='Passenger transport efficiencies, expressed as energy required per 100 passenger-km.'}
+pander::pander(energy_per_distance)
+```
 
 
 35*No redesign of a plane is going to radically improve its efficiency.*
-Actually,the Advisory Council for Aerospace Research in Europe (ACARE)
-target is for an overall 50% reduction in fuel burned per passenger-km by
-2020(relative to a 2000 baseline), with 15–20% improvement expected in
-engine efficiency. As of 2006, Rolls Royce is half way to this engine
-target [36w5gz]. Dennis Bushnell, chief scientist at NASA's Langley
-Research Center, seems to agree with my overall assessment of prospects
-for efficiency improvement sin aviation. The aviation industry is mature.
-"There is not much left to gain except by the glacial accretion of a per
-cent here and there over long time periods."  (New Scientist, 24 February
-2007, page 33.) The radically reshaped "Silent Aircraft" 
-[silentaircraft.org/sax40], if it were built, is predicted to be 16% more
-efficient than a conventional-shaped plane (Nickol, 2008). If the ACARE
-target is reached, it's presumably going to be thanks mostly to having
-fuller planes and better air-traffic management.
 
 ![](images/figure32.png)
 
