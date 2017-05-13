@@ -37,9 +37,9 @@ traveled in slower planes?"  The answer is **no**: in contrast to wheeled
 vehicles, which can get more efficient the slower they go, planes are
 already almost as energy-efficient as they could possibly be. Planes
 unavoidably have to use energy for two reasons: they have to throw air
-down in order to stay up,and they need energy to overcome air
+down in order to stay up, and they need energy to overcome air
 resistance. No redesign of a plane is going to radically improve its
-efficiency. A 10% improvement? Yes,possible. A doubling of efficiency?
+efficiency. A 10% improvement? Yes, possible. A doubling of efficiency?
 I'd eat my complimentary socks.
 
 Queries
