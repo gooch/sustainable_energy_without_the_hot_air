@@ -37,7 +37,11 @@ $8\space kWh\space per\space kg \times 0.8\space kg\space per\space litre \appro
 Rather than willfully perpetuate an inaccurate estimate, let’s switch to the
 actual value, for petrol, of 10 kWh per litre.
 
-![](images/figure16.png)
+$\begin{align}
+energy\space per\space date &= \frac{distance\space travelled\space per\space day}{distance\space per\space unit\space of\space fuel} \times energy\space per\space unit\space of\space fuel\\
+&= \frac{50\space km/day}{12\space km/litre} \times 10\space kWh / litre \\
+&\simeq 40\space kWh / day
+\end{align}$
 
 Congratulations! We’ve made our first estimate of consumption. I’ve dis-played
 this estimate in the left-hand stack in figure 3.3. The red box’s height
