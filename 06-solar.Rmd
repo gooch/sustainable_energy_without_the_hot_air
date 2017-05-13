@@ -7,40 +7,40 @@ Kingdom. Could solar power put production back in thelead?
 
 The power of raw sunshine at midday on a cloudless day is 1000W persquare
 metre. That's 1000 W per m^2^ of area oriented towards the sun, notper m^2^ of
-land area. To get the power per m^2^ of *land area* in Britain, wemust make
-several corrections. We need to compensate for the tilt betweenthe sun and the
+land area. To get the power per m^2^ of *land area* in Britain, we must make
+several corrections. We need to compensate for the tilt between the sun and the
 land, which reduces the intensity of midday sun to about60% of its value at the
-equator (images/figure 6.1). We also lose out because it isnot midday all the
-time. On a cloud-free day in March or September, theratio of the *average*
+equator (images/figure 6.1). We also lose out because it is not midday all the
+time. On a cloud-free day in March or September, the ratio of the *average*
 intensity to the midday intensity is about 32%. Finally, we lose power because
-of cloud cover. In a typical UK location the sunshines during just 34% of
+of cloud cover. In a typical UK location the sun-shines during just 34% of
 daylight hours.
 
-The combined effect of these three factors and the additional compli-cation of
-the wobble of the seasons is that the average raw power of sunshineper square
+The combined effect of these three factors and the additional complication of
+the wobble of the seasons is that the average raw power of sunshine per square
 metre of south-facing roof in Britain is roughly 110 W/m^2^, and the average
-raw power of sunshine per square metre of flat ground isroughly 100 W/m^2^.
+raw power of sunshine per square metre of flat ground is roughly 100 W/m^2^.
 
 We can turn this raw power into useful power in four ways:
 
-1.  Solar thermal: using the sunshine for direct heating of buildings orwater.
-2.  Solar photovoltaic: generating electricity.
-3.  Solar biomass: using trees, bacteria, algae, corn, soy beans, or oilseedto
+1.  Solar thermal: using the sunshine for direct heating of buildings or water.
+2.  Solar photo-voltaic: generating electricity.
+3.  Solar biomass: using trees, bacteria, algae, corn, soy beans, or oildseed to
     make energy fuels, chemicals, or building materials.
-4.  Food: the same as solar biomass, except we shovel the plants intohumans or
+4.  Food: the same as solar biomass, except we shovel the plants into humans or
     other animals.
 
 (In a later chapter we'll also visit a couple of other solar power
-techniquesappropriate for use in deserts.)
+techniques appropriate for use in deserts.)
 
-Let's make quick rough estimates of the maximum plausible powersthat each of
+Let's make quick rough estimates of the maximum plausible powers that each of
 these routes could deliver. We'll neglect their economic costs, and the energy
 costs of manufacturing and maintaining the power facilities.
 
 Solar thermal
 -------------
 
-The simplest solar power technology is a panel making hot water.  Let'simagine
+The simplest solar power technology is a panel making hot water.  Let's imagine
 we cover *all* south-facing roofs with solar thermal panels – that would be
 about 10 m^2^ of panels per person – and let's assume these are50%-efficient at
 turning the sunlight's 110 W/m^2^ into hot water (images/figure 6.3).
@@ -69,29 +69,29 @@ we find solar heating could deliver
 13 kWh per day per person.
 
 I colour this production box white in figure 6.4 to indicate that it
-describesproduction of low-grade energy – hot water is not as valuable as the
-highgradeelectrical energy that wind turbines produce. Heat can't be exportedto
-the electricity grid. If you don't need it, then it's wasted. We should bearin
+describes production of low-grade energy – hot water is not as valuable as the
+high-grade electrical energy that wind turbines produce. Heat can't be exported to
+the electricity grid. If you don't need it, then it's wasted. We should bear in
 mind that much of this captured heat would not be in the right place. In
-cities, where many people live, residential accommodation has less roofarea per
-person than the national average.  Furthermore, this power wouldbe delivered
+cities, where many people live, residential accommodation has less roof area per
+person than the national average.  Furthermore, this power would be delivered
 non-uniformly through the year.
 
-Solar photovoltaic
+Solar photo-voltaic
 ------------------
 
-Photovoltaic (PV) panels convert sunlight into electricity. Typical solarpanels
+Photo-voltaic (PV) panels convert sunlight into electricity. Typical solar panels
 have an efficiency of about 10%; expensive ones perform at 20%.(Fundamental
-physical laws limit the efficiency of photovoltaic systems toat best 60% with
-perfect concentrating mirrors or lenses, and 45% withoutconcentration. A
+physical laws limit the efficiency of photo-voltaic systems to at best 60% with
+perfect concentrating mirrors or lenses, and 45% without concentration. A
 mass-produced device with efficiency greater than 30%would be quite
 remarkable.) The average power delivered by south-facing 20%-efficient
-photovoltaic panels in Britain would be
+photo-voltaic panels in Britain would be
 
 20%× 110 W/m^2^ = 22 W/m^2^.
 
 Figure 6.5 shows data to back up this number. Let's give every person 10 m^2^
-of expensive (20%-efficient) solar panels and cover all south-facingroofs.
+of expensive (20%-efficient) solar panels and cover all south-facing roofs.
 These will deliver 5 kWh per day per person.
 
 Figure 6.3. Solar power generated by a 3 m^2^ hot-water panel (green), and supplementary heat required (blue) to make hot water in the test house of Viridian Solar. (The photograph shows a house with the same model of panel on its roof.) The average solar power from 3 m^2^ was 3.8 kWh/d. The experiment simulated the hot-water consumption of an average European household – 100 litres of hot (60°C) water per day. The 1.5–2 kWh/d gap between the total heat generated (black line, top) and the hot water used (red line) is caused by heat-loss. The magenta line shows the electrical power required to run the solar system. The average power per unit area of these solar panels is 53 W/m^2^.
@@ -102,89 +102,89 @@ Figure 6.4. Solar thermal: a 10 m^2^ array of thermal panels can deliver
 (on average) about 13 kWh per day of thermal energy.
 
 Since the area of all south-facing roofs is 10 m^2^ per person, there
-certainlyisn't space on our roofs for these photovoltaic panels as well as the
-solarthermal panels of the last section. So we have to choose whether to have
-thephotovoltaic contribution or the solar hot water contribution. But I'll
-justplop both these on the production stack anyway. Incidentally, the
-presentcost of installing such photovoltaic panels is about four times the cost
-ofinstalling solar thermal panels, but they deliver only half as much energy,
-albeit high-grade energy (electricity). So I'd advise a family thinking ofgoing
-solar to investigate the solar thermal option first. The smartest solu-tion, at
-least in sunny countries, is to make combined systems that deliverboth
+certainly isn't space on our roofs for these photo-voltaic panels as well as the
+solar-thermal panels of the last section. So we have to choose whether to have
+the photo-voltaic contribution or the solar hot water contribution. But I'll
+just plop both these on the production stack anyway. Incidentally, the
+present cost of installing such photo voltaic panels is about four times the cost
+of installing solar thermal panels, but they deliver only half as much energy,
+albeit high-grade energy (electricity). So I'd advise a family thinking of going
+solar to investigate the solar thermal option first. The smartest solution, at
+least in sunny countries, is to make combined systems that deliver both
 electricity and hot water from a single installation. This is the
-approachpioneered by Heliodynamics, who reduce the overall cost of theirsystems
-by surrounding small high-grade gallium arsenide photovoltaicunits with arrays
+approach pioneered by Heliodynamics, who reduce the overall cost of their systems
+by surrounding small high-grade gallium arsenide photo-voltaic units with arrays
 of slowly-moving flat mirrors; the mirrors focus the sun-light onto the
-photovoltaic units, which deliver both electricity and hotwater; the hot water
-is generated by pumping water past the back of thephotovoltaic units.
+photo-voltaic units, which deliver both electricity and hot water; the hot water
+is generated by pumping water past the back of the photo-voltaic units.
 
-The conclusion so far: covering your south-facing roof at home withphotovoltaics
-may provide enough juice to cover quite a big chunk of yourpersonal average
-electricity consumption; but roofs are not big enough tomake a huge dent in our
+The conclusion so far: covering your south-facing roof at home with photo-voltaics
+may provide enough juice to cover quite a big chunk of your personal average
+electricity consumption; but roofs are not big enough to make a huge dent in our
 total *energy* consumption. To do more with PV, we need to step down to terra
-firma. The solar warriors in figure 6.6 showthe way.
+firma. The solar warriors in figure 6.6 show the way.
 
 ![](images/figure37.png)
 
 ![](images/figure38.png)
 
-Figure 6.5. Solar photovoltaics: data from a 25-m^2^ array in Cambridgeshire in 2006. The peak power delivered by this array is about 4 kW. The average, year-round, is 12 kWh per day. That's 20 W per square metre of panel.
+Figure 6.5. Solar photo-voltaics: data from a 25-m^2^ array in Cambridgeshire in 2006. The peak power delivered by this array is about 4 kW. The average, year-round, is 12 kWh per day. That's 20 W per square metre of panel.
 
-Figure 6.6. Two solar warriors enjoying their photovoltaic system, which powers their electric cars and home. The array of 120 panels (300 W each, 2.2 m^2^ each) has an area of 268 m^2^, a peak output (allowing for losses in DC–to–AC conversion) of 30.5 kW, and an average output – in California, near Santa Cruz – of 5 kW (19 W/m^2^). Photo kindly provided by Kenneth Adelman. www.solarwarrior.com
+Figure 6.6. Two solar warriors enjoying their photo voltaic system, which powers their electric cars and home. The array of 120 panels (300 W each, 2.2 m^2^ each) has an area of 268 m^2^, a peak output (allowing for losses in DC–to–AC conversion) of 30.5 kW, and an average output – in California, near Santa Cruz – of 5 kW (19 W/m^2^). Photo kindly provided by Kenneth Adelman. www.solarwarrior.com
 
 ### Fantasy time: solar farming
 
-If a breakthrough of solar technology occurs and the cost of photovoltaicscame
+If a breakthrough of solar technology occurs and the cost of photo-voltaics came
 down enough that we could deploy panels all over the countryside, what is the
-maximum conceivable production? Well, if we covered 5% ofthe UK with
+maximum conceivable production? Well, if we covered 5% of the UK with
 10%-efficient panels, we'd have
 
 10% × 100 W/m^2^ × 200 m^2^ per person≈ 50 kWh/day/person.
 
-I assumed only 10%-efficient panels, by the way, because I imagine thatsolar
-panels would be mass-produced on such a scale only if they werevery cheap, and
+I assumed only 10%-efficient panels, by the way, because I imagine that solar
+panels would be mass-produced on such a scale only if they were very cheap, and
 it's the lower-efficiency panels that will get cheap first. The power density
 (the power per unit area) of such a solar farm would be
 
 10% × 100 W/m^2^ = 10 W/m^2^.
 
-This power density is twice that of the Bavaria Solarpark (images/figure 6.7).
+This power density is twice that of the Bavaria Solar park (images/figure 6.7).
 
-Could this flood of solar panels co-exist with the army of windmills weimagined
-in Chapter 4? Yes, no problem: windmills cast little shadow, andground-level
-solar panels have negligible effect on the wind. How auda-cious is this plan?
-The solar power capacity required to deliver this 50 kWhper day per person in
-the UK is more than 100 times all the photovoltaicsin the whole world. So should
-I include the PV farm in my sustainableproduction stack? I'm in two minds. At
-the start of this book I said Iwanted to explore what the laws of physics say
-about the limits of sus-tainable energy, assuming money is no object. On those
-grounds, I shouldcertainly go ahead, industrialize the countryside, and push the
-PV farmonto the stack. At the same time, I want to help people figure out whatwe
-should be doing between *now* and 2050. And today, electricity fromsolar farms
-would be four times as expensive as the market rate. So I feela bit
-irresponsible as I include this estimate in the sustainable productionstack in
-figure 6.9 – paving 5% of the UK with solar panels seems beyondthe bounds of
-plausibility in so many ways. If we seriously contemplateddoing such a thing, it
-would quite probably be better to put the panels ina two-fold sunnier country
-and send some of the energy home by powerlines. We'll return to this idea in
+Could this flood of solar panels co-exist with the army of windmills we imagined
+in Chapter 4? Yes, no problem: windmills cast little shadow, and ground-level
+solar panels have negligible effect on the wind. How audacious is this plan?
+The solar power capacity required to deliver this 50 kWh per day per person in
+the UK is more than 100 times all the photo-voltaics in the whole world. So should
+I include the PV farm in my sustainable production stack? I'm in two minds. At
+the start of this book I said Wanted to explore what the laws of physics say
+about the limits of sustainable energy, assuming money is no object. On those
+grounds, I should certainly go ahead, industrialize the countryside, and push the
+PV farm onto the stack. At the same time, I want to help people figure out what we
+should be doing between *now* and 2050. And today, electricity from solar farms
+would be four times as expensive as the market rate. So I feel a bit
+irresponsible as I include this estimate in the sustainable production stack in
+figure 6.9 – paving 5% of the UK with solar panels seems beyond the bounds of
+plausibility in so many ways. If we seriously contemplated doing such a thing, it
+would quite probably be better to put the panels in a two-fold sunnier country
+and send some of the energy home by power lines. We'll return to this idea in
 Chapter 25.
 
 ### Mythconceptions
 
 #### Manufacturing a solar panel consumes more energy than itwill ever de-liver.
 
-*False*. The energy yield ratio (the ratio of energy delivered by a systemover
+*False*. The energy yield ratio (the ratio of energy delivered by a system over
 its lifetime, to the energy required to make it) of a roof-mounted,
-grid-connected solar system in Central Northern Europe is 4, for a systemwith a
+grid-connected solar system in Central Northern Europe is 4, for a system with a
 lifetime of 20 years (Richards and Watt, 2007); and more than 7 in a sunnier
-spot such as Australia. (An energy yield ratio bigger than onemeans that a
-system is A Good Thing, energy-wise.) Wind turbines with alifetime of 20 years
+spot such as Australia. (An energy yield ratio bigger than one means that a
+system is A Good Thing, energy-wise.) Wind turbines with lifetime of 20 years
 have an energy yield ratio of 80.
 
 
 ![](images/figure39.png)
 
-Figure 6.7. A solar photovoltaic farm: the 6.3 MW (peak) Solarpark in
+Figure 6.7. A solar photo-voltaic farm: the 6.3 MW (peak) Solar park in
 Mühlhausen, Bavaria. Its average power per unit land area is expected to
 be about 5 W/m^2^. Photo by SunPower.
 
@@ -194,13 +194,13 @@ Figure 6.8. Land areas per person in Britain.
 
 #### Aren't photovoltaic panels going to get more and more efficientas technology improves?
 
-I am sure that photovoltaic panels will become ever *cheaper*; I'm alsosure that
+I am sure that photo-voltaic panels will become ever *cheaper*; I'm also sure that
 solar panels will become ever less energy-intensive to *manufacture*, so their
 energy yield ratio will improve. But this chapter's photo-voltaic estimates
 weren't constrained by the economic cost of the panels, nor by the energy cost
-of their manufacture. This chapter was concernedwith the maximum conceivable
-power delivered.  Photovoltaic panels with 20% efficiency are already close to
-the theoretical limit (see this chapter'sendnotes). I'll be surprised if this
+of their manufacture. This chapter was concerned with the maximum conceivable
+power delivered.  Photo-voltaic panels with 20% efficiency are already close to
+the theoretical limit (see this chapters' end-notes). I'll be surprised if this
 chapter's estimate for roof-based photo-voltaics ever needs a significant upward
 revision.
 
@@ -211,77 +211,77 @@ Solar biomass
 > grow grass on the ranch! And have it harvested and converted into energy.
 > That's what's close to happening. --- George W. Bush, February 2006
 
-All available bioenergy solutions involve first growing green stuff, andthen
-doing something with the green stuff. How big could the energycollected by the
-green stuff possibly be? There are four main routes to getenergy from
+All available bio-energy solutions involve first growing green stuff, and then
+doing something with the green stuff. How big could the energy collected by the
+green stuff possibly be? There are four main routes to get energy from
 solar-powered biological systems:
 
-1.  We can grow specially-chosen plants and burn them in a power sta-tion that
-    produces electricity or heat or both. We'll call this "coalsubstitution." 
-2.  We can grow specially-chosen plants (oil-seed rape, sugar cane, orcorn,
-    say), turn them into ethanol or biodiesel, and shove that intocars, trains,
+1.  We can grow specially-chosen plants and burn them in a power station that
+    produces electricity or heat or both. We'll call this "coal substitution." 
+2.  We can grow specially-chosen plants (oil-seed rape, sugar cane, or corn,
+    say), turn them into ethanol or bio-diesel, and shove that into cars, trains,
     planes or other places where such chemicals are useful. Or we might
     cultivate genetically-engineered bacteria, cyanobacteria, or algae that
-    directly produce hydrogen, ethanol, or butanol, or evenelectricity. We'll
+    directly produce hydrogen, ethanol, or butanol, or even electricity. We'll
     call all such approaches "petroleum substitution." 
-3.  We can take by-products from other agricultural activities and burnthem in a
-    power station. The by-products might range from straw (aby-product
-    ofWeetabix) to chicken poo (a by-product ofMcNuggets). Burning by-products
-    is coal substitution again, but using ordinaryplants, not the best
-    high-energy plants. A power station that burnsagricultural by-products won't
-    deliver as much power per unit areaof farmland as an optimized
+3.  We can take by-products from other agricultural activities and burn them in a
+    power station. The by-products might range from straw (a by-product
+    of Weetabix) to chicken poo (a by-product of McNuggets). Burning by-products
+    is coal substitution again, but using ordinary plants, not the best
+    high-energy plants. A power station that burns agricultural by-products won't
+    deliver as much power per unit area of farmland as an optimized
     biomass-growing facility, but it has the advantage that it doesn't
-    monopolize the land. Burning methane gasfrom landfill sites is a similar way
-    of getting energy, but it's sustain-able only as long as we have a
-    sustainable source of junk to keepputting into the landfill sites. (Most of
-    the landfill methane comesfrom wasted food; people in Britain throw away
-    about 300 g of foodper day per person.) Incinerating household waste is
-    another slightlyless roundabout way of getting power from solar biomass.
+    monopolize the land. Burning methane gas from landfill sites is a similar way
+    of getting energy, but it's sustainable only as long as we have a
+    sustainable source of junk to keep putting into the landfill sites. (Most of
+    the landfill methane comes from wasted food; people in Britain throw away
+    about 300 g of food per day per person.) Incinerating household waste is
+    another slightly less roundabout way of getting power from solar biomass.
 4.  We can grow plants and feed them directly to energy-requiring
-    hu-mans or other animals.
+    humans or other animals.
 
 
 ![](images/figure41.png)
 
-Figure 6.9. Solar photovoltaics: a 10 m^2^ array of building-mounted
+Figure 6.9. Solar photo-voltaics: a 10 m^2^ array of building-mounted
 south-facing panels with 20% efficiency can deliver about 5 kWh per day
 of electrical energy. If 5% of the country were coated with
 10%-efficient solar panels (200 m^2^ of panels per person) they would
 deliver 50 kWh/day/person.
 
 For all of these processes, the first staging post for the energy is in a
-chem-ical molecule such as a carbohydrate in a green plant. We can
-thereforeestimate the power obtainable from any and all of these processes by
-es-timating how much power could pass through that first staging post.
-Allsubsequent steps involving tractors, animals, chemical facilities, land-fill
-sites, or power stations can only lose energy. So the power at the firststaging
-post is an upper bound on the power available from all plant-basedpower
+chemical molecule such as a carbohydrate in a green plant. We can
+therefore estimate the power obtainable from any and all of these processes by
+estimating how much power could pass through that first staging post.
+All subsequent steps involving tractors, animals, chemical facilities, land-fill
+sites, or power stations can only lose energy. So the power at the first staging
+post is an upper bound on the power available from all plant-based power
 solutions.
 
 So, let's simply estimate the power at the first staging post. (In
 Chapter[D](http://www.inference.phy.cam.ac.uk/withouthotair/cD/page_283.shtml)we'll
-go into more detail, estimating the maximum contribution of eachprocess.) The
+go into more detail, estimating the maximum contribution of each process.) The
 average harvestable power of sunlight in Britain is 100 W/m^2^. The most
-efficient plants in Europe are about 2%-efficient at turning solarenergy into
+efficient plants in Europe are about 2%-efficient at turning solar energy into
 carbohydrates, which would suggest that plants might deliver2 W/m^2^; however,
-their efficiency drops at higher light levels, and the bestperformance of any
-energy crops in Europe is closer to 0.5 W/m^2^. Let'scover 75% of the country
-with quality green stuff.  That's 3000 m^2^ perperson devoted to bio-energy.
+their efficiency drops at higher light levels, and the best performance of any
+energy crops in Europe is closer to 0.5 W/m^2^. Let's cover 75% of the country
+with quality green stuff.  That's 3000 m^2^ per person devoted to bio-energy.
 This is the same as the British land area currently devoted to agriculture. So
-the maximum power available, ig-noring all the additional costs of growing,
-harvesting, and processing thegreenery, is
+the maximum power available, ignoring all the additional costs of growing,
+harvesting, and processing the greenery, is
 
 0.5 W/m^2^ × 3000 m^2^ per person = 36 kWh/d per person.
 
-Wow. That's not very much, considering the outrageously generous as-sumptions we
-just made, to try to get a big number. If you wanted toget biofuels for cars or
-planes from the greenery, all the other steps in thechain from farm to spark
-plug would inevitably be inefficient. I think it'dbe optimistic to hope that the
-overall losses along the processing chainwould be as small as 33%. Even burning
-dried wood in a good woodboiler loses 20% of the heat up the chimney. So surely
-the true potentialpower from biomass and biofuels cannot be any bigger than 24
-kWh/d perperson. And don't forget, we want to use some of the greenery to
-makefood for us and for our animal companions.
+Wow. That's not very much, considering the outrageously generous assumptions we
+just made, to try to get a big number. If you wanted to get bio-fuels for cars or
+planes from the greenery, all the other steps in the chain from farm to spark
+plug would inevitably be inefficient. I think it'd be optimistic to hope that the
+overall losses along the processing chain would be as small as 33%. Even burning
+dried wood in a good wood boiler loses 20% of the heat up the chimney. So surely
+the true potential power from biomass and bio-fuels cannot be any bigger than 24
+kWh/d per person. And don't forget, we want to use some of the greenery to
+make food for us and for our animal companions.
 
 
 ![](images/figure42.png)
@@ -304,13 +304,13 @@ density (tropical plantations\*) assumes genetic modification,
 fertilizer application, and irrigation. In the text, I use 0.5 W/m^2^ as
 a summary figure for the best energy crops in NW Europe.
 
-Could genetic engineering produce plants that convert solar energyto chemicals
-more efficiently? It's conceivable; but I haven't found anyscientific
-publication predicting that plants in Europe could achieve netpower production
+Could genetic engineering produce plants that convert solar energy to chemicals
+more efficiently? It's conceivable; but I haven't found any scientific
+publication predicting that plants in Europe could achieve net power production
 beyond 1 W/m^2^.
 
-I'll pop 24 kWh/d per person onto the green stack, emphasizing that Ithink this
-number is an over-estimate – I think the true maximum powerthat we could get
+I'll pop 24 kWh/d per person onto the green stack, emphasizing that I think this
+number is an over-estimate – I think the true maximum power that we could get
 from biomass will be smaller because of the losses infarming and processing.
 
 I think one conclusion is clear: *biofuels can't add up* – at least, not
