@@ -49,50 +49,50 @@ generate
 
 if wind turbines were packed across the *whole* country, and assuming2
 W/m^2^ is the correct power per unit area. Converting to our
-favourite power units, that’s 200 kWh/d per person.
+favourite power units, that's 200 kWh/d per person.
 
-Let’s be realistic. What fraction of the country can we really
+Let's be realistic. What fraction of the country can we really
 imagine covering with windmills? Maybe 10%? Then we conclude: if we
 covered the windiest 10% of the country with windmills (delivering 2
 W/m^2^), we would be able to generate 20 kWh/d per person, which is
 ***half*** of the power used by driving an average fossil-fuel car 50 km
 per day.
 
-Britain’s onshore wind energy resource may be “huge,” but it’s
-evidently not as huge as our huge consumption. We’ll come to offshore
+Britain's onshore wind energy resource may be "huge," but it's
+evidently not as huge as our huge consumption. We'll come to offshore
 wind later.
 
-I should emphasize how generous an assumption I’m making. Let’s compare
+I should emphasize how generous an assumption I'm making. Let's compare
 this estimate of British wind potential with current installed wind power
 worldwide. The windmills that would be required to provide the UK with 20
 kWh/d per person amount to 50 times the entire wind hardware of Denmark;
 7 times all the wind farms of Germany; and double the entire fleet of all
 wind turbines in the world.
 
-Please don’t misunderstand me. Am I saying that we shouldn’t
-bother building wind farms? Not at all. I’m simply trying to convey a
+Please don't misunderstand me. Am I saying that we shouldn't
+bother building wind farms? Not at all. I'm simply trying to convey a
 helpful fact, namely that if we want wind power to truly make a
 difference, the wind farms must cover a very large area.
 
 This conclusion – that the maximum contribution of onshore wind, albeit
-“huge,” is much less than our consumption – is important, so let’s check
+"huge," is much less than our consumption – is important, so let's check
 the key figure, the assumed power per unit area of wind farm(2 W/m^2^),
 against a real UK wind farm.
 
 The Whitelee wind farm being built near Glasgow in Scotland has
 140turbines with a combined *peak* capacity of 322 MW in an area of 55
-km^2^.That’s 6 W/m^2^, *peak*. The average power produced is smaller
-because the turbines don’t run at peak output all the time. The ratio of
-the average power to the peak power is called the “load factor” or
-“capacity factor,”and it varies from site to site, and with the choice
+km^2^. That's 6 W/m^2^, *peak*. The average power produced is smaller
+because the turbines don't run at peak output all the time. The ratio of
+the average power to the peak power is called the "load factor" or
+"capacity factor," and it varies from site to site, and with the choice
 of hardware plopped on the site; a typical factor for a good site with
-modern turbines is 30%.If we assume Whitelee has a load factor of 33%
+modern turbines is 30%. If we assume Whitelee has a load factor of 33%
 then the average power production per unit land area is 2 W/m^2^ –
 exactly the same as the power density we assumed above.
 
 ![](images/figure27.png)
 
-Figure 4.3. Chapter 4’s conclusion: the maximum plausible production
+Figure 4.3. Chapter 4's conclusion: the maximum plausible production
 from on-shore windmills in the United Kingdom is 20 kWh per day per
 person.
 
@@ -110,17 +110,17 @@ for more population densities.
 Queries
 -------
 
-#### Wind turbines are getting bigger all the time. Do bigger wind turbineschange this chapter’s answer?
+#### Wind turbines are getting bigger all the time. Do bigger wind turbineschange this chapter's answer?
 
 Chapter B explains. Bigger wind turbines deliver financial economies of
-scale, but they don’t greatly increase the total power per unit land
+scale, but they don't greatly increase the total power per unit land
 area,because bigger windmills have to be spaced further apart. A wind
-farm that’s twice as tall will deliver roughly 30% more power.
+farm that's twice as tall will deliver roughly 30% more power.
 
 #### Wind power fluctuates all the time. Surely that makes wind less useful?
 
-Maybe. We’ll come back to this issue in Chapter 26, where we’ll look at
-wind’s intermittency and discuss several possible solutions to this
+Maybe. We'll come back to this issue in Chapter 26, where we'll look at
+wind's intermittency and discuss several possible solutions to this
 problem,including energy storage and demand management.
 
 Notes and further reading
@@ -138,7 +138,7 @@ Department[tdvml].
 33*The windmills required to provide the UK with 20 kWh/d per person are
 50 times the entire wind power of Denmark.*Assuming a load factor of
 33%, an average power of 20 kWh/d per person requires an installed
-capacity of 150 GW.At the end of 2006, Denmark had an installed capacity
+capacity of 150 GW. At the end of 2006, Denmark had an installed capacity
 of 3.1 GW; Germany had 20.6 GW. The world total was 74 GW(wwindea.org).
 Incidentally, the load factor of the Danish wind fleet was 22% in 2006,
 and the average power it delivered was 3 kWh/d per person.
