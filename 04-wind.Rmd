@@ -109,8 +109,7 @@ for more population densities.
 Queries
 -------
 
-#### Wind turbines are getting bigger all the time. Do bigger wind
-turbineschange this chapter's answer?
+#### Wind turbines are getting bigger all the time. Do bigger wind turbineschange this chapter's answer?
 
 Chapter B explains. Bigger wind turbines deliver financial economies of scale,
 but they don't greatly increase the total power per unit land area, because
