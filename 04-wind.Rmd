@@ -92,16 +92,16 @@ W/m^2$ – exactly the same as the power density we assumed above.
 knitr::include_graphics('images/figure27.png')
 ```
 
-```{r power-per-unit-area}
-power_per_unit_area <- tibble::data_frame(source = c('wind farm (speed 6m/s)'), c('2W/m^2'))
+```{r power-per-unit-area, fig.cap="Facts worth remembering: wind farms.", out.width="10%"}
+power_per_unit_area <- tibble::data_frame(source = c('wind farm (speed 6m/s)'), generation = c(2))
+
+knitr::include_graphics('images/figure401.png')
 ```
 
-Table 4.4. Facts worth remembering: wind farms.
 
-![](images/figure402.png)
-
-Table 4.5. Facts worth remembering: population density. See page 338
-for more population densities.
+```{r population-density, fig.cap='Facts worth remembering: population density. See page 338 for more population densities.', out.width="10%"}
+knitr::include_graphics('images/figure402.png')
+```
 
 ```{r cambridge-windspeed-histogram, fig.cap='Histogram of Cambridge average wind speed in metres per second: daily averages (left), and half-hourly averages (right).', out.width='70%'}
 knitr::include_graphics('images/figure28.png')
