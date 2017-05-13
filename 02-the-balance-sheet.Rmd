@@ -188,10 +188,10 @@ cumbersome to say and to write.
 
 Here’s one last thing to make clear: if I say "someone used a
 gigawatt-hour of energy," I am simply telling you *how much* energy they
-used, not*how fast* they used it. Talking about a gigawatt-hour
+used, not *how fast* they used it. Talking about a gigawatt-hour
 *doesn’t* imply the energy was used *in one hour*. You could use a gigawatt-hour of energy
 byswitching on one million toasters for one hour, or by switching on
-1000toasters for 1000 hours.
+1000 toasters for 1000 hours.
 
 energy is measured in kWh or MJ
 
@@ -207,7 +207,7 @@ and that Den-mark’s waste incineration delivers 10 TWh per year. Does
 this help us say whether Denmark incinerates "more" waste than the UK?
 While the total power produced from waste in each country may be
 interesting, I think that what we usually want to know is the waste
-incineration *per person*.(For the record, that is: Denmark, 5 kWh/d per
+incineration *per person*. (For the record, that is: Denmark, 5 kWh/d per
 person; UK, 0.3 kWh/d per person. So Danes incinerate about 13 times as
 much waste as Brits.) To save ink, I’ll sometimes abbreviate "per person"
 to "/p" . By discussing everything per-person from the outset, we end up
@@ -222,7 +222,7 @@ Picky details
 Yes, I’m being imprecise. This is really a book about *entropy* – a
 trickier thing to explain. When we "use up" one kilojoule of energy, what
 we’re really doing is taking one kilojoule of energy in a form that has
-*low entropy*(for example, electricity), and *converting* it into an
+*low entropy* (for example, electricity), and *converting* it into an
 exactly equal amount of energy in another form, usually one that has much
 higher entropy (for example, hot air or hot water). When we’ve "used" the
 energy, it’s still there; but we normally can’t "use" the energy over and
@@ -281,7 +281,7 @@ use this one-to-one conversion rate means that some of my sums will look
 a bit different from other people’s. (For example, BP’s *Statistical
 Review of World Energy* rates 1 kWh of electricity as equivalent to
 $\frac{100}{38} \approx 2.6 kWh$ of oil; on the other hand, the government’s *Digest of
-UK Energy Statistics*uses the same one-to-one conversion rate as me.)
+UK Energy Statistics* uses the same one-to-one conversion rate as me.)
 And I emphasize again,this choice does not imply that I’m suggesting you
 could convert either form of energy directly into the other. Converting
 chemical energy into electrical energy always wastes energy, and so does
@@ -307,7 +307,7 @@ language. So, here’s my promise: *I’ll keep all this foreign-language
 stuff in technical chapters at the end of the book*. Any reader with
 a high-school/secondary-school qualification in maths, physics, or
 chemistry should enjoy these technical chapters. The main thread of the
-book (from page 2 to page 250)is intended to be accessible to everyone
+book (from page 2 to page 250) is intended to be accessible to everyone
 who can add, multiply, and divide.It is especially aimed at our dear
 elected and unelected representatives, the Members of Parliament.
 
