@@ -159,7 +159,14 @@ is"a volume per unit time." A power of *one joule per second* is called
 *one watt*.1000 joules per second is called one kilowatt. Let’s get the
 terminology straight: the toaster uses one kilowatt. It doesn’t use "one
 kilowatt per second." The "per second" is already built in to the
-definition of the kilowatt:one kilowatt means "one kilo-joule per second."
+definition of the kilowatt^[Other examples of units that, like the watt, already have a
+"per time" built in are the knot – "our yacht’s speed was ten knots!" (a
+knot is one nautical mile *per* hour); the hertz – "I could hear a
+buzzing at 50 hertz" (one hertz is a frequency of one cycle *per*
+second); the ampere – "the fuse blows when the current is higher than 13
+amps" (*not* 13 amps per second); and the horsepower – "that stinking
+engine delivers 50 horsepower" (*not* 50 horsepower per second, nor 50
+horsepower per hour, nor 50 horsepower per day, just 50 horsepower).]: one kilowatt means "one kilo-joule per second."
 Similarly we say "a nuclear power station generates one gigawatt." One
 gigawatt, by the way, is one billion watts, one million kilowatts, or
 1000 megawatts. So one gigawatt is a million toasters. And the "g" s in
@@ -313,14 +320,7 @@ Notes and further reading
 page no.
 
 25*The "per second" is already built in to the definition of the
-kilowatt.* Other examples of units that, like the watt, already have a
-"per time" built in are the knot – "our yacht’s speed was ten knots!" (a
-knot is one nautical mile *per* hour); the hertz – "I could hear a
-buzzing at 50 hertz" (one hertz is a frequency of one cycle *per*
-second); the ampere – "the fuse blows when the current is higher than 13
-amps" (*not* 13 amps per second); and the horsepower – "that stinking
-engine delivers 50 horsepower" (*not* 50 horsepower per second, nor 50
-horsepower per hour, nor 50 horsepower per day, just 50 horsepower).
+kilowatt.* 
 
 –*Please, never, ever say "one kilowatt per second." * There are specific,
 rare exceptions to this rule. If talking about a growth in demand for
