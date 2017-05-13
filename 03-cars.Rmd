@@ -69,7 +69,7 @@ calorific value is the right quantity to use. The net calorific value, on the
 other hand, is of interest to a power station engineer, who needs to decide
 which fuel to burn in his power station. Throughout this book I’ve tried to use
 gross calorific values.A final note for party-pooping pedants who say "butter
-is not a hydrocarbon" :OK, butter is not a pure hydrocarbon; but it’s a good
+is not a hydrocarbon": OK, butter is not a pure hydrocarbon; but it’s a good
 approximation to say that the main component of butter is long hydrocarbon
 chains, just like petrol. The proof of the pudding is, this approximation got
 us within 30% of the correct answer. Welcome to guerrilla physics.], for petrol, of 10 kWh per litre.
