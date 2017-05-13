@@ -140,7 +140,6 @@ about car-making in Chapter 15.
 Notes and further reading
 -------------------------
 
-![](images/figure22.png)
-
-Figure 3.4. How British people travel to work, according to the 2001
-census.
+```{r british-transport-modes, fig.cap="How British people travel to work, according to the 2001 census."}
+knitr::include_graphics('images/figure22.png')
+```
