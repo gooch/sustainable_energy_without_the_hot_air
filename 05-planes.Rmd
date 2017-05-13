@@ -97,17 +97,14 @@ planes are twice as fuel-efficient as a single-occupancy car. (The car
 I'm assuming here is the average European car that we discussed in
 Chapter 3.)
 
-![](images/figure334.png)
+```{r stack-three, fig.cap='Taking one intercontinental trip per year uses about 30 kWh per day.'}
+knitr::include_graphics('images/figure29.png')
+```
 
-![](images/figure29.png)
 
-Figure 5.1. Taking one intercontinental trip per year uses about 30 kWh
-per day.
-
-![](images/figure30.png)
-
-Figure 5.2. Bombardier Q400 NextGen www.q400.com
-
+```{r bombardier-q400, fig.cap='Bombardier Q400 NextGen www.q400.com'}
+knitr::include_graphics('images/figure30.png')
+```
 
 #### Is flying extra-bad for climate change in some way?
 
@@ -142,11 +139,6 @@ energy_per_distance <- tibble::data_frame(mode = modes, `energy per distance (kW
 pander::pander(energy_per_distance)
 ```
 
-
-35*No redesign of a plane is going to radically improve its efficiency.*
-
-![](images/figure32.png)
-
-Figure 5.5. Two short-haul trips on the greenest short-haul airline: 6.3
-kWh/d. Flying enough to qualify for silver frequent flyer status: 60
-kWh/d.
+```{r short-and-frequent-flyers, fig.cap='Two short-haul trips on the greenest short-haul airline: 6.3 kWh/d. Flying enough to qualify for silver frequent flyer status: 60 kWh/d.'}
+knitr::include_graphics('images/figure32.png')
+```
