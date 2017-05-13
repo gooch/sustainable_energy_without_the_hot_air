@@ -16,12 +16,11 @@ consumption per day is
 
 $\frac{12 000\space kWh}{365\space days} \approx 33\space kWh/day$
 
-14 200 km is a little further than London to Cape Town (10 000 km)
-and London to Los Angeles (9000km), so I think we've slightly
+`r format(14200)` km is a little further than London to Cape Town (`r format(10000)` km)
+and London to Los Angeles (`r format(9000)` km), so I think we've slightly
 overestimated the distance of a typical long-range intercontinental trip;
 but we've also overestimated the fullness of the plane, and the energy
-cost per person is more if the plane's not full. Scaling down by 10 000
-km/14 200 km to get an estimate for Cape Town, then up again by 100/80 to
+cost per person is more if the plane's not full. Scaling down by ${10,000\space km} \div {14,200\space km}$ to get an estimate for Cape Town, then up again by $100 \div 80$ to
 allow for the plane's being 80% full, we arrive at 29 kWh per day. For
 ease of memorization, I'll round this up to 30 kWh per day.
 
