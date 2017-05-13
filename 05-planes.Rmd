@@ -14,11 +14,7 @@ $\frac{2 \times 240 000\space litre}{416\space passengers} \times 10 kWh/litre \
 If you make one such trip per year, then your average energy
 consumption per day is
 
-12 000 kWh
-
-≈ 33 kWh/day
-
-365 days
+$\frac{12 000\space kWh}{365\space days} \approx 33\space kWh/day$
 
 14 200 km is a little further than London to Cape Town (10 000 km)
 and London to Los Angeles (9000km), so I think we've slightly
