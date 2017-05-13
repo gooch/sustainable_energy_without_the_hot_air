@@ -320,7 +320,7 @@ buzzing at 50 hertz" (one hertz is a frequency of one cycle *per*
 second); the ampere – "the fuse blows when the current is higher than 13
 amps" (*not* 13 amps per second); and the horsepower – "that stinking
 engine delivers 50 horsepower" (*not* 50 horsepower per second, nor 50
-horsepower per hour, nor 50 horsepower per day, just50 horsepower).
+horsepower per hour, nor 50 horsepower per day, just 50 horsepower).
 
 –*Please, never, ever say "one kilowatt per second." * There are specific,
 rare exceptions to this rule. If talking about a growth in demand for
