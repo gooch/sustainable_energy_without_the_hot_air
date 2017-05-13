@@ -124,8 +124,3 @@ tall will deliver roughly 30% more power.
 Maybe. We'll come back to this issue in Chapter 26, where we'll look at wind's
 intermittency and discuss several possible solutions to this problem, including
 energy storage and demand management.
-
-Notes and further reading
--------------------------
-Figure 4.6. Histogram of Cambridge average wind speed in metres per second:
-daily averages (left), and half-hourly averages (right).
