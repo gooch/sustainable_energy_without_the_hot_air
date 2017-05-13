@@ -17,13 +17,20 @@ Chapter B (p263) explains how to estimate the power per unit area of a wind
 farm in the UK. If the typical wind speed is 6 m/s (13 miles per hour, or 22
 km/h), the power per unit area of wind farm is about $2 W/m^2$.
 
-![](images/figure25.png)
+```{r cambridge-windspeed, fig.cap='Cambridge mean wind speed in metres per second, daily (red line), and half-hourly (blue line) during 2006.', out.width="70%"}
+knitr::include_graphics('images/figure25.png')
+```
 
 This figure of 6 m/s is probably an over-estimate for many locations in
-Britain. For example, figure 4.1 shows daily average wind speeds in Cambridge
-during 2006. The daily average speed reached 6 m/s on only about 30 days of the
-year – see figure 4.6 for a histogram. But some spots do have wind speeds above
-6 m/s – for example, the summit of Cairngorm in Scotland (figure 4.2).
+Britain. For example, figure \@ref(fig:cambridge-windspeed) shows daily average wind speeds in Cambridge
+during 2006^[Cambridge wind data are from the
+Digital Technology Group, Computer Laboratory, Cambridge[vxhhj]. The weather
+station is on the roof of the Gates building, roughly 10 m high. Wind speeds at
+a height of 50 m are usually about 25% bigger. Cairngorm data (*figure \@ref(fig:cairngorm-windspeed)*) are
+from Heriot–Watt University Physics Department[tdvml].]
+. The daily average speed reached 6 m/s on only about 30 days of the
+year – see figure \@ref(fig:cambridge-windspeed-histogram) for a histogram. But some spots do have wind speeds above
+6 m/s – for example, the summit of Cairngorm in Scotland (figure \@ref(fig:cairngorm-windspeed)).
 
 Plugging in the British population density: 250 people per square kilo-metre,
 or 4000 square metres per person, we find that wind power could generate if
@@ -31,16 +38,9 @@ wind turbines were packed across the *whole* country, and assuming $2 W/m^2$ is
 the correct power per unit area. Converting to our favourite power units,
 that's 200 kWh/d per person.
 
-![](images/figure26.png)
-
-![](images/figure333.png)
-
-Figure 4.1. Cambridge mean wind speed in metres per second, daily (red line),
-and half-hourly (blue line) during 2006^[Cambridge wind data are from the
-Digital Technology Group, Computer Laboratory, Cambridge[vxhhj]. The weather
-station is on the roof of the Gates building, roughly 10 m high. Wind speeds at
-a height of50 m are usually about 25% bigger. Cairngorm data (*figure 4.2*) are
-from Heriot–Watt University Physics Department[tdvml].]. See also figure 4.6.
+```{r cairngorm-windspeed, fig.cap="Cairngorm mean wind speed in metres per second, during six months of 2006.", out.width="70%"}
+knitr::include_graphics('images/figure26.png')
+```
 
 ![](images/figure400.png)
 
@@ -104,7 +104,9 @@ Table 4.4. Facts worth remembering: wind farms.
 Table 4.5. Facts worth remembering: population density. See page 338
 for more population densities.
 
-![](images/figure28.png)
+```{r cambridge-windspeed-histogram, fig.cap='Histogram of Cambridge average wind speed in metres per second: daily averages (left), and half-hourly averages (right).', out.width='70%'}
+knitr::include_graphics('images/figure28.png')
+```
 
 Queries
 -------
