@@ -8,7 +8,19 @@ rates, it’s simple arithmetic:
 
 ${energy\space used\space per\space day} = \frac{distance\space travelled\space per\space day}{distance\space per\space unit\space of\space fuel} \times energy\space per\space unit\space of\space fuel$
 
-For the **distance travelled per day**, let’s use 50 km (30 miles).
+For the **distance travelled per day**, let’s use 50 km^[This corresponds to18
+000 km (11 000 miles) per year. Roughly half of the British population drive to
+work. The total amount of car travel in the UK is 686 billion passenger-km per
+year, which corresponds to an "average distance traveled by car per British
+person" of 30 km per day. Source: Department for Transport [5647rh]. As I said
+on p22, I aim to estimate the consumption of a"typical moderately-affluent
+person" – the consumption that many people aspire to. Some people don’t drive
+much. In this chapter, I want to estimate the energy consumed by someone who
+chooses to drive, rather than depersonalize the answer by reporting the UK
+average, which mixes together the drivers and non-drivers. If I said "the
+average use of energy for car driving in the UK is 24 kWh/d per person," I bet some people would
+misunderstand and say: "I’m a car driver so I guess I use 24
+kWh/d." [^**E**^](http://www.withouthotair.com/Errata.html#31)] (30 miles).
 
 For the **distance per unit of fuel**, also known as the **economy** of the
 car, let’s use 33 miles per UK gallon (taken from an advertisement for a family
@@ -95,12 +107,13 @@ Chapter 3’s conclusion: a typical car-driver uses about 40 kWh per day. Next w
 need to get the sustainable-production stack going, so we have something to
 compare this estimate with.
 
-Queries -------
+Queries
+-------
 
 #### What about the energy-cost of producing the car’s fuel?
 
 Good point. When I estimate the energy consumed by a particular activity, I
-tend to choose a fairly tight "boundary" around the activity.This choice makes
+tend to choose a fairly tight "boundary" around the activity. This choice makes
 the estimation easier, but I agree that it’s a good idea to try to estimate the
 full energy impact of an activity. It’s been estimated that making each unit of
 petrol requires an input of 1.4 units of oil and other primary fuels (Treloar
@@ -116,26 +129,12 @@ Notes and further reading
 
 page no.
 
-29 *For the distance travelled per day, let’s use 50 km.* This corresponds to18
-000 km (11 000 miles) per year. Roughly half of the British population drive to
-work. The total amount of car travel in the UK is 686 billion passenger-km per
-year, which corresponds to an "average distance traveled by car per British
-person" of 30 km per day. Source: Department for Transport [5647rh]. As I said
-on p22, I aim to estimate the consumption of a"typical moderately-affluent
-person" – the consumption that many people aspire to. Some people don’t drive
-much. In this chapter, I want to estimate the energy consumed by someone who
-chooses to drive, rather than depersonalize the answer by reporting the UK
-average, which mixes together the drivers and non-drivers. If I said "the
-average use of energy for car driving
+29 *For the distance travelled per day, let’s use 50 km.* 
 
 ![](images/figure22.png)
 
 Figure 3.4. How British people travel to work, according to the 2001
 census.
-
-in the UK is 24 kWh/d per person," I bet some people would
-misunderstand and say: "I’m a car driver so I guess I use 24
-kWh/d." [^**E**^](http://www.withouthotair.com/Errata.html#31)
 
 29*... let’s use 33 miles per UK gallon.* In the European language, this is 8.6
 liters per 100 km. 33 miles per gallon was the average for UK cars in 2005
