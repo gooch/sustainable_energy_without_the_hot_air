@@ -23,7 +23,13 @@ misunderstand and say: "I’m a car driver so I guess I use 24
 kWh/d." [^**E**^](http://www.withouthotair.com/Errata.html#31)] (30 miles).
 
 For the **distance per unit of fuel**, also known as the **economy** of the
-car, let’s use 33 miles per UK gallon (taken from an advertisement for a family
+car, let’s use 33 miles per UK gallon^[In the European language, this is 8.6
+liters per 100 km. 33 miles per gallon was the average for UK cars in 2005
+[27jdc5]. Petrol cars have an average fuel consumption of 31 mpg; diesel cars,
+39 mpg; new petrol cars (less than two years old), 32 mpg (Dept. for Transport,
+2007). Honda, "the most fuel-efficient auto company in America," records that
+its fleet of new cars sold in 2005 has an average top-level fuel economy of
+35 miles per UK gallon [28abpm].] (taken from an advertisement for a family
 car):
 
 $33\space miles\space per\space imperial\space gallon \approx 12\space km\space per\space litre$
@@ -41,7 +47,8 @@ calorific value as an energy per unit *volume*. To turn our fuel’s "8 kWh per
 kg" (an energy per unit *mass*) into an energy per unit volume, we need to know
 the density of the fuel. What’s the density of butter? Well, butter just floats
 on water, as do fuel-spills, so its density must be a little less than
-water’s, which is 1 kg per litre. If we guess a density of 0.8 kg per litre, we
+water’s, which is 1 kg per litre. If we guess a density of 0.8 kg per litre^[Petrol’s density is 0.737.
+Diesel’s is 0.820–0.950 [nmn4l].], we
 obtain a calorific value of:
 
 $8\space kWh\space per\space kg \times 0.8\space kg\space per\space litre \approx 7\space kWh\space per\space litre$
@@ -74,7 +81,7 @@ energy\space per\space date &= \frac{distance\space travelled\space per\space da
 \end{align}$
 
 Congratulations! We’ve made our first estimate of consumption. I’ve displayed
-this estimate in the left-hand stack in figure \@ref(fig:stack-1). The red box’s height
+this estimate in the left-hand stack in figure \@ref(fig:stack-one). The red box’s height
 represents 40 kWh per day per person.
 
 ```{r giant-car, fig.cap="Cars. A red BMW dwarfed by a spaceship from the planet Dorkon."}
@@ -85,11 +92,17 @@ knitr::include_graphics('images/figure19.png')
 knitr::include_graphics('images/figure20.png')
 ```
 
-```{r stack-1, fig.cap="Chapter 3’s conclusion: atypical car-driver uses about 40 kWh per day."}
+```{r stack-one, fig.cap="Chapter 3’s conclusion: a typical car-driver uses about 40 kWh per day."}
 knitr::include_graphics('images/figure21.png')
 ```
 
-This is the estimate for a typical car-driver driving a typical car today.Later
+```{r calorific-values-for-hyrocarbon-fuels}
+fuel_energy_content = tibble::data_frame(type = c('petrol', 'diesel'), value = c('10 kWh per litre', '11 kWh per litre'))
+
+knitr::kable(fuel_energy_content, caption = 'calorific values')
+```
+
+This is the estimate for a typical car-driver driving a typical car today. Later
 chapters will discuss the *average* consumption of all the people in Britain,
 taking into account the fact that not everyone drives. We’ll also discuss in
 Part II what the consumption *could* be, with the help of other technologies
@@ -127,28 +140,7 @@ about car-making in Chapter 15.
 Notes and further reading
 -------------------------
 
-page no.
-
-29 *For the distance travelled per day, let’s use 50 km.* 
-
 ![](images/figure22.png)
 
 Figure 3.4. How British people travel to work, according to the 2001
 census.
-
-29*... let’s use 33 miles per UK gallon.* In the European language, this is 8.6
-liters per 100 km. 33 miles per gallon was the average for UK cars in 2005
-[27jdc5].Petrol cars have an average fuel consumption of 31 mpg; diesel cars,
-39 mpg; new petrol cars (less than two years old), 32 mpg (Dept. for Transport,
-2007).Honda, "the most fuel-efficient auto company in America," records that
-its fleet of new cars sold in 2005 has an average top-level fuel economy of
-35 miles per UK gallon [28abpm].
-
-29*Let’s guess a density of 0.8 kg per litre.* Petrol’s density is 0.737.
-Diesel’s is0.820–0.950 [nmn4l].
-
-–*... the actual value of 10 kWh per litre.* 
-![](images/figure23.png)
-
-![](images/figure24.png)
-
