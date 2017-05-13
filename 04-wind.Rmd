@@ -91,12 +91,14 @@ factor for a good site with modern turbines is 30%. If we assume Whitelee has a
 load factor of 33% then the average power production per unit land area is $2
 W/m^2$ – exactly the same as the power density we assumed above.
 
-![](images/figure27.png)
 
-Figure 4.3. Chapter 4's conclusion: the maximum plausible production from
-on-shore windmills in the United Kingdom is 20 kWh per day per person.
+```{r stack-two, fig.cap="Chapter 4's conclusion: the maximum plausible production from on-shore windmills in the United Kingdom is 20 kWh per day per person."}
+knitr::include_graphics('images/figure27.png')
+```
 
-![](images/figure401.png)
+```{r power-per-unit-area}
+power_per_unit_area <- tibble::data_frame(source = c('wind farm (speed 6m/s)'), c('2W/m^2'))
+```
 
 Table 4.4. Facts worth remembering: wind farms.
 
