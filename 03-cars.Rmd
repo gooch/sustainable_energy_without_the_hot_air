@@ -6,7 +6,7 @@ civilization: the car with a lone person in it.
 How much power does a regular car-user consume? Once we know the conversion
 rates, it’s simple arithmetic:
 
-![](images/figure12.png)
+${energy\space used per\space day} = \frac{distance\space travelled\space per\space day}{distance\space per\space unit\space of\space fuel} \times emergy\space per\space unit\space of\space fuel$
 
 For the **distance travelled per day**, let’s use 50 km (30 miles).
 
