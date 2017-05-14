@@ -321,21 +321,14 @@ processing often cancel out most of the delivered energy (images/figure 6.14) �
 biofuels made from plants, in a European country like Britain, can deliver so
 little power, I think they are scarcely worth talking about.
 
+```{r average-sunshine, fig.cap='Average power of sunshine falling on a horizontal surface in selected locations in Europe, North America, and Africa.'}
+knitr::include_graphics('images/figure46.png')
+```
+
 Notes and further reading
 -------------------------
-
-page no.
-
-38*... compensate for the tilt between the sun and the land.* The latitude
-ofCambridge is θ = 52°; the intensity of midday sunlight is multiplied bycos θ ≈
-0.6. The precise factor depends on the time of year, and varies be-tween cos(θ +
-23°) = 0.26 and cos(θ - 23°) = 0.87.
-
 –*In a typical UK location the sun shines during one third of daylight
-hours.*The Highlands get 1100 h sunshine per year – a sunniness of 25%.  The
-bestspots in Scotland get 1400 h per year – 32%. Cambridge: 1500 ± 130 h peryear
-– 34%. South coast of England (the sunniest part of the UK): 1700 h peryear –
-39%. [2rqloc] Cambridge data from [2szckw]. See also figure 6.16.
+hours.*
 
 ![](images/figure44.png)
 
