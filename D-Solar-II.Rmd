@@ -18,8 +18,8 @@ Energy crops as a coal substitute
 
 If we grow in Britain energy crops such as willow, miscanthus, or poplar (which
 have an average power of 0.5 W per square metre of land), then shove them in a
-40%-efficient power station, the resulting power per unit area is 0.2 W/m^2^. If
-one eighth of Britain (500 m^2^ per person) were covered in these plantations,
+40%-efficient power station, the resulting power per unit area is $0.2\space W/m^2$. If
+one eighth of Britain ($500\space m^2\space per\space person$) were covered in these plantations,
 the resulting power would be 2.5 kWh/d per person.
 
 Petroleum substitution
