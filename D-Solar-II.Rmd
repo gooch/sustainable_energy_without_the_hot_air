@@ -283,13 +283,16 @@ electricity generated would be 0.6 kWh/d per person.
 
 ### Landfill methane gas
 
-At present, much of the methane gas leaking out of rubbish tips comes
-from biological materials, especially waste food. So, as long as we keep
-throwing away things like food and newspapers, landfill gas is a
-sustainable energy source – plus, burning that methane might be a good
-idea from a climate-change perspective, since methane is a stronger
-greenhouse-gas than CO~2~. A landfill site receiving 7.5 million tons of
-household waste per year can generate 50 000 m^3^ per hour of methane.
+At present, much of the methane gas leaking out of rubbish tips comes from
+biological materials, especially waste food. So, as long as we keep throwing
+away things like food and newspapers, landfill gas^[ Sources: Matthew Chester,
+City University, London, personal communication; Meadows (1996), Aitchison
+(1996); Alan Rosevear, UK Rep- resentative on Methane to Markets Landfill Gas
+Sub-Committee, May 2005 [4hamks].] is a sustainable energy source – plus,
+burning that methane might be a good idea from a climate-change perspective,
+since methane is a stronger greenhouse-gas than CO~2~. A landfill site receiving
+7.5 million tons of household waste per year can generate 50 000 m^3^ per hour
+of methane.
 
 In 1994, landfill methane emissions were estimated to be 0.05 m^3^ per
 person per day, which has a chemical energy of 0.5 kWh/d per person, and
@@ -376,10 +379,3 @@ hectares, could produce 300 kg of hydrogen per day.* Source: Amos
 –*Elean power station.* Source: Government White Paper (2003). Elean
 Power Station (36 MW) – the UK’s first straw-fired power plant. *Straw
 production:* www.biomassenergycentre.org.uk.
-
-287*Landfill gas.* Sources: Matthew Chester, City University, London,
-personal communication; Meadows (1996), Aitchison (1996); Alan Rosevear,
-UK Rep- resentative on Methane to Markets Landfill Gas Sub-Committee,
-May 2005 [4hamks].
-
-![](images/figure505.png)
