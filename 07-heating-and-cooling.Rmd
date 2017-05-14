@@ -194,6 +194,8 @@ day per person.
 
 This chapter's companion Chapter E contains a more detailed account of
 where the heat is going in a building; this model makes it possible to
+predict the heat savings from turning the thermostat down,
+double-glazing the windows, and so forth.
 
 Table 7.4. Energy consumption figures for heating and cooling devices,
 per household.
