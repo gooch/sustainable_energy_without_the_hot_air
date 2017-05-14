@@ -27,7 +27,7 @@ Petroleum substitution
 
 There are several ways to turn plants into liquid fuels. I’ll express the
 potential of each method in terms of its power per unit area (as in figure
-6.11).
+\@ref(fig:power-production-plants)).
 
 ### Britain’s main biodiesel crop, rape
 

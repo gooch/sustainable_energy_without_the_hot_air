@@ -284,8 +284,10 @@ power from biomass and bio-fuels cannot be any bigger than 24 kWh/d per person.
 And don't forget, we want to use some of the greenery to make food for us and
 for our animal companions.
 
+```{r power-production-plants, fig.cap="[^**E**^](http://www.withouthotair.com/Errata.html#43) Power production, per unit area, achieved by various plants.[^**E**^](http://www.withouthotair.com/Errata.html#43) These power densities vary depending on irrigation and fertilization; ranges are indicated for some crops, for example wood has a range from 0.095–0.254 W/m^2^. The bottom three power densities are for crops grown in tropical locations. The last power density (tropical plantations^[The numbers in this figure are drawn from Rogner (2000) (netenergy yields of wood, rape, sugarcane, and tropical plantations); BayerCrop Science (2003) (rape to biodiesel); Francis et al. (2005) and Asselbergset al. (2006) (jatropha); Mabee et al. (2006) (sugarcane, Brazil); Schmer et al.(2008) (switchgrass, marginal cropland in USA); Shapouri et al. (1995) (cornto ethanol); Royal Commission on Environmental Pollution (2004); Royal So-ciety working group on biofuels (2008); Energy for Sustainable DevelopmentLtd (2003); Archer and Barber (2004); Boyer (1982); Monteith (1977).]) assumes genetic modification, fertilizer application, and irrigation. In the text, I use 0.5 W/m^2^ as a summary figure for the best energy crops in NW Europe."}
 
-![](images/figure42.png)
+knitr::include_graphics('images/figure42.png')
+```
 
 ![](images/figure43.png)
 
@@ -293,17 +295,6 @@ Figure 6.10. Some *Miscanthus* grass enjoying the company of Dr Emily
 Heaton, who is 5′4″ (163 cm) tall. In Britain, *Miscanthus* achieves a
 power per unit area of 0.75 W/m^2^. Photo provided by the University of
 Illinois.
-
-Figure 6.11.[^**E**^](http://www.withouthotair.com/Errata.html#43) Power
-production, per unit area, achieved by various
-plants.[^**E**^](http://www.withouthotair.com/Errata.html#43) For
-sources, see the end-notes. These power densities vary depending on
-irrigation and fertilization; ranges are indicated for some crops, for
-example wood has a range from 0.095–0.254 W/m^2^. The bottom three power
-densities are for crops grown in tropical locations. The last power
-density (tropical plantations\*) assumes genetic modification,
-fertilizer application, and irrigation. In the text, I use 0.5 W/m^2^ as
-a summary figure for the best energy crops in NW Europe.
 
 Could genetic engineering produce plants that convert solar energy to chemicals
 more efficiently? It's conceivable; but I haven't found any scientific
@@ -543,17 +534,3 @@ that plants don't achieve the theoreticallimit is that they have
 insufficient capacity to use all the incoming radiationof bright
 sunlight. Both these papers (Zhu et al., 2008; Boyer, 1982)
 discussprospects for genetic engineering of more-efficient plants.
-
-43*Figure 6.11*. The numbers in this figure are drawn from Rogner (2000)
-(netenergy yields of wood, rape, sugarcane, and tropical plantations);
-BayerCrop Science (2003) (rape to biodiesel); Francis et al. (2005) and
-Asselbergset al. (2006) (jatropha); Mabee et al. (2006) (sugarcane,
-Brazil); Schmer et al.(2008) (switchgrass, marginal cropland in USA);
-Shapouri et al. (1995) (cornto ethanol); Royal Commission on
-Environmental Pollution (2004); Royal So-ciety working group on biofuels
-(2008); Energy for Sustainable DevelopmentLtd (2003); Archer and Barber
-(2004); Boyer (1982); Monteith (1977).
-
-44*Even just setting fire to dried wood in a good wood boiler loses 20%
-of theheat up the chimney*. 
-
