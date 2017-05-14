@@ -1,16 +1,16 @@
 #Solar II
 
-On p42 we listed four solar biomass options:
+In section \@ref(solar) we listed four solar biomass options:
 
 1.  “Coal substitution.”
 2.  “Petroleum substitution.”
 3.  Food for humans or other animals.
 4.  Incineration of agricultural by-products.
 
-We’ll estimate the maximum plausible contribution of each of these pro-
-cesses in turn. In practice, many of these methods require so much
-energy to be put *in* along the way that they are scarcely net
-contributors (images/figure 6.14). But in what follows, I’ll ignore such
+We’ll estimate the maximum plausible contribution of each of these processes
+in turn. In practice, many of these methods require so much energy to be put
+*in* along the way that they are scarcely net contributors (figure
+\@ref(fig:energy-inputs-to-biofuels)). But in what follows, I’ll ignore such 
 embodied-energy costs.
 
 Energy crops as a coal substitute
