@@ -33,12 +33,12 @@ kWh per litre. (We learned that in Chapter 3.) So the energy cost of one
 full-distance round-trip on such a plane, if divided equally among the
 passengers, is
 
-$\frac{2 \times 240 000\space litre}{416\space passengers} \times 10 kWh/litre \approx 12 000 kWh\space per\space passenger$
+$$\frac{2 \times 240 000\space litre}{416\space passengers} \times 10 kWh/litre \approx 12 000 kWh\space per\space passenger$$
 
 If you make one such trip per year, then your average energy
 consumption per day is
 
-$\frac{12 000\space kWh}{365\space days} \approx 33\space kWh/day$
+$$\frac{12 000\space kWh}{365\space days} \approx 33\space kWh/day$$
 
 `r format(14200)` km is a little further than London to Cape Town (`r
 format(10000)` km) and London to Los Angeles (`r format(9000)` km), so I think
