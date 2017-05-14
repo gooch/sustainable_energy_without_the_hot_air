@@ -39,7 +39,7 @@ items"per household," with 2 people per household.)
 One small ring on an electric cooker has the same power as a toaster:1
 kW. The higher-power hot plates deliver 2.3 kW. If you use two rings of
 the cooker on full power for half an hour per day, that corresponds
-to1.6 kWh per day.
+to 1.6 kWh per day.
 
 A microwave oven usually has its cooking power marked on the front:mine
 says 900 W, but it actually *consumes* about 1.4 kW. If you use
