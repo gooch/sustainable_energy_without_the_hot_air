@@ -169,7 +169,7 @@ refrigerates food on its way from field to shopping basket. I’ll estimate the
 power cost of the food-chain later, in Chapter 15.
 
 ```{r authors-gas-use, fig.cap='My domestic cumulative gas consumption, in kWh, each year from 1993 to 2005. The number at the top of each year’s line is the average rate of energy consumption, in kWh per day. To find out what happened in 2007, keep reading!'}
-knitr::include_graphics('figures/figure61.png')
+knitr::include_graphics('images/figure61.png')
 ```
 
 Our rough estimate of the total energy that one person might spend on heating
