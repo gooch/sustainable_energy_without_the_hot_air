@@ -9,12 +9,18 @@ The power of raw sunshine at midday on a cloudless day is 1000W per square
 metre. That's $1000\space W\space per\space m^2$ of area oriented towards the sun, not per $m^2$ of
 land area. To get the power per $m^2$ of *land area* in Britain, we must make
 several corrections. We need to compensate for the tilt between the sun and the
-land, which reduces the intensity of midday sun to about 60% of its value at the
+land^[The latitude of Cambridge is $\theta = 52°$; the intensity of midday sunlight is multiplied by
+$cos\space \theta \approx 0.6$. The precise factor depends on the time of year, and varies between
+$cos(θ + 23°) = 0.26$ and $cos(θ - 23°) = 0.87$.],
+which reduces the intensity of midday sun to about 60% of its value at the
 equator (figure \@ref(fig:sunlight-angle-cambridge)). We also lose out because it is not midday all the
 time. On a cloud-free day in March or September, the ratio of the *average*
 intensity to the midday intensity is about 32%. Finally, we lose power because
 of cloud cover. In a typical UK location the sun-shines during just 34% of
-daylight hours.
+daylight hours^[The Highlands get 1100 h sunshine per year – a sunniness of 25%.  The
+bestspots in Scotland get 1400 h per year – 32%. Cambridge: 1500 ± 130 h peryear
+– 34%. South coast of England (the sunniest part of the UK): 1700 h peryear –
+39%. [2rqloc] Cambridge data from [2szckw]. See also figure \@ref(fig:average-sunshine).].
 
 The combined effect of these three factors and the additional complication of
 the wobble of the seasons is that the average raw power of sunshine per square
