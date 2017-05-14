@@ -20,5 +20,6 @@ rmd_files:
 - 17-public-services.Rmd
 - 18-can-we-live-on-renewables.Rmd
 - 20-making-a-difference.Rmd
-- D-Solar-II.Rmd
+- C-planes-ii.Rmd
+- D-solar-ii.Rmd
 before_chapter_script: _common.R
