@@ -212,8 +212,7 @@ low-grade thermal energy.
 
 Figure 7.6. A big electric heater: 2 kW.
 
-predict the heat savings from turning the thermostat down,
-double-glazing the windows, and so forth.
+
 
 ### Warming the outdoors, and other luxuries
 
@@ -232,7 +231,7 @@ Cooling
 We control the temperatures not only of the hot water and hot air
 with which we surround ourselves, but also of the cold cupboards we
 squeeze into our hothouses. My fridge-freezer, pictured in figure 7.3,
-consumes18 W on average – that's roughly 0.5 kWh/d.
+consumes 18 W on average – that's roughly 0.5 kWh/d.
 
 ### Air-conditioning
 
@@ -244,13 +243,13 @@ need for air- conditioning (images/figure 7.8).
 
 ![](images/figure59.png)
 
-An economical way to get air-conditioning is an air-source heat pump.A
-window-mounted electric air-conditioning unit for a single room uses0.6
+An economical way to get air-conditioning is an air-source heat pump. A
+window-mounted electric air-conditioning unit for a single room uses 0.6
 kW of electricity and (by heat-exchanger) delivers 2.6 kW of cooling.
 To estimate how much energy someone might use in the UK, I assumed
 they might switch such an air-conditioning unit on for about 12 hours per
 day on 30 days of the year. On the days when it's on, the air-conditioner
-uses7.2 kWh. The average consumption over the whole year is 0.6 kWh/d.
+uses 7.2 kWh. The average consumption over the whole year is 0.6 kWh/d.
 
 This chapter's estimate of the energy cost of cooling – 1 kWh/d
 per person – includes this air-conditioning and a domestic refrigerator.
