@@ -63,103 +63,23 @@ Figure 7.2. The water in a bath.
 
 Figure 7.3. Power consumption by a heating and cooling device.
 
-Device
+```{r power-consumption-heating-and-cooling}
+devices <- c('kettle', 'microwave', 'electric cooker (rings)', 'electric oven', 'washing machine', 'tumble dryer', 'airing-cupboard drying', 'washing-line drying', 'dishwasher', 'refrigerator', 'freezer', 'air-conditioning')
 
-power
+powers <- c(3, 1.4, 3.3, 3, 2.5, 2.5, NA, NA, 2.5, 0.02, 0.09, 0.6)
 
-time per day
+times_per_day <- c(20, 20, 30, 30, 24, 48, NA, NA, 36, 1440, 1440, 60)
 
-energy per day
+power_use_heating_and_cooling <- tibble::data_frame(Device = devices, `power` = powers, `Hours per day` = times_per_day / 60)
 
-Cooking
+power_use_heating_and_cooling <-
+  mutate(power_use_heating_and_cooling, `Energy per day` = `power` * `Hours per day`)
 
-– kettle
+class(power_use_heating_and_cooling$`Hours per day`) <- c('duration', 'numeric')
+class(power_use_heating_and_cooling$`Energy per day`) <- c('energy', 'numeric')
 
-3 kW
-
-1⁄3 h
-
-1 kWh/d
-
-– microwave
-
-1.4 kW
-
-1⁄3 h
-
-0.5 kWh/d
-
-– electric cooker (rings)
-
-3.3 kW
-
-½ h
-
-1.6 kWh/d
-
-– electric oven
-
-3 kW
-
-½ h
-
-1.5 kWh/d
-
-Cleaning
-
-– washing machine
-
-2.5 kW
-
-1 kWh/d
-
-– tumble dryer
-
-2.5 kW
-
-0.8 h
-
-2 kWh/d
-
-– airing-cupboard drying
-
-0.5 kWh/d
-
-– washing-line drying
-
-0 kWh/d
-
-– dishwasher
-
-2.5 kW
-
-1.5 kWh/d
-
-Cooling
-
-– refrigerator
-
-0.02 kW
-
-24 h
-
-0.5 kWh/d
-
-– freezer
-
-0.09 kW
-
-24 h
-
-2.3 kWh/d
-
-– air-conditioning
-
-0.6 kW
-
-1 h
-
-0.6 kWh/d
+pander::pander(power_use_heating_and_cooling)
+```
 
 ### Hot clothes and hot dishes
 
