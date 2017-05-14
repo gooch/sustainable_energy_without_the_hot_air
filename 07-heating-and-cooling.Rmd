@@ -170,7 +170,7 @@ A clothes washer uses about 80 litres of water per load, with an
 energy cost of about 1 kWh if the temperature is set to 40 °C. If we use
 an indoor airing-cupboard instead of a tumble dryer to dry clothes, heat
 is still required to evaporate the water – roughly 1.5 kWh to dry one
-load of clothes,instead of 3 kWh.
+load of clothes, instead of 3 kWh.
 
 Totting up the estimates relating to hot water, I think it’s easy to
 use about 12 kWh per day per person.
