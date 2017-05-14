@@ -258,9 +258,8 @@ sites, or power stations can only lose energy. So the power at the first staging
 post is an upper bound on the power available from all plant-based power
 solutions.
 
-So, let's simply estimate the power at the first staging post. (In
-Chapter[D](http://www.inference.phy.cam.ac.uk/withouthotair/cD/page_283.shtml)we'll
-go into more detail, estimating the maximum contribution of each process.) The
+So, let's simply estimate the power at the first staging post. (In section \@ref(solar-ii)
+we'll go into more detail, estimating the maximum contribution of each process.) The
 average harvestable power of sunlight in Britain is $100\space W/m^2$. The most
 efficient plants in Europe are about 2%-efficient at turning solar energy into
 carbohydrates, which would suggest that plants might deliver $2\space W/m^2$; however,
