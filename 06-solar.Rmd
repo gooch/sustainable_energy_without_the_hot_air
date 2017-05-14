@@ -101,7 +101,7 @@ These will deliver 5 kWh per day per person.
 knitr::include_graphics('images/figure36.png')
 ```
 
-Since the area of all south-facing roofs is 10 m^2^ per person, there
+Since the area of all south-facing roofs is $10\space m^2$ per person, there
 certainly isn't space on our roofs for these photo-voltaic panels as well as the
 solar-thermal panels of the last section. So we have to choose whether to have
 the photo-voltaic contribution or the solar hot water contribution. But I'll
