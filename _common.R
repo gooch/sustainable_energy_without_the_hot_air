@@ -6,7 +6,7 @@ knitr::opts_chunk$set(
   echo = FALSE,
   collapse = TRUE,
   cache = TRUE,
-  out.width = "30%",
+  out.width = "70%",
   fig.align = 'center',
   fig.width = 6,
   fig.asp = 0.618,  # 1 / phi
