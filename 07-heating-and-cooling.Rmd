@@ -115,7 +115,7 @@ the heat is going in a building; this model makes it possible to predict the
 heat savings from turning the thermostat down, double-glazing the windows, and
 so forth.
 
-```{r heating-stack, fig.cap='The hot water total at both home and work – including bathing, showering, clothes washing, cookers, kettles, microwave oven, and dish-washing – is about 12 kWh per day per person. I've given this box a light colour to indicate that this power could be delivered by low-grade thermal energy.'}
+```{r heating-stack, fig.cap="The hot water total at both home and work – including bathing, showering, clothes washing, cookers, kettles, microwave oven, and dish-washing – is about 12 kWh per day per person. I've given this box a light colour to indicate that this power could be delivered by low-grade thermal energy."}
 knitr::include_graphics('images/figure56.png')
 ```
 
