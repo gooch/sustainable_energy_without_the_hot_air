@@ -164,7 +164,7 @@ Cooling
 ### Hot clothes and hot dishes
 
 A clothes washer, dishwasher, and tumble dryer all use a power of
-about2.5 kW when running.
+about 2.5 kW when running.
 
 A clothes washer uses about 80 litres of water per load, with an
 energy cost of about 1 kWh if the temperature is set to 40 °C. If we use
@@ -184,7 +184,7 @@ into making hot air via our buildings' radiators?
 One way to estimate the energy used per day for hot air is to imagine a
 building heated instead by electric fires, whose powers are more
 familiar to us. The power of a small electric bar fire or electric fan
-heater is 1 kW(24 kWh per day). In winter, you might need one of these
+heater is 1 kW (24 kWh per day). In winter, you might need one of these
 per person to keep toasty. In summer, none. So we estimate that on
 average one modern person *needs* to use 12 kWh per day on hot air. But
 most people use more than they need, keeping several rooms warm
