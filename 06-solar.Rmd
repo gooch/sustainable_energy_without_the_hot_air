@@ -272,15 +272,17 @@ harvesting, and processing the greenery, is
 
 0.5 W/m^2^ × 3000 m^2^ per person = 36 kWh/d per person.
 
-Wow. That's not very much, considering the outrageously generous assumptions we
-just made, to try to get a big number. If you wanted to get bio-fuels for cars or
-planes from the greenery, all the other steps in the chain from farm to spark
-plug would inevitably be inefficient. I think it'd be optimistic to hope that the
-overall losses along the processing chain would be as small as 33%. Even burning
-dried wood in a good wood boiler loses 20% of the heat up the chimney. So surely
-the true potential power from biomass and bio-fuels cannot be any bigger than 24
-kWh/d per person. And don't forget, we want to use some of the greenery to
-make food for us and for our animal companions.
+Wow. That's not very much, considering the outrageously generous assumptions we 
+just made, to try to get a big number. If you wanted to get bio-fuels for cars
+or planes from the greenery, all the other steps in the chain from farm to spark
+plug would inevitably be inefficient. I think it'd be optimistic to hope that
+the overall losses along the processing chain would be as small as 33%. Even
+burning dried wood in a good wood boiler loses 20% of the heat up the
+chimney^[Sources: Royal Society working group on biofuels(2008); Royal
+Commission on Environmental Pollution (2004).]. So surely the true potential
+power from biomass and bio-fuels cannot be any bigger than 24 kWh/d per person.
+And don't forget, we want to use some of the greenery to make food for us and
+for our animal companions.
 
 
 ![](images/figure42.png)
@@ -553,6 +555,5 @@ Environmental Pollution (2004); Royal So-ciety working group on biofuels
 (2004); Boyer (1982); Monteith (1977).
 
 44*Even just setting fire to dried wood in a good wood boiler loses 20%
-of theheat up the chimney*. Sources: Royal Society working group on
-biofuels(2008); Royal Commission on Environmental Pollution (2004).
+of theheat up the chimney*. 
 
