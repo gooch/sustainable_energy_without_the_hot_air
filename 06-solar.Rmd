@@ -371,13 +371,9 @@ issue is obfuscated bysome solar-panel promoters who discuss how the
 "efficiency"  varies withsunlight. "The panels are more efficient in cloudy
 conditions,"  they say; this
 
-Figure 6.14. This figure illustrates the quantitative questions that
-must be asked of any proposed biofuel. What are the additional energy
-inputs required for farming and processing? What is the delivered
-energy? What is the *net* energy output? Often the additional inputs and
-losses wipe out most of the energy delivered by the plants.
-
-![](images/figure50.png)
+```{r energy-inputs-to-biofuel, fig.cap='This figure illustrates the quantitative questions that must be asked of any proposed biofuel. What are the additional energy inputs required for farming and processing? What is the delivered energy? What is the *net* energy output? Often the additional inputs and losses wipe out most of the energy delivered by the plants.'}
+knitr::include_graphics('images/figure50.png')
+```
 
 Figure 6.15. Power produced by the Sanyo HIP-210NKHE1 module as a
 function of light intensity (at 25°C, assuming an output voltage of 40
