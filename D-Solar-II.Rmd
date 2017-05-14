@@ -222,21 +222,19 @@ required.
 
 ### What about algae that produce hydrogen?
 
-Trying to get slime to produce hydrogen in sunlight is a smart idea
-because it cuts out a load of chemical steps normally performed by
-carbohydrate- producing plants. Every chemical step reduces efficiency a
-little. Hydrogen can be produced directly by the photosynthetic system,
-right at step one. A research study from the National Renewable Energy
-Laboratory in Colorado predicted that a reactor filled with
-genetically-modified green algae, covering an area of 11 hectares in the
-Arizona desert, could
-
-produce 300 kg of hydrogen per day. Hydrogen contains 39 kWh per kg, so
-this algae-to-hydrogen facility would deliver a power per unit area of
-4.4 W/m^2^. Taking into account the estimated electricity required to
-run the facility, the net power delivered would be reduced to 3.6
-W/m^2^. That strikes me as still quite a promising number – compare it
-with the Bavarian solar photo-voltaic farm, for example (5 W/m^2^).
+Trying to get slime to produce hydrogen in sunlight is a smart idea because it
+cuts out a load of chemical steps normally performed by carbohydrate- producing
+plants. Every chemical step reduces efficiency a little. Hydrogen can be
+produced directly by the photosynthetic system, right at step one. A research
+study from the National Renewable Energy Laboratory in Colorado predicted that a
+reactor filled with genetically-modified green algae, covering an area of 11
+hectares in the Arizona desert, could produce 300 kg of hydrogen per
+day^[Source: Amos (2004).]. Hydrogen contains 39 kWh per kg, so this
+algae-to-hydrogen facility would deliver a power per unit area of 4.4 W/m^2^.
+Taking into account the estimated electricity required to run the facility, the
+net power delivered would be reduced to 3.6 W/m^2^. That strikes me as still
+quite a promising number – compare it with the Bavarian solar photo-voltaic
+farm, for example (5 W/m^2^).
 
 Food for humans or other animals
 --------------------------------
@@ -265,14 +263,15 @@ by-products deliver 10% as much power per unit area as the best energy
 crops: 0.02 W/m^2^. Multiplying this by 2000 m^2^ we get 1 kWh per day
 per person.
 
-Have I been unfair to agricultural garbage in making this wild guess? We
-can re-estimate the plausible production from agricultural left-overs by
-scaling up the prototype straw-burning power station at Elean in East
-Anglia. Elean’s power output is 36 MW, and it uses 200 000 tons per year
-from land located within a 50-mile radius. If we assume this density can
-be replicated across the whole country, the Elean model offers 0.002
-W/m^2^. At 4000 m^2^ per person, that’s 8 W per person, or 0.2 kWh/day
-per person.
+Have I been unfair to agricultural garbage in making this wild guess? We can
+re-estimate the plausible production from agricultural left-overs by scaling up
+the prototype straw-burning power station at Elean^[Source: Government White
+Paper (2003). Elean Power Station (36 MW) – the UK’s first straw-fired power
+plant. *Straw production:* www.biomassenergycentre.org.uk. ] in East Anglia.
+Elean’s power output is 36 MW, and it uses 200 000 tons per year from land
+located within a 50-mile radius. If we assume this density can be replicated
+across the whole country, the Elean model offers 0.002 W/m^2^. At 4000 m^2^ per
+person, that’s 8 W per person, or 0.2 kWh/day per person.
 
 Let’s calculate this another way. UK straw production is 10 million tons
 per year, or 0.46 kg per day per person. At 4.2 kWh per kg, this straw
@@ -370,12 +369,3 @@ methane, which corresponds to an input power density of 6.4 W/m^2^. To
 recap, the power density of the output, in the form of biodiesel, would
 be just 4.2 W/m^2^. All proposals to make biofuels should be approached
 with a critical eye!
-
-286*A research study from the National Renewable Energy Laboratory
-predicted that genetically-modified green algae, covering an area of 11
-hectares, could produce 300 kg of hydrogen per day.* Source: Amos
-(2004).
-
-–*Elean power station.* Source: Government White Paper (2003). Elean
-Power Station (36 MW) – the UK’s first straw-fired power plant. *Straw
-production:* www.biomassenergycentre.org.uk.
