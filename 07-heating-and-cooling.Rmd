@@ -11,13 +11,13 @@ The biggest use of hot water in a house might be baths, showers,
 dish-washing, or clothes-washing – it depends on your lifestyle. Let's
 estimate first the energy used by taking a hot bath.
 
-The volume of bath-water is 50 cm × 15 cm × 150 cm ≈ 110 litre. Say the
+The volume of bath-water is $50\space cm \times 15\space cm \times 150\space cm \approx 110\space litre$. Say the
 temperature of the bath is 50 °C (120 F) and the water coming into
 the house is at 10 °C. The heat capacity of water, which measures how
 much energy is required to heat it up, is 4200 J per litre per °C. So the
 energy required to heat up the water by 40 °C is
 
-4200 J/litre/°C × 110 litre × 40 °C ≈ 18 MJ ≈ 5 kWh.
+$4200\space J/litre/°C \times 110\space litre \times 40°C \approx 18\space MJ \approx 5\space kWh$.
 
 So taking a bath uses about 5 kWh. For comparison, taking a shower(30
 litres) uses about 1.4 kWh.
@@ -25,23 +25,23 @@ litres) uses about 1.4 kWh.
 ### Kettles and cookers
 
 Britain, being a civilized country, has a 230 volt domestic electricity
-supply.With this supply, we can use an electric kettle to boil several
+supply. With this supply, we can use an electric kettle to boil several
 litres of water in a couple of minutes. Such kettles have a power of 3
-kW. Why 3 kW?Because this is the biggest power that a 230 volt outlet
+kW. Why 3 kW? Because this is the biggest power that a 230 volt outlet
 can deliver with-out the current exceeding the maximum permitted, 13
 amps. In countries where the voltage is 110 volts, it takes twice as long
 to make a pot of tea.
 
 If a household has the kettle on for 20 minutes per day, that's an
 average power consumption of 1 kWh per day. (I'll work out the next few
-items"per household," with 2 people per household.)
+items "per household," with 2 people per household.)
 
-One small ring on an electric cooker has the same power as a toaster:1
+One small ring on an electric cooker has the same power as a toaster: 1
 kW. The higher-power hot plates deliver 2.3 kW. If you use two rings of
 the cooker on full power for half an hour per day, that corresponds
 to 1.6 kWh per day.
 
-A microwave oven usually has its cooking power marked on the front:mine
+A microwave oven usually has its cooking power marked on the front: mine
 says 900 W, but it actually *consumes* about 1.4 kW. If you use
 the microwave for 20 minutes per day, that's 0.5 kWh per day.
 
