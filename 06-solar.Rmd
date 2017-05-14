@@ -261,12 +261,12 @@ solutions.
 So, let's simply estimate the power at the first staging post. (In
 Chapter[D](http://www.inference.phy.cam.ac.uk/withouthotair/cD/page_283.shtml)we'll
 go into more detail, estimating the maximum contribution of each process.) The
-average harvestable power of sunlight in Britain is 100 W/m^2^. The most
+average harvestable power of sunlight in Britain is $100\space W/m^2$. The most
 efficient plants in Europe are about 2%-efficient at turning solar energy into
-carbohydrates, which would suggest that plants might deliver2 W/m^2^; however,
+carbohydrates, which would suggest that plants might deliver $2\space W/m^2$; however,
 their efficiency drops at higher light levels, and the best performance of any
-energy crops in Europe is closer to 0.5 W/m^2^. Let's cover 75% of the country
-with quality green stuff.  That's 3000 m^2^ per person devoted to bio-energy.
+energy crops in Europe is closer to $0.5\space W/m^2$. Let's cover 75% of the country
+with quality green stuff.  That's $3000\space m^2$ per person devoted to bio-energy.
 This is the same as the British land area currently devoted to agriculture. So
 the maximum power available, ignoring all the additional costs of growing,
 harvesting, and processing the greenery, is
