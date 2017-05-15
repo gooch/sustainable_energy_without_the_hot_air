@@ -133,9 +133,9 @@ Figure 9.4. Philips 11 W alongside Omicron 1.3 W LED bulb.
 
 ### Mythconceptions
 
-#### "There is no point in my switching to energy-saving lights. The"wasted" energy they put out heats my home, so it's not wasted."
+#### "There is no point in my switching to energy-saving lights. The "wasted" energy they put out heats my home, so it's not wasted."
 
-This myth is addressed in Chapter 11, p71.
+This myth is addressed in section \@ref(waste-heat-not-wasted).
 
 Notes and further reading
 -------------------------
