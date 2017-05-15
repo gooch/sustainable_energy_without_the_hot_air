@@ -45,7 +45,7 @@ powering a 55%-efficient generator, so the power required is 730 W. For
 comparison, a typical car going at an average speed of 50 km/h and
 consuming one litre per 12 km
 
-```{r domestic-electric-light, fig.cap="Electric consumption for domestic lighting. A plausible total is 5.5 kWh per home per day; and a similar figure at work; perhaps 4 kWh per day per person."}
+```{r domestic-electric-light}
 
 domestic_electric_light <- tibble::data_frame(
   Device = c('10 incandescent lights', '10 low-energy lights'),
@@ -56,7 +56,8 @@ domestic_electric_light <- tibble::data_frame(
 domestic_electric_light <- mutate(domestic_electric_light,
                                   `Energy per day (kWh)` = `power (kW)` * `Time per day (h)`)
 
-pander::pander(domestic_electric_light)
+knitr::kable(domestic_electric_light,
+             caption = "Electric consumption for domestic lighting. A plausible total is 5.5 kWh per home per day; and a similar figure at work; perhaps 4 kWh per day per person.")
 ```
 
 ![](images/figure67.png)
@@ -168,7 +169,7 @@ street-lights*.
 Generators in power stations are much more efficient at converting
 mechanical work to electricity.
 
-```{r lighting-efficiencies, fig.cap="Lighting efficiencies of commercially-available bulbs. In the future, white LEDs are expected to deliver 150 lumens per watt."}
+```{r lighting-efficiencies}
 bulb_types = c('incandescent', 'halogen', 'whte LED',
                'compact fluorescent', 'large fluorescent',
                'sodium street light')
@@ -176,5 +177,7 @@ bulb_types = c('incandescent', 'halogen', 'whte LED',
 efficiencies <- c(10, '16-24', 35, 55, 94, 150)
 
 lighting_efficiencies <- tibble::data_frame(`Bulb type` = bulb_types, `efficiency (lumens/W)` = efficiencies)
-pander::pander(lighting_efficiencies)
+
+knitr::kable(lighting_efficiencies,
+             caption = "Lighting efficiencies of commercially-available bulbs. In the future, white LEDs are expected to deliver 150 lumens per watt.")
 ```
