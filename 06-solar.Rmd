@@ -83,12 +83,27 @@ non-uniformly through the year.
 Solar photo-voltaic
 ------------------
 
-Photo-voltaic (PV) panels convert sunlight into electricity. Typical solar panels
-have an efficiency of about 10%; expensive ones perform at 20%.(Fundamental
-physical laws limit the efficiency of photo-voltaic systems to at best 60% with
-perfect concentrating mirrors or lenses, and 45% without concentration. A
-mass-produced device with efficiency greater than 30%would be quite
-remarkable.) The average power delivered by south-facing 20%-efficient
+Photo-voltaic (PV) panels convert sunlight into electricity. Typical solar
+panels have an efficiency of about 10%; expensive ones perform at
+20%.(Fundamental physical laws limit the efficiency of photo-voltaic systems to
+at best 60% with perfect concentrating mirrors or lenses, and 45% without
+concentration. A mass-produced device with efficiency greater than 30%would be
+quite remarkable.) The average power delivered by south-facing^[There's a myth
+going around that states that solar panels produce almost as much power in
+cloudy conditions as in sunshine. This is simply not true. On a bright but
+cloudy day, solar photo-voltaic panels and plants do continue toconvert some
+energy, but much less: photo-voltaic production falls roughly ten-fold when the
+sun goes behind clouds (because the intensity of the in-coming sunlight falls
+ten-fold). As figure 6.15 shows, the power delivered by photo-voltaic panels is
+almost exactly proportional to the intensity of the sunlight – at least, if the
+panels are at 25°C. To complicate things, the power delivered depends on
+temperature too – hotter panels have reduced power (typically 0.38% loss in
+power per °C) – but if you check data from real panels, e.g. at
+www.solarwarrior.com, you can confirm the main point: output on a cloudy day is
+*far less* than on a sunny day. This issue is obfuscated by some solar-panel
+promoters who discuss how the "efficiency"  varies with sunlight. "The panels
+are more efficient in cloudy conditions,"  they say; this may be true, but
+efficiency should not be confused with delivered power.] 20%-efficient 
 photo-voltaic panels in Britain would be
 
 $$20\% \times 110\space W/m^2 = 22\space W/m^2$$
@@ -364,22 +379,6 @@ tilt. Thisgives 16 m^2^ per person. Panels usually come in inconvenient
 rectangles sosome fraction of roof will be left showing; hence 10 m^2^ of
 panels.
 
-–*The average power delivered by photovoltaic panels...*There's a myth going
-around that states that solar panels produce almost asmuch power in cloudy
-conditions as in sunshine. This is simply not true. Ona bright but cloudy day,
-solar photovoltaic panels and plants do continue toconvert some energy, but much
-less: photovoltaic production falls roughlyten-fold when the sun goes behind
-clouds (because the intensity of the in-coming sunlight falls ten-fold). As
-figure 6.15 shows, the power deliveredby photovoltaic panels is almost exactly
-proportional to the intensity of thesunlight – at least, if the panels are at
-25°C. To complicate things, the powerdelivered depends on temperature too –
-hotter panels have reduced power(typically 0.38% loss in power per °C) – but if
-you check data from real pan-els, e.g. at www.solarwarrior.com, you can confirm
-the main point: outputon a cloudy day is *far less* than on a sunny day. This
-issue is obfuscated bysome solar-panel promoters who discuss how the
-"efficiency"  varies withsunlight. "The panels are more efficient in cloudy
-conditions,"  they say; this
-
 ```{r energy-inputs-to-biofuel, fig.cap='This figure illustrates the quantitative questions that must be asked of any proposed biofuel. What are the additional energy inputs required for farming and processing? What is the delivered energy? What is the *net* energy output? Often the additional inputs and losses wipe out most of the energy delivered by the plants.'}
 knitr::include_graphics('images/figure50.png')
 ```
@@ -388,9 +387,11 @@ Figure 6.15. Power produced by the Sanyo HIP-210NKHE1 module as a
 function of light intensity (at 25°C, assuming an output voltage of 40
 V). Source: datasheet, www.sanyo-solar.eu.
 
-![](images/figure48.png)
+```{r photon-energy-eV, fig.cap="Part of Shockley and Queisser's explanation for the 31% limit of the efficiency of simple photovoltaics. Left: the spectrum of midday sunlight. The vertical axis shows the power density in W/m^2^ per eV of spectral interval. The visible part of the spectrum is indicated by the coloured section. Right: the energy captured by a photovoltaic device with a single band-gap at 1.1 eV is shown by the tomato-shaded area. Photons with energy less than the band-gap are lost. Some of the energy of photons above the band-gap is lost; for example half of the energy of every 2.2 eV photon is lost. Further losses are incurred because of inevitable radiation from recombining charges in the photovoltaic material."}
+knitr::include_graphics('images/figure48.png')
+```
 
-may be true, but efficiency should not be confused with delivered power.
+
 
 39*Typical solar panels have an efficiency of about 10%; expensive ones
 per-form at 20%*. See figure 6.18. Sources: Turkenburg (2000), Sunpower
@@ -428,17 +429,6 @@ sunlight, of only 5.8%.
 40*Figure 6.5: Solar PV data*. Data and photograph kindly provided by
 Jonathan Kimmitt.
 
-Figure 6.17. Part of Shockley and Queisser's explanation for the 31%
-limit of the efficiency of simple photovoltaics. Left: the spectrum of
-midday sunlight. The vertical axis shows the power density in W/m^2^ per
-eV of spectral interval. The visible part of the spectrum is indicated
-by the coloured section. Right: the energy captured by a photovoltaic
-device with a single band-gap at 1.1 eV is shown by the tomato-shaded
-area. Photons with energy less than the band-gap are lost. Some of the
-energy of photons above the band-gap is lost; for example half of the
-energy of every 2.2 eV photon is lost. Further losses are incurred
-because of inevitable radiation from recombining charges in the
-photovoltaic material.
 
 ```{r efficiences-of-panels, fig.cap="Efficiencies of solar photovoltaic modules available for sale today. In the text I assume that roof-top photovoltaics are 20% efficient, and that country-covering photovoltaics would be 10% efficient. In a location where the average power density of incoming sunlight is 100 W/m^2^, 20%-efficient panels deliver 20 W/m^2^."}
 knitr::include_graphics('images/figure51.png')
