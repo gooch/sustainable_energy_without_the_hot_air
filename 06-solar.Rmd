@@ -450,13 +450,6 @@ sun-tracking panels occupying 60hectares, i.e., 600 000 m^2^ or 0.6
 km^2^, expected to generate 20 GWh per year, i.e., 2.3 MW on average.
 That's a power per unit area of 3.8 W/m^2^.
 
-41*The solar power capacity required to deliver 50 kWh/d per person in
-the UKis more than 100 times all the photovoltaics in the whole world.*
-To deliver50 kWh/d per person in the UK would require 125 GW average
-power, whichrequires 1250 GW of capacity. At the end of 2007, world
-installed photo-voltaics amounted to 10 GW peak; the build rate is
-roughly 2 GW per year.
-
 –*... paving 5% of this country with solar panels seems beyond the
 bounds ofplausibility*. My main reason for feeling such a panelling of
 the countrywould be implausible is that Brits like using their
