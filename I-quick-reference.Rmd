@@ -238,25 +238,22 @@ here, to help you translate the media stories you read.
 
 ### Homes {#reference-homes}
 
-The “home” is commonly used when describing the power of renewable
-facilities. For example, “The £300 million Whitelee wind farm’s 140
-turbines will generate 322 MW – enough to power 200 000 homes.” The
-“home” is defined by the BritishWind Energy Association to be a power of
-4700 kWh per year [www.bwea.com/ukwed/operational.asp]. That’s 0.54 kW,
-or 13 kWh per day. (A few other organizations use 4000 kWh/y per
-household.)
+The “home” is commonly used when describing the power of renewable facilities.
+For example, “The £300 million Whitelee wind farm’s 140 turbines will generate
+322 MW – enough to power 200 000 homes.” The “home” is defined by the
+BritishWind Energy Association to be a power of 4700 kWh per year
+[www.bwea.com/ukwed/operational.asp]. That’s 0.54 kW, or 13 kWh per day. (A few
+other organizations use 4000 kWh/y per household.)
 
-The “home” annoys me because I worry that people confuse it with *the
-total power consumption of the occupants of a home* – but the latter is
-actually
+The “home” annoys me because I worry that people confuse it with *the total
+power consumption of the occupants of a home* – but the latter is actually about
+24 times bigger. The “home” covers the average domestic *electricity*
+consumption of a household, only. Not the household’s home heating. Nor their
+workplace. Nor their transport. Nor all the energy-consuming things that society
+does for them.
 
-about 24 times bigger. The “home” covers the average domestic
-*electricity* consumption of a household, only. Not the household’s home
-heating. Nor their workplace. Nor their transport. Nor all the
-energy-consuming things that society does for them.
-
-Incidentally, when they talk of the CO~2~ emissions of a “home,” the
-official exchange rate appears to be 4 tons CO~2~ per home per year.
+Incidentally, when they talk of the CO~2~ emissions of a “home,” the official
+exchange rate appears to be 4 tons CO~2~ per home per year.
 
 ### Power stations {#reference-power-stations}
 
