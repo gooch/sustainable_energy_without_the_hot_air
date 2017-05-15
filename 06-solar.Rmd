@@ -471,10 +471,7 @@ that power station lasted 20 years withoutfurther expenditure, the
 wholesale cost of the electricity would be €0.25 perkWh. Further
 reading: David Carlson, BP solar [2ahecp].
 
-43*People in Britain throw away about 300 g of food per day.* Source:
-Ventour(2008).
-
-–*Figure 6.10*. In the USA, *Miscanthus* grown without nitrogen fertilizer
+–*Figure \@ref(fig:miscanthus)*. In the USA, *Miscanthus* grown without nitrogen fertilizer
 yieldsabout 24 t/ha/y of dry matter. In Britain, yields of 12–16 t/ha/y are
 reported. Dry *Miscanthus* has a net calorific value of 17 MJ/kg, so the British
 yield corresponds to a power density of 0.75 W/m^2^. Sources: Heaton et
