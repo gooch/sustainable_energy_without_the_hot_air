@@ -21,15 +21,14 @@ I'll assume that a power per unit area of 3 W/m^2^ (50% larger than our
 onshore estimate of 2 W/m^2^) is an appropriate figure for offshore wind
 farms around the UK.
 
-We now need an estimate of the area of sea that could plausibly be cov-
-ered with wind turbines. It is conventional to distinguish between
+We now need an estimate of the area of sea that could plausibly be covered with wind turbines. It is conventional to distinguish between
 *shallow* offshore wind and *deep* offshore wind, as illustrated in
 figure 10.2. Conventional wisdom seems to be that *shallow* offshore
 wind (depth less than 25– 30 m), while roughly twice as costly as
 land-based wind, is economically feasible, given modest subsidy; and
 *deep* offshore wind is at present not economically feasible. As of
-2008, there's just one deep offshore windfarm in UK waters, an
-experimental prototype sending all its electricity to a nearby oilrig
+2008, there's just one deep offshore wind-farm in UK waters, an
+experimental prototype sending all its electricity to a nearby oil-rig
 called Beatrice.
 
 Shallow offshore
@@ -161,10 +160,10 @@ Kentish Flats farm cost £105 million, so "33 GW" would cost about £33
 billion. One way to clarify this £33 billion cost of offshore wind
 delivering 4 kWh/d per person is to share it among the UK population;
 that comes out to £550 per person. This is a much better deal,
-incidentally, than micro-turbines. A roof-mounted microturbine
-currently costs about £1500 and, even at a very optimistic windspeed of
+incidentally, than micro-turbines. A roof-mounted micro-turbine
+currently costs about £1500 and, even at a very optimistic wind speed of
 6 m/s, delivers only 1.6 kWh/d. In reality, in a typical urban location
-in England, such microturbines deliver 0.2 kWh per day.
+in England, such micro-turbines deliver 0.2 kWh per day.
 
 Another bottleneck constraining the planting of wind turbines is the
 special ships required. To erect 10 000 wind turbines ("33 GW") over a
@@ -179,7 +178,7 @@ requires some forward planning.
 Do windmills kill "huge numbers" of birds? Wind farms recently got ad-
 verse publicity from Norway, where the wind turbines on Smola, a set of
 islands off the north-west coast, killed 9 white-tailed eagles in 10
-months. I share the concern of BirdLife International for the welfare of
+months. I share the concern of Bird Life International for the welfare of
 rare birds. But I think, as always, it's important to do the numbers.
 It's been estimated that 30 000 birds per year are killed by wind
 turbines in Denmark, where windmills generate
@@ -193,7 +192,7 @@ And in Britain, 55 million birds per year are killed by *cats* (images/figure
 Going on emotions alone, I would like to live in a country with
 virtually no cars, virtually no windmills, and with plenty of cats and
 birds (with the cats that prey on birds perhaps being preyed upon by
-Norwegian whitetailed eagles, to even things up). But what I really
+Norwegian white-tailed eagles, to even things up). But what I really
 hope is that decisions about cars and windmills are made by careful
 rational thought, not by emotions alone. Maybe we do need the windmills!
 
@@ -217,8 +216,7 @@ page no.
 
 60*The Kentish Flats wind farm in the Thames Estuary...* See
 www.kentishflats.co.uk. Its 30 Vestas V90 wind turbines have a total
-peak output of 90 MW, and the predicted average output was 32 MW (as-
-suming a load factor of 36%). The mean wind speed at the hub height is
+peak output of 90 MW, and the predicted average output was 32 MW (assuming a load factor of 36%). The mean wind speed at the hub height is
 8.7 m/s. The turbines stand in 5 m-deep water, are spaced 700 m apart,
 and occupy an area of 10 km^2^. The power density of this offshore wind
 farm was thus predicted to be 3.2 W/m^2^. In fact, the average output
@@ -233,7 +231,7 @@ wind, is economically feasible, given modest subsidy*. Source: Danish
 wind association windpower.org.
 
 –*...deep offshore wind is at present not economically feasible.*
-Source: BritishWind Energy Association briefing document, September
+Source: British Wind Energy Association briefing document, September
 2005, www.bwea.com. Nevertheless, a deep offshore demonstration project
 in 2007 put two turbines adjacent to the Beatrice oil field, 22 km off
 the east coast of Scotland (images/figure 10.8). Each turbine has a "capacity"
@@ -394,12 +392,12 @@ country. . . By our estimates, it will cost somewhere in the region of
 £40bn to build the 33 GW of offshore power Hutton is proposing. We could
 do the same job onshore for £20bn'." [57984r]
 
-–*In a typical urban location in England, microturbines deliver 0.2 kWh
+–*In a typical urban location in England, micro-turbines deliver 0.2 kWh
 per day*. Source: *Third Interim Report*,
 www.warwickwindtrials.org.uk/2.html. Among the best results in the
 Warwick Wind Trials study is a Windsave WS1000 (a 1-kW machine) in
 Daventry mounted at a height of 15 m above the ground, generating 0.6
-kWh/d on average. But some microturbines deliver only 0.05 kWh per day
+kWh/d on average. But some micro-turbines deliver only 0.05 kWh per day
 – Source: Donnachadh McCarthy: "My carbon-free year," *The
 Independent*, December 2007 [6oc3ja]. The Windsave WS1000 wind turbine,
 sold across England in B&Q's shops, won an Eco-Bollocks award from
@@ -413,7 +411,7 @@ small-scale
 ![](images/figure77.png)
 
 Figure 10.8. Construction of the Beatrice demonstrator deep offshore
-windfarm. Photos kindly provided by Talisman Energy (UK) Limited.
+wind-farm. Photos kindly provided by Talisman Energy (UK) Limited.
 
 ![](images/figure76.png)
 
