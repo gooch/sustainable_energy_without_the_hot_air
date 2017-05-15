@@ -8,13 +8,13 @@ W. In an old-fashioned incandescent bulb, most of this power gets turned
 into heat, rather than light. A fluorescent tube can produce an equal
 amount of light using one quarter of the power of an incandescent bulb.
 
-How much power does a moderately affluent person use for lighting? My
-rough estimate, based on table 9.2, is that a typical two-person
-home with a mix of low-energy and high-energy bulbs uses about 5.5 kWh
-per day, or 2.7 kWh per day per person. I assume that each person also
-has a workplace where they share similar illumination with their
-colleagues;guessing that the workplace uses 1.3 kWh/d per person, we get
-a round figure of 4 kWh/d per person.
+How much power does a moderately affluent person use for lighting? My rough
+estimate, based on table \@ref(tab:domestic-electric-light), is that a typical
+two-person home with a mix of low-energy and high-energy bulbs uses about 5.5
+kWh per day, or 2.7 kWh per day per person. I assume that each person also has a
+workplace where they share similar illumination with their colleagues;guessing
+that the workplace uses 1.3 kWh/d per person, we get a round figure of 4 kWh/d
+per person.
 
 Street-lights and traffic lights
 --------------------------------
