@@ -237,19 +237,15 @@ solar-powered biological systems:
     of getting energy, but it's sustainable only as long as we have a
     sustainable source of junk to keep putting into the landfill sites. (Most of
     the landfill methane comes from wasted food; people in Britain throw away
-    about 300 g of food per day per person.) Incinerating household waste is
-    another slightly less roundabout way of getting power from solar biomass.
+    about 300 g of food per day per person^[Source: Ventour(2008).].) Incinerating
+    household waste is another slightly less roundabout way of getting power from
+    solar biomass.
 4.  We can grow plants and feed them directly to energy-requiring
     humans or other animals.
 
-
-![](images/figure41.png)
-
-Figure 6.9. Solar photo-voltaics: a 10 m^2^ array of building-mounted
-south-facing panels with 20% efficiency can deliver about 5 kWh per day
-of electrical energy. If 5% of the country were coated with
-10%-efficient solar panels (200 m^2^ of panels per person) they would
-deliver 50 kWh/day/person.
+```{r pv-farm-stack, fig.cap="Solar photo-voltaics: a 10 m^2^ array of building-mounted south-facing panels with 20% efficiency can deliver about 5 kWh per day of electrical energy. If 5% of the country were coated with 10%-efficient solar panels (200 m^2^ of panels per person) they would deliver 50 kWh/day/person.", out.width = "30%"}
+knitr::include_graphics('images/figure41.png')
+```
 
 For all of these processes, the first staging post for the energy is in a
 chemical molecule such as a carbohydrate in a green plant. We can
