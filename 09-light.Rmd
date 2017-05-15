@@ -71,12 +71,11 @@ per day per person.
 has an average power consumption of 42 000W. So having the lights
 on while driving requires 2% extra power.
 
-What about the future's electric cars? The power consumption of atypical
-electric car is about 5000 W. So popping on an extra 100 W would increase
-its consumption by 2%. Power consumption would be smaller if we switched
-all car lights to light-emitting diodes, but if we pay anymore attention
-to this topic, we will be coming down with a severe case
-of every-little-helps-ism.
+What about the future's electric cars? The power consumption of a typical 
+electric car is about 5000 W. So popping on an extra 100 W would increase its
+consumption by 2%. Power consumption would be smaller if we switched all car
+lights to light-emitting diodes, but if we pay any more attention to this topic,
+we will be coming down with a severe case of every-little-helps-ism.
 
 The economics of low-energy bulbs
 ---------------------------------
