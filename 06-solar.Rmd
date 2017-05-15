@@ -168,11 +168,18 @@ onto the stack. At the same time, I want to help people figure out what we
 should be doing between *now* and 2050. And today, electricity from solar farms 
 would be four times as expensive as the market rate. So I feel a bit 
 irresponsible as I include this estimate in the sustainable production stack in 
-figure \@ref(fig:pv-farm-stack) – paving 5% of the UK with solar panels seems
-beyond the bounds of plausibility in so many ways. If we seriously contemplated
-doing such a thing, it would quite probably be better to put the panels in a
-two-fold sunnier country and send some of the energy home by power lines. We'll
-return to this idea in Chapter 25.
+figure \@ref(fig:pv-farm-stack) – paving 5% of the UK with solar panels seems 
+beyond the bounds of plausibility in so many ways^[My main reason for feeling
+such a panelling of the countrywould be implausible is that Brits like using
+their countryside for farming and recreation rather than solar-panel husbandry. 
+Another concern might be price. This isn't a book about economics, but here are
+a few figures. Going by the price-tag of the Bavarian solar farm, to deliver 50
+kWh/d per person would cost €91 000 per person; if that power station lasted 20
+years without further expenditure, the wholesale cost of the electricity would
+be €0.25 per kWh. Further reading: David Carlson, BP solar [2ahecp].]. If we
+seriously contemplated doing such a thing, it would quite probably be better to
+put the panels in a two-fold sunnier country and send some of the energy home by
+power lines. We'll return to this idea in Chapter 25.
 
 ### Mythconceptions
 
@@ -452,17 +459,6 @@ year. That's 6 W/m^2^[5hzs5y]. Serpa Solar Power Plant, Portugal (PV),
 sun-tracking panels occupying 60hectares, i.e., 600 000 m^2^ or 0.6
 km^2^, expected to generate 20 GWh per year, i.e., 2.3 MW on average.
 That's a power per unit area of 3.8 W/m^2^.
-
-–*... paving 5% of this country with solar panels seems beyond the
-bounds ofplausibility*. My main reason for feeling such a panelling of
-the countrywould be implausible is that Brits like using their
-countryside for farmingand recreation rather than solar-panel husbandry.
-Another concern might beprice. This isn't a book about economics, but
-here are a few figures. Goingby the price-tag of the Bavarian solar
-farm, to deliver 50 kWh/d per personwould cost €91 000 per person; if
-that power station lasted 20 years withoutfurther expenditure, the
-wholesale cost of the electricity would be €0.25 perkWh. Further
-reading: David Carlson, BP solar [2ahecp].
 
 –*Figure \@ref(fig:miscanthus)*. In the USA, *Miscanthus* grown without nitrogen fertilizer
 yieldsabout 24 t/ha/y of dry matter. In Britain, yields of 12–16 t/ha/y are
