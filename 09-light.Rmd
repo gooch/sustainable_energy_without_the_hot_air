@@ -144,25 +144,6 @@ knitr::include_graphics('images/figure69.png')
 
 This myth is addressed in section \@ref(waste-heat-not-wasted).
 
-Notes and further reading
--------------------------
-
-page no.
-
-57*Street-lights use about 0.1 kWh per day per person...* 
-
-–*... and traffic lights only 0.005 kWh/d per person*. Britain has 420
-000 traffic and pedestrian signal light bulbs, consuming 100 million kWh
-of electricity per year. Shared between 60 million people, 100 million
-kWh per year is0.005 kWh/d per person.
-
-–*There are fewer signs and illuminated bollards than
-street-lights*.
-
-–*55%-efficient generator* – source:en.wikipedia.org/wiki/Alternator.
-Generators in power stations are much more efficient at converting
-mechanical work to electricity.
-
 ```{r lighting-efficiencies}
 bulb_types = c('incandescent', 'halogen', 'whte LED',
                'compact fluorescent', 'large fluorescent',
