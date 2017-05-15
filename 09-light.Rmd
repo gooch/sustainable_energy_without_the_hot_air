@@ -37,7 +37,7 @@ DUKES 2005, the total power for public lighting is 2095 GWh/y, which is 0.1
 kWh/d per person.]; and street-lights already came in well under our radar, so
 we don't need to modify our overall estimate of 4 kWh/d per person.
 
-Lights on the traffic
+### Lights on the traffic
 
 In some countries, drivers must switch their lights on whenever their car is
 moving. How does the extra power required by that policy compare with the power
