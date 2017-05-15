@@ -46,10 +46,16 @@ costs of manufacturing and maintaining the power facilities.
 Solar thermal
 -------------
 
-The simplest solar power technology is a panel making hot water.  Let's imagine
-we cover *all* south-facing roofs with solar thermal panels – that would be
-about $10\space m^2$ of panels per person – and let's assume these are 50%-efficient at
-turning the sunlight's $110\space W/m^2$ into hot water (figure \@ref(fig:solar-hot-water-generation)).
+The simplest solar power technology is a panel making hot water.  Let's imagine 
+we cover *all* south-facing roofs with solar thermal panels – that would be 
+about $10\space m^2$ of panels per person^[I estimated the area of south-facing
+roof per person by taking the area of land covered by buildings per person
+($48\space m^2$ in England – table I.6), multiplying by $\frac{1}{4}$ to get the
+south-facing fraction, and bumping the area up by 40% to allow for roof tilt.
+This gives $16\space m^2$ per person. Panels usually come in inconvenient 
+rectangles so some fraction of roof will be left showing; hence $10\space m^2$
+of panels.] – and let's assume these are 50%-efficient at turning the sunlight's
+$110\space W/m^2$ into hot water (figure \@ref(fig:solar-hot-water-generation)).
 
 ```{r sunlight-angle-cambridge, fig.cap='Sunlight hitting the earth at midday on a spring or autumn day. The density of sunlight per unit land area in Cambridge (latitude 52.) is about 60% of that at the equator.'}
 knitr::include_graphics('images/figure33.png')
@@ -371,13 +377,7 @@ Source:NASA "Surface meteorology and Solar Energy"  [5hrxls].  Surprised
 thatthere's so little difference between a tilted roof facing south and a
 horizontalroof? I was. The difference really is just 10% [6z9epq].
 
-39*... that would be about 10 m^2^ of panels per person.* I estimated the area
-ofsouth-facing roof per person by taking the area of land covered by
-buildingsper person (48 m^2^ in England – table I.6), multiplying by ¼ to get
-the south-facing fraction, and bumping the area up by 40% to allow for roof
-tilt. Thisgives 16 m^2^ per person. Panels usually come in inconvenient
-rectangles sosome fraction of roof will be left showing; hence 10 m^2^ of
-panels.
+39*... that would be about 10 m^2^ of panels per person.* 
 
 ```{r energy-inputs-to-biofuel, fig.cap='This figure illustrates the quantitative questions that must be asked of any proposed biofuel. What are the additional energy inputs required for farming and processing? What is the delivered energy? What is the *net* energy output? Often the additional inputs and losses wipe out most of the energy delivered by the plants.'}
 knitr::include_graphics('images/figure50.png')
