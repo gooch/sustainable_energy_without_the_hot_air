@@ -193,12 +193,11 @@ spot such as Australia. (An energy yield ratio bigger than one means that a
 system is A Good Thing, energy-wise.) Wind turbines with lifetime of 20 years
 have an energy yield ratio of 80.
 
+```{r solarpark-bavaria, fig.cap="A solar photo-voltaic farm: the 6.3 MW (peak) Solar park in Mühlhausen, Bavaria. Its average power per unit land area is expected to be about 5 W/m^2^. Photo by SunPower."}
+knitr::include_graphics('images/figure39.png')
+```
 
-![](images/figure39.png)
-
-Figure 6.7. A solar photo-voltaic farm: the 6.3 MW (peak) Solar park in
-Mühlhausen, Bavaria. Its average power per unit land area is expected to
-be about 5 W/m^2^. Photo by SunPower.
+Figure 6.7. 
 
 ![](images/figure40.png)
 
@@ -448,17 +447,17 @@ efficient, and that country-covering photovoltaics would be 10%
 efficient. In a location where the average power density of incoming
 sunlight is 100 W/m^2^, 20%-efficient panels deliver 20 W/m^2^.
 
-41*The Solarpark in Muhlhausen, Bavaria.* On average this 25-hectare
-farm isexpected to deliver 0.7 MW (17 000 kWh per day). New York's
-Stillwell Avenue subway station has integrated amorphous sili-con
-thin-film photovoltaics in its roof canopy, delivering 4 W/m^2^ (Fies et
-al.,2007). The Nellis solar power plant in Nevada was completed in
-December, 2007, on 140 acres, and is expected to generate 30 GWh per
-year. That's 6 W/m^2^[5hzs5y]. Serpa Solar Power Plant, Portugal (PV),
-"the world's most powerful so-lar power plant,"  [39z5m5] [2uk8q8] has
-sun-tracking panels occupying 60hectares, i.e., 600 000 m^2^ or 0.6
-km^2^, expected to generate 20 GWh per year, i.e., 2.3 MW on average.
-That's a power per unit area of 3.8 W/m^2^.
+Figure \@ref(fig:solarpark-bavaria) *The Solarpark in Muhlhausen, Bavaria.* On 
+average this 25-hectare farm is expected to deliver $0.7\space MW$
+($17,000\space kWh\space per\space day$). New York's Stillwell Avenue subway
+station has integrated amorphous silicon thin-film photovoltaics in its roof
+canopy, delivering $4\space W/m^2$ (Fies et al.,2007). The Nellis solar power plant in
+Nevada was completed in December, 2007, on 140 acres, and is expected to
+generate 30 GWh per year. That's $6\space W/m^2$ [5hzs5y]. Serpa Solar Power
+Plant, Portugal (PV), "the world's most powerful solar power plant,"  [39z5m5]
+[2uk8q8] has sun-tracking panels occupying 60 hectares, i.e.,
+$600,000\space m^2$ or $0.6\space km^2$, expected to generate 20 GWh per year,
+i.e., $2.3\space MW$ on average. That's a power per unit area of $3.8\space W/m^2$.
 
 –*Figure \@ref(fig:miscanthus)*. In the USA, *Miscanthus* grown without nitrogen fertilizer
 yieldsabout 24 t/ha/y of dry matter. In Britain, yields of 12–16 t/ha/y are
