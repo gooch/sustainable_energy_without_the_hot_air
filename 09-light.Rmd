@@ -26,9 +26,13 @@ each light has a power of 100 W, switched on for 10 hours per day. That's 0.1
 kWh per day per person.], and traffic lights only $0.005\space kWh/d$ per person
 – both negligible, compared with our home and workplace lighting. What about 
 other forms of public lighting – illuminated signs and bollards, for example? 
-There are fewer of them than street-lights; and street-lights already came in 
-well under our radar, so we don't need to modify our overall estimate of 4 kWh/d
-per person.
+There are fewer of them than street-lights^[[www.highwayelectrical.org.uk]. 
+There are 7.7 million lighting units (street lighting, illuminated signs and 
+bollards) in the UK. Of these, roughly 7 millionare street-lights and 1 million 
+are illuminated road signs. There are 210 000 traffic signals. According to
+DUKES 2005, the total power for public lighting is 2095 GWh/y, which is 0.1
+kWh/d per person.]; and street-lights already came in well under our radar, so
+we don't need to modify our overall estimate of 4 kWh/d per person.
 
 Lights on the traffic
 
@@ -152,12 +156,7 @@ of electricity per year. Shared between 60 million people, 100 million
 kWh per year is0.005 kWh/d per person.
 
 –*There are fewer signs and illuminated bollards than
-street-lights*.[www.highwayelectrical.org.uk]. There are 7.7 million
-lighting units (street lighting, illuminated signs and bollards) in the
-UK. Of these, roughly 7 millionare street-lights and 1 million are
-illuminated road signs. There are210 000 traffic signals.According to
-DUKES 2005, the total power for public lighting is 2095 GWh/y,which is
-0.1 kWh/d per person.
+street-lights*.
 
 –*55%-efficient generator* – source:en.wikipedia.org/wiki/Alternator.
 Generators in power stations are much more efficient at converting
