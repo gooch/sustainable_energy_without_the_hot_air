@@ -1,45 +1,45 @@
 #Stuff
 
-One of the main sinks of energy in the “developed” world is the creation
+One of the main sinks of energy in the "developed" world is the creation
 of stuff. In its natural life cycle, stuff passes through three stages.
 First, a new-born stuff is displayed in shiny packaging on a shelf in a
-shop. At this stage, stuff is called “goods.” As soon as the stuff is
+shop. At this stage, stuff is called "goods." As soon as the stuff is
 taken home and sheds its packaging, it undergoes a transformation from
-“goods” to its second form, “clutter.” The clutter lives with its owner
+"goods" to its second form, "clutter." The clutter lives with its owner
 for a period of months or years. During this period, the clutter is
 largely ignored by its owner, who is off at the shops buying more goods.
 Eventually, by a miracle of modern alchemy, the clutter is transformed
 into its final form, rubbish. To the untrained eye, it can be difficult
-to distinguish this “rubbish” from the highly desirable “good” that it
+to distinguish this "rubbish" from the highly desirable "good" that it
 used to be. Nonetheless, at this stage the discerning owner pays the
 dustman to transport the stuff away.
 
-Let’s say we want to understand the full energy-cost of a stuff, perhaps
+Let's say we want to understand the full energy-cost of a stuff, perhaps
 with a view to designing better stuff. This is called life-cycle
-analysis. It’s conventional to chop the energy-cost of anything from a
+analysis. It's conventional to chop the energy-cost of anything from a
 hair-dryer to a cruise-ship into four chunks:
 
 **Phase R:** Making **raw materials**. This phase involves digging
 minerals out of the ground, melting them, purifying them, and modifying
-them into manufacturers’ lego: plastics, glasses, metals, and ceramics,
+them into manufacturers' lego: plastics, glasses, metals, and ceramics,
 for example. The energy costs of this phase include the transportation
 costs of trundling the raw materials to their next destination.
 
 **Phase P: Production**. In this phase, the raw materials are processed
-into a manufactured product. The factory where the hair-dryer’s coils
+into a manufactured product. The factory where the hair-dryer's coils
 are wound, its graceful lines moulded, and its components carefully
 snapped together, uses heat and light. The energy costs of this phase
 include packaging and more transportation.
 
 **Phase U: Use**. Hair-dryers and cruise-ships both guzzle energy when
-they’re used as intended.
+they're used as intended.
 
 **Phase D: Disposal**. This phase includes the energy cost of putting
 the stuff back in a hole in the ground (landfill), or of turning the
 stuff back into raw materials (recycling); and of cleaning up all the
 pollution associated with the stuff.
 
-To understand how much energy a stuff’s life requires, we should
+To understand how much energy a stuff's life requires, we should
 estimate the energy costs of all four phases and add them up. Usually
 one of these four phases dominates the total energy cost, so to get a
 reasonable estimate of the total energy cost we need accurate estimates
@@ -50,7 +50,7 @@ energy-savings in that phase
 
 ![](images/figure105.png)
 
-Figure 15.1. Selfridges’ rubbish advertisement.
+Figure 15.1. Selfridges' rubbish advertisement.
 
 embodied energy (kWh per kg)
 
@@ -84,22 +84,22 @@ steel
 
 Table 15.2. Embodied energy of materials.
 
-aren’t being undone by accompanying increases in the energy costs of the
+aren't being undone by accompanying increases in the energy costs of the
 other three phases.
 
 Rather than estimating in detail how much power the perpetual produc-
-tion and transport of all stuff requires, let’s first cover just a few
+tion and transport of all stuff requires, let's first cover just a few
 common examples: drink containers, computers, batteries, junk mail,
 cars, and houses. This chapter focuses on the energy costs of phases R
-and P. These energy costs are sometimes called the “embodied” or
-“embedded” energy of the stuff – slightly confusing names, since usually
+and P. These energy costs are sometimes called the "embodied" or
+"embedded" energy of the stuff – slightly confusing names, since usually
 that energy is neither literally embodied nor embedded in the stuff.
 
 ### Drink containers
 
-Let’s assume you have a coke habit: you drink five cans of multinational
+Let's assume you have a coke habit: you drink five cans of multinational
 chemicals per day, and throw the aluminium cans away. For this stuff,
-it’s the raw material phase that dominates. The production of metals is
+it's the raw material phase that dominates. The production of metals is
 energy intensive, especially for aluminium. Making one aluminium
 drinks-can needs 0.6 kWh. So a five-a-day habit wastes energy at a rate
 of 3 kWh/d.
@@ -115,7 +115,7 @@ kWh per kg as we run through the spectrum from glass and paper to
 plastics and steel cans. Taking the typical embodied energy content to
 be 10 kWh/kg, we deduce that the energy footprint of packaging is 4
 kWh/d. A little of this embodied energy is recoverable by waste
-incineration, as we’ll discuss in Chapter 27.
+incineration, as we'll discuss in Chapter 27.
 
 ### Computers
 
@@ -141,7 +141,7 @@ in other packaging chucked away by the average Brit is 4 kWh/d.
 
 ![](images/figure107.png)
 
-Figure 15.4. She’s making chips. Photo: ABB. Making one personal
+Figure 15.4. She's making chips. Photo: ABB. Making one personal
 computer every two years costs 2.5 kWh per day.
 
 ![](images/figure104.png)
@@ -169,12 +169,12 @@ transport, by the way, was of food, drink, and tobacco.
 ### Transport by water
 
 In 2002, 560 million tons of freight passed through British ports. The
-Tyn- dall Centre calculated that Britain’s share of the energy cost of
+Tyn- dall Centre calculated that Britain's share of the energy cost of
 international shipping is 4 kWh/d per person.
 
 ### Transport of water; taking the pee
 
-Water’s not a very glamorous stuff, but we use a lot of it – about 160
+Water's not a very glamorous stuff, but we use a lot of it – about 160
 litres
 
 Figure 15.5. Food-miles – Pasties, hand-made in Helston, Cornwall,
@@ -201,8 +201,8 @@ person.
 
 ### Desalination
 
-At the moment the UK doesn’t spend energy on water desalination. But
-there’s talk of creating desalination plants in London. What’s the
+At the moment the UK doesn't spend energy on water desalination. But
+there's talk of creating desalination plants in London. What's the
 energy cost of turning salt water into drinking water? The least
 energy-intensive method is reverse osmosis. Take a membrane that lets
 through only water, put salt water on one side of it, and pressurize the
@@ -214,7 +214,7 @@ mixed up. We must pay high-grade energy to achieve unmixing.
 The Island of Jersey has a desalination plant that can produce 6000 m^3^
 of pure water per day (images/figure 15.10). Including the pumps for bringing
 the water up from the sea and through a series of filters, the whole
-plant uses a power of 2 MW. That’s an energy cost of 8 kWh per m^3^ of
+plant uses a power of 2 MW. That's an energy cost of 8 kWh per m^3^ of
 water produced. At a cost of 8 kWh per m^3^, a daily water consumption
 of 160 litres would require 1.3 kWh per day.
 
@@ -239,31 +239,31 @@ Stuff retail
 ------------
 
 Supermarkets in the UK consume about 11 TWh of energy per year. Shared
-out equally between 60 million happy shoppers, that’s a power of 0.5 kWh
+out equally between 60 million happy shoppers, that's a power of 0.5 kWh
 per day per person.
 
 The significance of imported stuff
 ----------------------------------
 
-In standard accounts of “Britain’s energy consumption” or “Britain’s
-carbon footprint,” imported goods are *not* counted. Britain used to
+In standard accounts of "Britain's energy consumption" or "Britain's
+carbon footprint," imported goods are *not* counted. Britain used to
 make its own gizmos, and our per-capita footprint in 1910 was as big as
-America’s is today. Now Britain doesn’t manufacture so much (so our
+America's is today. Now Britain doesn't manufacture so much (so our
 energy consumption and carbon emissions have dropped a bit), but we
 still love gizmos, and we get them made for us by other countries.
-Should we ignore the energy cost of making the gizmo, because it’s
-imported? I don’t think so. Dieter Helm and his colleagues in Oxford
+Should we ignore the energy cost of making the gizmo, because it's
+imported? I don't think so. Dieter Helm and his colleagues in Oxford
 estimate that under a correct account, allowing for imports and exports,
-Britain’s carbon foot- print is nearly *doubled* from the official “11
-tons CO~2~e per person” to about 21 tons. This implies that the biggest
-item in the average British person’s energy footprint is the energy cost
+Britain's carbon foot- print is nearly *doubled* from the official "11
+tons CO~2~e per person" to about 21 tons. This implies that the biggest
+item in the average British person's energy footprint is the energy cost
 of making imported stuff.
 
 In Chapter H, I explore this idea further, by looking at the weight of
-Britain’s imports. Leaving aside our imports of fuels, we import a
+Britain's imports. Leaving aside our imports of fuels, we import a
 little
 
-Figure 15.10. Part of the reverse-osmosis facility at Jersey Water’s
+Figure 15.10. Part of the reverse-osmosis facility at Jersey Water's
 desalination plant. The pump in the foreground, right, has a power of
 355 kW and shoves seawater at a pressure of 65 bar into 39 spiral-wound
 membranes in the banks of blue horizontal tubes, left, delivering 1500
@@ -274,7 +274,7 @@ total energy cost of 8 kWh per m^3^.
 
 over 2 tons per person of stuff every year, of which about 1.3 tons per
 per- son are processed and manufactured stuff like vehicles, machinery,
-white goods, and electrical and electronic equipment. That’s about 4 kg
+white goods, and electrical and electronic equipment. That's about 4 kg
 per day per person of processed stuff. Such goods are mainly made of
 materials whose production required at least 10 kWh of energy per kg of
 stuff. I thus estimate that this pile of cars, fridges, microwaves,
@@ -304,7 +304,7 @@ from The Alu- minum Association [y5as53]: 150 MJ per kg of aluminium (40
 kWh/kg).
 
 –*The embodied energy of a water bottle made of PET*. Source: Hammond
-and Jones (2006) – PET’s embodied energy is 30 kWh per kg.
+and Jones (2006) – PET's embodied energy is 30 kWh per kg.
 
 –*The average Brit throws away 400 g of packaging per day*. In 1995,
 Britain used 137 kg of packaging per person (Hird et al., 1999).
@@ -317,14 +317,14 @@ Cars require 1–2 times their weight. Williams (2004); Kuehr (2003).
 –*...a rechargeable nickel-cadmium battery*. Source: Rydh and
 Karlström(2002).
 
-–*...steel...* From Swedish Steel, “The consumption of coal and coke is
+–*...steel...* From Swedish Steel, "The consumption of coal and coke is
 700 kg per ton of finished steel, equal to approximately 5320 kWh per
 ton of finished steel. The consumption of oil, LPG and electrical power
 is 710 kWh per ton finished product. Total [primary] energy consumption
-is thus approx. 6000 kWh per ton finished steel.” (6 kWh per kg.)
+is thus approx. 6000 kWh per ton finished steel." (6 kWh per kg.)
 [y2ktgg]
 
-90*A new car’s embodied energy is 76 000 kWh*. Source: Treloar et al.
+90*A new car's embodied energy is 76 000 kWh*. Source: Treloar et al.
 (2004). Burnham et al. (2007) give a lower figure: 30 500 kWh for the
 net life-cycle energy cost of a car. One reason for the difference may
 be that the latter life- cycle analysis assumes the vehicle is recycled,
@@ -355,15 +355,15 @@ datatablespublications/energyenvironment.
 –*The energy intensity of freight transport by this container ship is
 0.015 kWh per ton-km*. The *Ever Uberty* – length 285 m, breadth 40 m –
 has a capacity of 4948 TEUs, deadweight 63 000 t, and a service speed of
-25 knots; its engine’s normal delivered power is 44 MW. One TEU is the
+25 knots; its engine's normal delivered power is 44 MW. One TEU is the
 size of a small 20-foot container – about 40 m^3^. Most containers you
 see today are 40-foot containers with a size of 2 TEU. A 40-foot
 container weighs 4 tons and can carry 26 tons of stuff. Assuming its
-engine is 50%-efficient, this ship’s energy consumption works out to
+engine is 50%-efficient, this ship's energy consumption works out to
 0.015 kWh of chemical energy per ton-km.
 www.mhi.co.jp/en/products/detail/container\_ship\_ever\_uberty.html
 
-–*Britain’s share of international shipping...* Source: Anderson et al.
+–*Britain's share of international shipping...* Source: Anderson et al.
 (2006).
 
 92*Figure 15.8*. **Energy consumptions of ships**. The five points in
@@ -403,7 +403,7 @@ uk/documents/upload/postpn282.pdf], Water UK (2006).
 
 93*Supermarkets in the UK consume 11 TWh/y*. [yqbzl3]
 
-–*Helm et al. suggest that, allowing for imports and exports, Britain’s
+–*Helm et al. suggest that, allowing for imports and exports, Britain's
 carbon footprint is nearly **doubled** to about 21 tons*. Helm et al.
 (2007).
 

@@ -25,7 +25,7 @@ useabout 0.1 kWh per day per person, and traffic lights only 0.005 kWh/d
 perperson – both negligible, compared with our home and workplace
 lighting.What about other forms of public lighting – illuminated signs
 and bollards,for example? There are fewer of them than street-lights;
-and street-lightsalready came in well under our radar, so we don’t need
+and street-lightsalready came in well under our radar, so we don't need
 to modify ouroverall estimate of 4 kWh/d per person.
 
 Lights on the traffic
@@ -33,7 +33,7 @@ Lights on the traffic
 In some countries, drivers must switch their lights on whenever their
 caris moving. How does the extra power required by that policy
 comparewith the power already being used to trundle the car around?
-Let’s saythe car has four incandescent lights totalling 100 W. The
+Let's saythe car has four incandescent lights totalling 100 W. The
 electricity forthose bulbs is supplied by a 25%-efficient engine
 powering a 55%-efficientgenerator, so the power required is 730 W. For
 comparison, a typical cargoing at an average speed of 50 km/h and
@@ -55,7 +55,7 @@ per day per person.
 has an average power consumption of 42 000W. So having the lights
 onwhile driving requires 2% extra power.
 
-What about the future’s electric cars? The power consumption of atypical
+What about the future's electric cars? The power consumption of atypical
 electric car is about 5000 W. So popping on an extra 100 W wouldincrease
 its consumption by 2%. Power consumption would be smallerif we switched
 all car lights to light-emitting diodes, but if we pay anymore attention
@@ -65,10 +65,10 @@ ofevery-little-helps-ism.
 The economics of low-energy bulbs
 ---------------------------------
 
-Generally I avoid discussing economics, but I’d like to make an
-exceptionfor lightbulbs. Osram’s 20 W low-energy bulb claims the same
+Generally I avoid discussing economics, but I'd like to make an
+exceptionfor lightbulbs. Osram's 20 W low-energy bulb claims the same
 lightoutput as a 100 W incandescent bulb. Moreover, its lifetime is said
-to be15 000 hours (or “12 years,” at 3 hours per day). In contrast a
+to be15 000 hours (or "12 years," at 3 hours per day). In contrast a
 typical in-candescent bulb might last 1000 hours. So during a 12-year
 period, youhave this choice (images/figure 9.3): buy 15 incandescent bulbs and
 1500 kWh ofelectricity (which costs roughly £150); or buy one low-energy
@@ -76,9 +76,9 @@ bulb and300 kWh of electricity (which costs roughly £30).
 
 #### Should I wait until the old bulb dies before replacing it?
 
-It feels like a waste, doesn’t it? Someone put resources into making
-theold incandescent lightbulb; shouldn’t we cash in that original
-investmentby using the bulb until it’s worn out? But the economic answer
+It feels like a waste, doesn't it? Someone put resources into making
+theold incandescent lightbulb; shouldn't we cash in that original
+investmentby using the bulb until it's worn out? But the economic answer
 is clear:*continuing to use an old lightbulb is throwing good money
 after bad*. If youcan find a satisfactory low-energy replacement,
 replace the old bulb now.
@@ -97,7 +97,7 @@ of **35 lumens per watt**. So this LEDbulb is almost as efficient as the
 fluorescent bulb. The LED industry stillhas a little catching up to do.
 In its favour, the LED bulb has a life of50 000 hours, eight times the
 life of the fluorescent bulb. As I write, Isee that www.cree.com is
-selling LEDs with a power of **100 lumens perwatt**. It’s projected that
+selling LEDs with a power of **100 lumens perwatt**. It's projected that
 in the future, white LEDs will have an efficiencyof over 150 lumens per
 watt [ynjzej]. I expect that within another coupleof years, the best
 advice, from the point of view of both energy efficiencyand avoiding
@@ -110,7 +110,7 @@ Figure 9.3. Total cumulative cost of using a traditional incandescent
 Osram Dulux Longlife Energy Saver (pictured). Assumptions: electricity
 costs 10p per kWh; replacement traditional bulbs cost 45p each;
 energy-saving bulbs cost £9. (I know you can find them cheaper than
-this, but this graph shows that even at £9, they’re much more
+this, but this graph shows that even at £9, they're much more
 economical.)
 
 ![](images/figure69.png)
@@ -119,7 +119,7 @@ Figure 9.4. Philips 11 W alongside Omicron 1.3 W LED bulb.
 
 ### Mythconceptions
 
-#### “There is no point in my switching to energy-saving lights. The“wasted” energy they put out heats my home, so it’s not wasted.”
+#### "There is no point in my switching to energy-saving lights. The"wasted" energy they put out heats my home, so it's not wasted."
 
 This myth is addressed in Chapter 11, p71.
 
@@ -128,9 +128,9 @@ Notes and further reading
 
 page no.
 
-57*Street-lights use about 0.1 kWh per day per person...* There’s
+57*Street-lights use about 0.1 kWh per day per person...* There's
 roughly onesodium street-light per 10 people; each light has a power of
-100 W, switchedon for 10 hours per day. That’s 0.1 kWh per day per
+100 W, switchedon for 10 hours per day. That's 0.1 kWh per day per
 person.
 
 –*... and traffic lights only 0.005 kWh/d per person*. Britain has 420
