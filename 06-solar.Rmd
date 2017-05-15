@@ -400,37 +400,33 @@ per-form at 20%*. See figure 6.18. Sources: Turkenburg (2000), Sunpower
 www.sunpowercorp.com, Sanyo www.sanyo-solar.eu, Suntech.
 
 –*A device with efficiency greater than 30% would be quite remarkable*.
-Thisis a quote from Hopfield and Gollub (1978), who were writing about
-panelswithout concentrating mirrors or lenses. The theoretical limit for
-a standard"single-junction"  solar panel without concentrators, the
-Shockley–Queisserlimit, says that at most 31% of the energy in sunlight
-can be converted toelectricity (Shockley and Queisser, 1961). (The main
-reason for this limitis that a standard solar material has a property
-called its band-gap, whichdefines a particular energy of photon that
-that material converts most ef-ficiently. Sunlight contains photons with
-many energies; photons with en-ergy *below* the band-gap are not used at
+This is a quote from Hopfield and Gollub (1978), who were writing about
+panels without concentrating mirrors or lenses. The theoretical limit for
+a standard "single-junction"  solar panel without concentrators, the
+Shockley–Queisser limit, says that at most 31% of the energy in sunlight
+can be converted to electricity (Shockley and Queisser, 1961). (The main
+reason for this limit is that a standard solar material has a property
+called its band-gap, which defines a particular energy of photon that
+that material converts most efficiently. Sunlight contains photons with
+many energies; photons with energy *below* the band-gap are not used at
 all; photons with energy *greater* than the band-gap may be captured, but
-all their energy in excess of theband-gap is lost.) Concentrators
-(lenses or mirrors) can both reduce thecost (per watt) of photovoltaic
-systems, and increase their efficiency. TheShockley–Queisser limit for
+all their energy in excess of the band-gap is lost.) Concentrators
+(lenses or mirrors) can both reduce the cost (per watt) of photovoltaic
+systems, and increase their efficiency. The Shockley–Queisser limit for
 solar panels with concentrators is 41% efficiency. The only way to beat
 the Shockley–Queisser limit is to make fancy photo-voltaic devices that
 split the light into different wavelengths, processing
-eachwavelength-range with its own personalized band-gap. These are
-calledmultiple-junction photovoltaics. Recently multiple-junction
-photovoltaicswith optical concentrators have been reported to be about
+each wavelength-range with its own personalized band-gap. These are
+called multiple-junction photovoltaics. Recently multiple-junction
+photovoltaics with optical concentrators have been reported to be about
 40% efficient.[2tl7t6], www.spectrolab.com. In July 2007, the University
-of Delawarereported 42.8% efficiency with 20-times concentration
-[6hobq2], [2lsx6t]. InAugust 2008, NREL reported 40.8% efficiency with
+of Delaware reported 42.8% efficiency with 20-times concentration
+[6hobq2], [2lsx6t]. In August 2008, NREL reported 40.8% efficiency with
 326-times concentration[62ccou]. Strangely, both these results were
 called world efficiency records. What multiple-junction devices are
-available on the market? Uni-solar sell athin-film triple-junction 58
-W(peak) panel with an area of 1 m^2^. That impliesan efficiency, in full
+available on the market? Uni-solar sell a thin-film triple-junction 58
+W(peak) panel with an area of 1 m^2^. That implies an efficiency, in full
 sunlight, of only 5.8%.
-
-40*Figure 6.5: Solar PV data*. Data and photograph kindly provided by
-Jonathan Kimmitt.
-
 
 ```{r efficiences-of-panels, fig.cap="Efficiencies of solar photovoltaic modules available for sale today. In the text I assume that roof-top photovoltaics are 20% efficient, and that country-covering photovoltaics would be 10% efficient. In a location where the average power density of incoming sunlight is 100 W/m^2^, 20%-efficient panels deliver 20 W/m^2^."}
 knitr::include_graphics('images/figure51.png')
