@@ -43,7 +43,7 @@ A microwave oven usually has its cooking power marked on the front: mine says
 900 W, but it actually *consumes* about 1.4 kW. If you use the microwave for 20
 minutes per day, that's 0.5 kWh per day.
 
-A regular oven guzzles more: about 3 kW^[Obviously there’s a range of powers.
+A regular oven guzzles more: about 3 kW^[Obviously there's a range of powers.
 Many ovens have a maximum power of 1.8 kW or 2.2 kW. Top-of-the-line ovens use
 as much as 6 kW. For example, the Whirlpool AGB 487/WP 4 Hotplate Electric Oven
 Range has a 5.9 kW oven, and four 2.3 kW hotplates.] when on full. If you use
@@ -165,10 +165,10 @@ uses 7.2 kWh. The average consumption over the whole year is 0.6 kWh/d.
 
 This chapter's estimate of the energy cost of cooling – 1 kWh/d per person –
 includes this air-conditioning and a domestic refrigerator. Society also
-refrigerates food on its way from field to shopping basket. I’ll estimate the
+refrigerates food on its way from field to shopping basket. I'll estimate the
 power cost of the food-chain later, in Chapter 15.
 
-```{r authors-gas-use, fig.cap='My domestic cumulative gas consumption, in kWh, each year from 1993 to 2005. The number at the top of each year’s line is the average rate of energy consumption, in kWh per day. To find out what happened in 2007, keep reading!'}
+```{r authors-gas-use, fig.cap='My domestic cumulative gas consumption, in kWh, each year from 1993 to 2005. The number at the top of each year's line is the average rate of energy consumption, in kWh per day. To find out what happened in 2007, keep reading!'}
 knitr::include_graphics('images/figure61.png')
 ```
 
@@ -178,21 +178,21 @@ for hot water, 24 for hot air, and 1 for cooling).  Evidence that this estimate
 is in the right ballpark, or perhaps a little on the low side, comes from my
 own domestic gas consumption, which for 12 years averaged 40 kWh per day
 (figure \@ref(fig:authors-gas-use)). At the time I thought I was a fairly
-frugal user of heating, but I wasn’t being attentive to my actual power
+frugal user of heating, but I wasn't being attentive to my actual power
 consumption. Chapter 21 will reveal how much power I saved once I started
 paying attention.
 
-Since heating is a big item in our consumption stack, let’s check my estimates
+Since heating is a big item in our consumption stack, let's check my estimates
 against some national statistics. Nationally, the average domestic consumption
 for space heating, water, and cooking in the year 2000 was 21 kWh per day per
 person, and consumption in the service sector for heat- ing, cooling, catering,
-and hot water was 8.5 kWh/d/p. For an estimate of workplace heating, let’s take
+and hot water was 8.5 kWh/d/p. For an estimate of workplace heating, let's take
 the gas consumption of the University of Cambridge in 2006–7: 16 kWh/d per
 employee.
 
 Totting up these three numbers, a second guess for the national spend on
 heating is $21 + 8.5 + 16 \approx 45\space kWh/d$ per person, if Cambridge
-University is a normal workplace. Good, that’s reassuringly close to our first
+University is a normal workplace. Good, that's reassuringly close to our first
 guess of 37 kWh/d.
 
 
@@ -205,7 +205,7 @@ knitr::include_graphics('images/figure58.png')
 knitr::include_graphics('images/figure60.png')
 ```
 
-```{r heating-cooling-stack, fig.cap='Heating and cooling – about 37 units per day per person. I’ve removed the shading from this box to indicate that it represents power that could be delivered by low-grade thermal energy.'}
+```{r heating-cooling-stack, fig.cap='Heating and cooling – about 37 units per day per person. I've removed the shading from this box to indicate that it represents power that could be delivered by low-grade thermal energy.'}
 knitr::include_graphics('images/figure62.png')
 ```
 

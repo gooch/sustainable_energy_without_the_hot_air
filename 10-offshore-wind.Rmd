@@ -1,7 +1,7 @@
 #Offshore wind
 
 > The London Array offshore wind farm will make a crucial contribution
-> to the UK’s renewable energy targets.
+> to the UK's renewable energy targets.
 >
 > James Smith, chairman of Shell UK
 
@@ -17,7 +17,7 @@ from Whitstable and Herne Bay, which started operation at the end of
 2005, was predicted to have an average power per unit area of 3.2
 W/m^2^. In 2006, its average power per unit area was 2.6 W/m^2^.
 
-I’ll assume that a power per unit area of 3 W/m^2^ (50% larger than our
+I'll assume that a power per unit area of 3 W/m^2^ (50% larger than our
 onshore estimate of 2 W/m^2^) is an appropriate figure for offshore wind
 farms around the UK.
 
@@ -28,7 +28,7 @@ figure 10.2. Conven- tional wisdom seems to be that *shallow* offshore
 wind (depth less than 25– 30 m), while roughly twice as costly as
 land-based wind, is economically feasible, given modest subsidy; and
 *deep* offshore wind is at present not economically feasible. As of
-2008, there’s just one deep offshore windfarm in UK waters, an
+2008, there's just one deep offshore windfarm in UK waters, an
 experimental prototype sending all its electricity to a nearby oilrig
 called Beatrice.
 
@@ -40,13 +40,13 @@ km^2^, most of it off the coast of England and Wales. This area is about
 two Waleses.
 
 The average power available from shallow offshore wind farms occu- pying
-the whole of this area would be 120 GW, or 48 kWh/d per person. But it’s
+the whole of this area would be 120 GW, or 48 kWh/d per person. But it's
 hard to imagine this arrangement being satisfactory for shipping.
-Substantial chunks of this shallow water would, I’m sure, remain
+Substantial chunks of this shallow water would, I'm sure, remain
 off-limits for wind farms. The requirement for shipping corridors and
 fishing areas must reduce the plausibly-available area; I propose that
 we assume the available fraction is one third (but please see this
-chapter’s end-notes for a more pessimistic view!). So we estimate the
+chapter's end-notes for a more pessimistic view!). So we estimate the
 maximum plausible power from shallow offshore wind to be 16 kWh/d per
 person.
 
@@ -56,7 +56,7 @@ Wales – that would be required to deliver this 16 kWh/d per person. If
 ![](images/figure71.png)
 
 Figure 10.1. Kentish Flats – a shallow offshore wind farm. Each rotor
-has a diameter of 90 m centred on a hub height of 70 m. Each “3 MW”
+has a diameter of 90 m centred on a hub height of 70 m. Each "3 MW"
 turbine weighs 500 tons, half of which is its foundation. Photos © Elsam
 (elsam.com). Used with permission.
 
@@ -67,12 +67,12 @@ strip of turbines 4 km wide all the way round, that strip would have an
 area of 13 000 km^2^. That is the area we must fill with turbines to
 deliver 16 kWh/d per person. To put it another way, consider the number
 of turbines re- quired. 16 kWh/d per person would be delivered by 44 000
-“3 MW” tur- bines, which works out to 15 per kilometre of coastline, if
+"3 MW" tur- bines, which works out to 15 per kilometre of coastline, if
 they were evenly spaced around 3000 km of coast.
 
 Offshore wind is tough to pull off because of the corrosive effects of
 sea water. At the big Danish wind farm, Horns Reef, all 80 turbines had
-to be dismantled and repaired after only 18 months’ exposure to the sea
+to be dismantled and repaired after only 18 months' exposure to the sea
 air. The Kentish Flats turbines seem to be having similar problems with
 their gearboxes, one third needing replacement during the first 18
 months.
@@ -82,7 +82,7 @@ Deep offshore
 
 The area with depths between 25 m and 50 m is about 80 000 km^2^ – the
 size of Scotland. Assuming again a power per unit area of 3 W/m^2^,
-“deep” off- shore wind farms could deliver another 240 GW, or 96 kWh/d
+"deep" off- shore wind farms could deliver another 240 GW, or 96 kWh/d
 per person, if turbines completely filled this area. Again, we must make
 corridors for shipping. I suggest as before that we assume we can use
 one third of the area for wind farms; this area would then be about 30%
@@ -98,23 +98,23 @@ and much of it would be further than 50 km offshore. The outcome: if an
 area equal to a 9 km-wide strip all round the coast were filled with
 tur- bines, deep offshore wind could deliver a power of 32 kWh/d per
 person. A huge amount of power, yes; but still no match for our huge
-consumption. And we haven’t spoken about the issue of wind’s
-intermittency. We’ll come back to that in Chapter 26.
+consumption. And we haven't spoken about the issue of wind's
+intermittency. We'll come back to that in Chapter 26.
 
-I’ll include this potential deep offshore contribution in the production
+I'll include this potential deep offshore contribution in the production
 stack, with the proviso, as I said before, that wind experts reckon deep
 offshore wind is prohibitively expensive.
 
 Some comparisons and costs
 --------------------------
 
-So, how’s our race between consumption and production coming along?
+So, how's our race between consumption and production coming along?
 Adding both shallow and deep offshore wind to the production stack, the
-green stack has a lead. Something I’d like you to notice about this
+green stack has a lead. Something I'd like you to notice about this
 race, though, is this contrast: how *easy* it is to toss a bigger log on
 the consumption fire, and how *difficult* it is to grow the production
-stack. As I write this paragraph, I’m feeling a little cold, so I step
-over to my thermostat and turn it up. It’s so simple for me to consume
+stack. As I write this paragraph, I'm feeling a little cold, so I step
+over to my thermostat and turn it up. It's so simple for me to consume
 an extra 30 kWh per day. But squeezing an extra 30 kWh per day per
 person from renewables requires an industrialization of the environment
 so large it is hard to imagine.
@@ -124,9 +124,9 @@ require 60 million tons of concrete and steel – one ton per person.
 Annual world steel production is about 1200 million tons, which is 0.2
 tons per person in the world. During the second world war, American
 shipyards built 2751 Liberty ships, each containing 7000 tons of steel –
-that’s a total of 19 million tons of steel, or 0.1 tons per American. So
+that's a total of 19 million tons of steel, or 0.1 tons per American. So
 the building of 60 million tons of wind turbines is not off the scale of
-achievability; but don’t kid yourself into thinking that it’s easy.
+achievability; but don't kid yourself into thinking that it's easy.
 Making this many windmills is as big a feat as building the Liberty
 ships.
 
@@ -134,7 +134,7 @@ For comparison, to make 48 kWh per day of nuclear power per person in
 the UK would require 8 million tons of steel and 0.14 million
 tons[^**E**^](http://www.withouthotair.com/Errata.html#62) of concrete.
 We can also compare the 60 million tons of offshore wind hardware that
-we’re trying to imagine with the existing fossil-fuel hardware already
+we're trying to imagine with the existing fossil-fuel hardware already
 sitting in and around the North Sea (images/figure 10.4). In 1997, 200
 installations and 7000 km of pipelines in the UK waters of the North Sea
 contained 8 million tons of steel and concrete. The newly built Langeled
@@ -145,7 +145,7 @@ million tons of concrete (images/figure 10.5).
 The UK government announced on 10th December 2007 that it would permit
 the creation of 33 GW of offshore wind capacity (which would deliver on
 average 10 GW to the UK, or 4.4 kWh per day per person), a plan branded
-“pie in the sky” by some in the wind industry. Let’s run with a round
+"pie in the sky" by some in the wind industry. Let's run with a round
 figure of 4 kWh per day per person. This is one quarter of my
 
 ![](images/figure72.png)
@@ -153,12 +153,12 @@ figure of 4 kWh per day per person. This is one quarter of my
 Figure 10.3. Offshore wind.
 
 shallow 16 kWh per day per person. To obtain this average power requires
-roughly 10 000 “3 MW” wind turbines like those in figure 10.1. (They
-have a capacity of “3 MW” but on average they deliver 1 MW. I pop quotes
-round “3 MW” to indicate that this is a capacity, a peak power.)
+roughly 10 000 "3 MW" wind turbines like those in figure 10.1. (They
+have a capacity of "3 MW" but on average they deliver 1 MW. I pop quotes
+round "3 MW" to indicate that this is a capacity, a peak power.)
 
-What would this “33 GW”’ of power cost to erect? Well, the “90 MW”
-Kentish Flats farm cost £105 million, so “33 GW” would cost about £33
+What would this "33 GW"' of power cost to erect? Well, the "90 MW"
+Kentish Flats farm cost £105 million, so "33 GW" would cost about £33
 billion. One way to clarify this £33 billion cost of offshore wind
 delivering 4 kWh/d per person is to share it among the UK population;
 that comes out to £550 per person. This is a much better deal,
@@ -168,7 +168,7 @@ currently costs about £1500 and, even at a very optimistic windspeed of
 in England, such microturbines deliver 0.2 kWh per day.
 
 Another bottleneck constraining the planting of wind turbines is the
-special ships required. To erect 10 000 wind turbines (“33 GW”) over a
+special ships required. To erect 10 000 wind turbines ("33 GW") over a
 period of 10 years would require roughly 50 jack-up barges. These cost
 £60 million each, so an extra capital investment of £3 billion would be
 required. Not a show-stopper compared with the £33bn price tag already
@@ -177,12 +177,12 @@ requires some forward planning.
 
 ### Costs to birds
 
-Do windmills kill “huge numbers” of birds? Wind farms recently got ad-
+Do windmills kill "huge numbers" of birds? Wind farms recently got ad-
 verse publicity from Norway, where the wind turbines on Smola, a set of
 islands off the north-west coast, killed 9 white-tailed eagles in 10
 months. I share the concern of BirdLife International for the welfare of
-rare birds. But I think, as always, it’s important to do the numbers.
-It’s been esti- mated that 30 000 birds per year are killed by wind
+rare birds. But I think, as always, it's important to do the numbers.
+It's been esti- mated that 30 000 birds per year are killed by wind
 turbines in Denmark, where windmills generate
 9%[^**E**^](http://www.withouthotair.com/Errata.html#63) of the
 electricity. Horror! Ban windmills! We also learn, moreover, that
@@ -237,10 +237,10 @@ wind associa- tion windpower.org.
 Source: BritishWind Energy Association briefing document, September
 2005, www.bwea.com. Nevertheless, a deep offshore demonstration project
 in 2007 put two turbines adjacent to the Beatrice oil field, 22 km off
-the east coast of Scotland (images/figure 10.8). Each turbine has a “capacity”
+the east coast of Scotland (images/figure 10.8). Each turbine has a "capacity"
 of 5 MW and sits in a water depth of 45 m. Hub height: 107 m; diameter
 126 m. All the elec- tricity generated will be used by the oil
-platforms. Isn’t that special! The 10 MW project cost £30 million – this
+platforms. Isn't that special! The 10 MW project cost £30 million – this
 price-tag of £3 per watt (peak) can be
 
 Figure 10.6. Birds lost in action. Annual bird deaths in Denmark caused
@@ -315,16 +315,16 @@ TOTAL
 compared with that of Kentish Flats, £1.2 per watt (£105 million for 90
 MW). www.beatricewind.co.uk
 
-It’s possible that *floating* wind turbines may change the economics of
+It's possible that *floating* wind turbines may change the economics of
 deep offshore wind.
 
 60*The area available for offshore wind*. The Department of Trade and
-Industry’s (2002) document “Future Offshore” gives a detailed breakdown
+Industry's (2002) document "Future Offshore" gives a detailed breakdown
 of areas that are useful for offshore wind power. Table 10.7 shows the
-estimated resource in 76 000 km^2^ of shallow and deep water. The DTI’s
+estimated resource in 76 000 km^2^ of shallow and deep water. The DTI's
 estimated power contribution, if these areas were *entirely* filled with
 windmills, is 146 kWh/d per person (consisting of 52 kWh/d/p from the
-shallow and 94 kWh/d/p from the deep). But the DTI’s estimate of the
+shallow and 94 kWh/d/p from the deep). But the DTI's estimate of the
 potential offshore wind generation resource is just 4.6 kWh per day per
 person. It might be interesting to describe how they get down from this
 potential resource of 146 kWh/d per person to 4.6 kWh/d per person. Why
@@ -337,26 +337,26 @@ be developed (as a result of seabed composition or planning
 constraints); they reduced the capacity by 50% for all sites less than
 10 miles from shore, for reasons of public ac- ceptability; they further
 reduced the capacity of sites with wind speed over 9 m/s by 95% to
-account for “development barriers presented by the hostile environment;”
+account for "development barriers presented by the hostile environment;"
 and other sites with average wind speed 8–9 m/s had their capacities
 reduced by 5%.
 
 61*...if we take the total coastline of Britain (length: 3000 km), and
 put a strip of turbines 4 km wide all the way round...* Pedants will say
-that “the coastline of Britain is not a well-defined length, because the
-coast is a fractal.” Yes, yes, it’s a fractal. But, dear pedant, please
+that "the coastline of Britain is not a well-defined length, because the
+coast is a fractal." Yes, yes, it's a fractal. But, dear pedant, please
 take a map and put a strip of turbines 4 km wide around mainland
-Britain, and see if it’s not the case that your strip is indeed about
+Britain, and see if it's not the case that your strip is indeed about
 3000 km long.
 
-–*Horns Reef* (Horns Rev). The difficulties with this “160 MW” Danish
+–*Horns Reef* (Horns Rev). The difficulties with this "160 MW" Danish
 wind farm off Jutland [www.hornsrev.dk] are described by Halkema (2006).
 
 Table 10.7. Potential offshore wind generation resource in proposed
 strategic regions, if these regions were *entirely filled* with wind
 turbines. From Dept. of Trade and Industry (2002b).
 
-When it is in working order, Horns Reef’s load factor is 0.43 and its
+When it is in working order, Horns Reef's load factor is 0.43 and its
 average power per unit area is 2.6 W/m^2^.
 
 62*Liberty ships* – www.liberty-ship.com/html/yards/introduction.html
@@ -367,15 +367,15 @@ of steel and concrete* – Rice and Owen (1999).
 –*The UK government announced on 10th December 2007 that it would permit
 the creation of 33 GW of offshore capacity...* [25e59w].
 
-–*...“pie in the sky”*. Source: Guardian [2t2vjq].
+–*..."pie in the sky"*. Source: Guardian [2t2vjq].
 
-63*What would “33 GW” of offshore wind cost?* According to the DTI in
+63*What would "33 GW" of offshore wind cost?* According to the DTI in
 Novem- ber 2002, electricity from offshore wind farms costs about £50
 per MWh (5p per kWh) (Dept. of Trade and Industry, 2002b, p21). Economic
 facts vary, however, and in April 2007 the estimated cost of offshore
 was up to £92 per MWh (Dept. of Trade and Industry, 2007, p7). By April
 2008, the price of offshore wind evidently went even higher: Shell
-pulled out of their commit- ment to build the London Array. It’s because
+pulled out of their commit- ment to build the London Array. It's because
 offshore wind is so expensive that the Government is having to increase
 the number of ROCs (renewable obligation certificates) per unit of
 offshore wind energy. The ROC is the unit of subsidy given out to
@@ -386,14 +386,14 @@ MWh is not enough subsidy to cover the cost of £92 per MWh. In the same
 document, estimates for other renewables (medium lev- elized costs in
 2010) are as follows. Onshore wind: £65–89/MWh; co-firing of biomass:
 £53/MWh; large-scale hydro: £63/MWh; sewage gas: £38/MWh; solar PV:
-£571/MWh; wave: £196/MWh; tide: £177/MWh. “Dale Vince, chief executive
+£571/MWh; wave: £196/MWh; tide: £177/MWh. "Dale Vince, chief executive
 of green energy provider Ecotricity, which is engaged in building
-onshore wind farms, said that he supported the Gov- ernment’s [offshore
+onshore wind farms, said that he supported the Gov- ernment's [offshore
 wind] plans, but only if they are not to the detriment of onshore wind.
-‘It’s dangerous to overlook the fantastic resource we have in this
+‘It's dangerous to overlook the fantastic resource we have in this
 country. . . By our estimates, it will cost somewhere in the region of
 £40bn to build the 33 GW of offshore power Hutton is proposing. We could
-do the same job onshore for £20bn’.” [57984r]
+do the same job onshore for £20bn'." [57984r]
 
 –*In a typical urban location in England, microturbines deliver 0.2 kWh
 per day*. Source: *Third Interim Report*,
@@ -401,13 +401,13 @@ www.warwickwindtrials.org.uk/2.html. Among the best results in the
 Warwick Wind Trials study is a Windsave WS1000 (a 1-kW machine) in
 Daventry mounted at a height of 15 m above the ground, generating 0.6
 kWh/d on average. But some microturbines de- liver only 0.05 kWh per day
-– Source: Donnachadh McCarthy: “My carbon- free year,” *The
+– Source: Donnachadh McCarthy: "My carbon- free year," *The
 Independent*, December 2007 [6oc3ja]. The Windsave WS1000 wind turbine,
-sold across England in B&Q’s shops, won an Eco-Bollocks award from
-*Housebuilder’s Bible* author Mark Brinkley: “Come on, it’s time to
+sold across England in B&Q's shops, won an Eco-Bollocks award from
+*Housebuilder's Bible* author Mark Brinkley: "Come on, it's time to
 admit that the roof-mounted wind turbine industry is a complete fiasco.
-Good money is being thrown at an invention that doesn’t work. This is
-the Sinclair C5 of the Noughties.” [5soql2]. The Met Office and Carbon
+Good money is being thrown at an invention that doesn't work. This is
+the Sinclair C5 of the Noughties." [5soql2]. The Met Office and Carbon
 Trust published a report in July 2008 [6g2jm5], which estimates that, if
 small-scale
 
@@ -423,9 +423,9 @@ permission.
 
 turbines were installed at all houses where economical in the UK, they
 would generate in total roughly 0.7 kWh/d/p. They advise that
-roof-mounted tur- bines in towns are usually worse than useless: “in
+roof-mounted tur- bines in towns are usually worse than useless: "in
 many urban situations, roof-mounted turbines may not pay back the carbon
-emitted during their production, installation and operation.”
+emitted during their production, installation and operation."
 
 63*Jack-up barges cost £60 million each*. Source:
 news.bbc.co.uk/1/hi/magazine/7206780.stm. I estimated that we would need

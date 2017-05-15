@@ -2,15 +2,15 @@
 
 In section \@ref(solar) we listed four solar biomass options:
 
-1.  “Coal substitution.”
-2.  “Petroleum substitution.”
+1.  "Coal substitution."
+2.  "Petroleum substitution."
 3.  Food for humans or other animals.
 4.  Incineration of agricultural by-products.
 
-We’ll estimate the maximum plausible contribution of each of these processes in
+We'll estimate the maximum plausible contribution of each of these processes in
 turn. In practice, many of these methods require so much energy to be put *in*
 along the way that they are scarcely net contributors (figure 
-\@ref(fig:energy-inputs-to-biofuels)). But in what follows, I’ll ignore such 
+\@ref(fig:energy-inputs-to-biofuels)). But in what follows, I'll ignore such 
 embodied-energy costs.
 
 Energy crops as a coal substitute
@@ -25,19 +25,19 @@ the resulting power would be 2.5 kWh/d per person.
 Petroleum substitution
 ----------------------
 
-There are several ways to turn plants into liquid fuels. I’ll express the
+There are several ways to turn plants into liquid fuels. I'll express the
 potential of each method in terms of its power per unit area (as in figure
 \@ref(fig:power-production-plants)).
 
-### Britain’s main biodiesel crop, rape
+### Britain's main biodiesel crop, rape
 
 Typically, rape is sown in September and harvested the following August. 
 Currently 450 000 hectares of oil-seed rape are grown in the UK each year.
-(That’s 2% of the UK.) Fields of rape produce 1200 litres of bio-diesel per
-hectare per year; bio-diesel has an energy of 9.8 kWh per litre; So that’s a
+(That's 2% of the UK.) Fields of rape produce 1200 litres of bio-diesel per
+hectare per year; bio-diesel has an energy of 9.8 kWh per litre; So that's a
 power per unit area of 0.13 W/m^2^.
 
-If we used 25% of Britain for oil-seed rape, we’d obtain bio-diesel with an
+If we used 25% of Britain for oil-seed rape, we'd obtain bio-diesel with an
 energy content of 3.1 kWh/d per person.
 
 ### Sugar beet to ethanol
@@ -66,29 +66,29 @@ energy density of 6 kWh per litre, so this process has a power per unit area of
 ### Bioethanol from corn in the USA
 
 The power per unit area of bio-ethanol from corn is astonishingly low. Just for
-fun, let’s report the numbers first in archaic units. 1 acre produces 122
+fun, let's report the numbers first in archaic units. 1 acre produces 122
 bushels of corn per year, which makes 122 × 2.6 US gallons of ethanol, which at
 84 000 BTU per gallon means a power per unit area of just 0.02 
-W/m^2^[^**E**^](http://www.withouthotair.com/Errata.html#284) – and we haven’t
+W/m^2^[^**E**^](http://www.withouthotair.com/Errata.html#284) – and we haven't
 taken into account any of the energy losses in processing!
 
 ### Cellulosic ethanol from switchgrass
 
-Cellulosic ethanol – the wonderful “next generation” bio-fuel? Schmer et al.
+Cellulosic ethanol – the wonderful "next generation" bio-fuel? Schmer et al.
 (2008) found that the net energy yield of switchgrass grown over five years on
 marginal cropland on 10 farms in the mid-continental US was 60 GJ per hectare
-per year, which is 0.2 W/m^2^. “This is a baseline study that represents the
+per year, which is 0.2 W/m^2^. "This is a baseline study that represents the
 genetic material and agronomic technology available for switchgrass production
 in 2000 and 2001, when the fields were planted. Improved genetics and agronomics
-may further enhance energy sustain- ability and bio-fuel yield of switchgrass.”
+may further enhance energy sustain- ability and bio-fuel yield of switchgrass."
 
 ### Jatropha also has low power per unit area
 
 Jatropha is an oil-bearing crop that grows best in dry tropical regions (300–
 1000 mm rain per year). It likes temperatures 20–28 °C. The projected yield in
 hot countries on good land is 1600 litres of bio-diesel per hectare per year.
-That’s a power per unit area of 0.18 W/m^2^. On wasteland, the yield is 583
-litres per hectare per year. That’s 0.065 W/m^2^.
+That's a power per unit area of 0.18 W/m^2^. On wasteland, the yield is 583
+litres per hectare per year. That's 0.065 W/m^2^.
 
 If people decided to use 10% of Africa to generate 0.065 W/m^2^, and shared this
 power between six billion people, what would we all get? 0.8 kWh/d/p. For
@@ -99,9 +99,9 @@ world oil consumption.
 
 ### What about algae?
 
-Algae are just plants, so everything I’ve said so far applies to algae. Slimy
+Algae are just plants, so everything I've said so far applies to algae. Slimy
 underwater plants are no more efficient at photosynthesis than their terrestrial
-cousins. But there is one trick that I haven’t discussed, which is standard
+cousins. But there is one trick that I haven't discussed, which is standard
 practice in the algae-to-biodiesel community: they grow their algae in water
 heavily enriched with carbon dioxide, which might be collected from power
 stations or other industrial facilities. It takes much less effort for plants to
@@ -111,14 +111,14 @@ a sunny spot in America, in ponds fed with concentrated CO~2~ (concentrated to
 metre per day, producing 0.01 litres of bio-diesel per square metre per day.
 This corresponds to a power per unit pond area of 4 W/m^2^ – similar to the 
 Bavaria photo-voltaic farm. If you wanted to drive a typical car (doing 12 km
-per litre) a distance of 50 km per day, then you’d need 420 square metres of
+per litre) a distance of 50 km per day, then you'd need 420 square metres of
 algae-ponds just to power your car; for comparison, the area of the UK per
 person is 4000 square metres, of which 69 m^2^ is water (images/figure 6.8).
-Please don’t forget that it’s essential to feed these ponds with concentrated
+Please don't forget that it's essential to feed these ponds with concentrated
 carbon dioxide. So this technology would be limited both by land area – how much
 of the UK we could turn into algal ponds – and by the availability of
 concentrated CO~2~, the capture of which would have an energy cost (a topic
-discussed in Chapters 23 and 31). Let’s check the limit imposed by the
+discussed in Chapters 23 and 31). Let's check the limit imposed by the
 concentrated CO~2~. To grow 30 g of algae per m^2^ per day would require at
 least 60 g of CO~2~ per m^2^ per day (because the CO~2~ molecule has more mass
 per carbon atom than the molecules in algae). If all the CO~2~ from all UK power
@@ -129,7 +129,7 @@ described above – roughly 6% of the
 country[^**E**^](http://www.withouthotair.com/Errata.html#285). This area would
 deliver bio-diesel with a power of 24 kWh per day per person, assuming that the
 numbers for sunny America apply here. A plausible vision? Perhaps on one tenth
-of that scale? I’ll leave it to you to decide.
+of that scale? I'll leave it to you to decide.
 
 energy density (kWh/kg)
 
@@ -185,7 +185,7 @@ poultry litter
 
 2.4
 
-general indust’l waste
+general indust'l waste
 
 4.4
 
@@ -214,8 +214,8 @@ Table D.3. Calorific value of wood and similar things. Sources: Yaros
 ### What about algae in the sea?
 
 Remember what I just said: the algae-to-biodiesel posse always feed
-their algae concentrated CO~2~. If you’re going out to sea, presumably
-pumping CO~2~ into it won’t be an option. And without the concentrated
+their algae concentrated CO~2~. If you're going out to sea, presumably
+pumping CO~2~ into it won't be an option. And without the concentrated
 CO~2~, the productivity of algae drops 100-fold. For algae in the sea to
 make a difference, a country-sized harvesting area in the sea would be
 required.
@@ -244,7 +244,7 @@ of about 4 kWh per kg. In the UK, wheat yields of 7.7 tons per hectare
 per year are typical. If the wheat is eaten by an animal, the power per
 unit area of this process is 0.34 W/m^2^. If 2800
 m^2^[^**E**^](http://www.withouthotair.com/Errata.html#286) of Britain
-(that’s all agricultural land) were devoted to the growth of crops like
+(that's all agricultural land) were devoted to the growth of crops like
 these, the chemical energy generated would be about 24 kWh/d per person.
 
 Incineration of agricultural by-products
@@ -252,11 +252,11 @@ Incineration of agricultural by-products
 
 We found a moment ago that the power per unit area of a biomass power
 station burning the best energy crops is 0.2 W/m^2^. If instead we grow
-crops for food, and put the left-overs that we don’t eat into a power
+crops for food, and put the left-overs that we don't eat into a power
 station – or if we feed the food to chickens and put the left-overs that
-come out of the chickens’ back ends into a power station – what power
-could be delivered per unit area of farmland? Let’s make a rough guess,
-then take a look at some real data. For a wild guess, let’s imagine that
+come out of the chickens' back ends into a power station – what power
+could be delivered per unit area of farmland? Let's make a rough guess,
+then take a look at some real data. For a wild guess, let's imagine that
 by-products are harvested from half of the area of Britain (2000 m^2^
 per person) and trucked to power stations, and that general agricultural
 by-products deliver 10% as much power per unit area as the best energy
@@ -266,17 +266,17 @@ per person.
 Have I been unfair to agricultural garbage in making this wild guess? We can
 re-estimate the plausible production from agricultural left-overs by scaling up
 the prototype straw-burning power station at Elean^[Source: Government White
-Paper (2003). Elean Power Station (36 MW) – the UK’s first straw-fired power
+Paper (2003). Elean Power Station (36 MW) – the UK's first straw-fired power
 plant. *Straw production:* www.biomassenergycentre.org.uk. ] in East Anglia.
-Elean’s power output is 36 MW, and it uses 200 000 tons per year from land
+Elean's power output is 36 MW, and it uses 200 000 tons per year from land
 located within a 50-mile radius. If we assume this density can be replicated
 across the whole country, the Elean model offers 0.002 W/m^2^. At 4000 m^2^ per
-person, that’s 8 W per person, or 0.2 kWh/day per person.
+person, that's 8 W per person, or 0.2 kWh/day per person.
 
-Let’s calculate this another way. UK straw production is 10 million tons
+Let's calculate this another way. UK straw production is 10 million tons
 per year, or 0.46 kg per day per person. At 4.2 kWh per kg, this straw
 has a chemical energy of 2 kWh per day per person. If all the straw were
-burned in 30%-efficient power stations – a proposal that wouldn’t go
+burned in 30%-efficient power stations – a proposal that wouldn't go
 down well with farm animals, who have other uses for straw – the
 electricity generated would be 0.6 kWh/d per person.
 
@@ -301,7 +301,7 @@ because of changes in legislation, and are now roughly 50% lower.
 
 ### Burning household waste
 
-SELCHP (“South East London Combined Heat and Power”) [www.selchp. com]
+SELCHP ("South East London Combined Heat and Power") [www.selchp. com]
 is a 35 MW power station that is paid to burn 420 kt per year of black-
 bag waste from the London area. They burn the waste as a whole, without
 sorting. After burning, ferrous metals are removed for recycling,
@@ -315,11 +315,11 @@ about 4 MW is used by the plant itself to run its machinery and
 filtering processes.
 
 Scaling this idea up, if every borough had one of these, and if everyone
-sent 1 kg per day of waste, then we’d get 0.5 kWh(e) per day per person
+sent 1 kg per day of waste, then we'd get 0.5 kWh(e) per day per person
 from waste incineration.
 
 This is similar to the figure estimated above for methane capture at
-landfill sites. And remember, we can’t have both. More waste
+landfill sites. And remember, we can't have both. More waste
 incineration means less methane gas leaking out of landfill sites. See
 figure 27.2, p206, and figure 27.3, p207, for further data on waste
 incineration.
@@ -334,11 +334,11 @@ electricity is 0.2 W/m^2^*. Source: Select Committee on Science and
 Technology Minutes of Evidence – Memorandum from the Biotechnology &
 Biological Sciences Research Council
 [www.publications.parliament.uk/pa/ld200304/
-ldselect/ldsctech/126/4032413.htm]. “Typically a sustainable crop of 10
+ldselect/ldsctech/126/4032413.htm]. "Typically a sustainable crop of 10
 dry t/ha/y of woody biomass can be produced in Northern Europe... . Thus
 an area of 1 km^2^ will produce 1000 dry t/y – enough for a power output
 150 kWe at low conversion efficiencies or 300 kWe at high conversion
-efficiencies.” This means 0.15–0.3 W(e)/m^2^. See also Layzell et al.
+efficiencies." This means 0.15–0.3 W(e)/m^2^. See also Layzell et al.
 (2006), [3ap7lc].
 
 ![](images/figure285.png)

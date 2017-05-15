@@ -4,23 +4,23 @@ The moon and earth are in a whirling, pirouetting dance around the sun.
 Together they tour the sun once every year, at the same time whirling
 around each other once every 28 days. The moon also turns around once
 every 28 days so that she always shows the same face to her dancing
-part- ner, the earth. The prima donna earth doesn’t return the
+part- ner, the earth. The prima donna earth doesn't return the
 compliment; she pirouettes once every day. This dance is held together
 by the force of grav- ity: every bit of the earth, moon, and sun is
 pulled towards every other bit of earth, moon, and sun. The sum of all
-these forces is *almost* exactly what’s required to keep the whirling
+these forces is *almost* exactly what's required to keep the whirling
 dance on course. But there are very slight imbalances between the
 gravitational forces and the forces required to maintain the dance. It
 is these imbalances that give rise to the tides.
 
 The imbalances associated with the whirling of the moon and earth around
 each other are about three times as big as the imbalances associated
-with the earth’s slower dance around the sun, so the size of the tides
+with the earth's slower dance around the sun, so the size of the tides
 varies with the phase of the moon, as the moon and sun pass in and out
 of alignment. At full moon and new moon (when the moon and sun are in
 line with each other) the imbalances reinforce each other, and the
 resulting big tides are called *spring tides*. (Spring tides are *not*
-“tides that occur at spring-time;” spring tides happen every two weeks
+"tides that occur at spring-time;" spring tides happen every two weeks
 like clockwork.) At the intervening half moons, the imbalances partly
 cancel and the tides are smaller; these smaller tides are called *neap
 tides*. Spring tides have roughly twice the amplitude of neap tides: the
@@ -49,17 +49,17 @@ anticlockwise direction once a
 
 ![](images/figure96.png)
 
-Figure 14.1. An ocean covering a billiard-ball earth. We’re looking down
+Figure 14.1. An ocean covering a billiard-ball earth. We're looking down
 on the North pole, and the moon is 60 cm off the page to the right. The
 earth spins once per day inside a rugby-ball-shaped shell of water. The
 oceans are stretched towards and away from the moon because the
-gravitational forces supplied by the moon don’t perfectly match the
+gravitational forces supplied by the moon don't perfectly match the
 required centripetal force to keep the earth and moon whirling around
 their common centre of gravity. Someone standing on the equator
 (rotating as indicated by the arrow) will experience two high waters and
 two low waters per day.
 
-day. Here in Britain we don’t directly see these Atlantic crests and
+day. Here in Britain we don't directly see these Atlantic crests and
 troughs – we are set back from the Atlantic proper, separated from it by
 a few hundred miles of paddling pool called the continental shelf. Each
 time one of the crests whooshes by in the Atlantic proper, it sends a
@@ -81,7 +81,7 @@ Similarly, the crests and troughs entering the North Sea around the
 Orkneys hug the British side, travelling down to the Thames Estuary then
 turning left at the Netherlands to pay their respects to Denmark.
 
-Tidal energy is sometimes called lunar energy, since it’s mainly thanks
+Tidal energy is sometimes called lunar energy, since it's mainly thanks
 to the moon that the water sloshes around so. Much of the tidal energy,
 however, is really coming from the rotational energy of the spinning
 earth. The earth is very gradually slowing down.
@@ -97,13 +97,13 @@ next to the sea, with a water-wheel that is turned as the pool fills or
 empties (images/figures 14.2 and 14.3). Chapter G shows how to estimate the
 power avail- able from such tide-pools. Assuming a range of 4 m, a
 typical range in many European estuaries, the maximum power of an
-artificial tide-pool that’s filled rapidly at high tide and emptied
+artificial tide-pool that's filled rapidly at high tide and emptied
 rapidly at low tide, generating power from both flow directions, is
 about 3 W/m^2^. This is the same as the power per unit area of an
 offshore wind farm. And we already know how big offshore wind farms need
 to be to make a difference. *They need to be country-sized*. So
 similarly, to make tide-pools capable of producing power comparable to
-Britain’s total consumption, we’d need the total area of the tide-pools
+Britain's total consumption, we'd need the total area of the tide-pools
 to be similar to the area of Britain.
 
 Amazingly, Britain is already supplied with a natural tide-pool of just
@@ -120,8 +120,8 @@ by Ted Evans.
 ![](images/figure99.png)
 
 Figure 14.3. An artificial tide-pool. The pool was filled at high tide,
-and now it’s low tide. We let the water out through the electricity
-generator to turn the water’s potential energy into electricity.
+and now it's low tide. We let the water out through the electricity
+generator to turn the water's potential energy into electricity.
 
   tidal range   power density
   ------------- ---------------
@@ -137,13 +137,13 @@ generation from both the rising and the falling tide.
 
 mills. Because the density of water is roughly 1000 times that of air,
 the power of water flow is 1000 times greater than the power of wind at
-the same speed. We’ll come back to tide farms in a moment, but first
-let’s discuss how much raw tidal energy rolls around Britain every day.
+the same speed. We'll come back to tide farms in a moment, but first
+let's discuss how much raw tidal energy rolls around Britain every day.
 
 ### Raw incoming tidal power
 
 The tides around Britain are genuine tidal waves – unlike tsunamis,
-which are called “tidal waves,” but are nothing to do with tides. Follow
+which are called "tidal waves," but are nothing to do with tides. Follow
 a high tide as it rolls in from the Atlantic. The time of high tide
 becomes progress- ively later as we move east up the English channel
 from the Isles of Scilly to Portsmouth and on to Dover. The crest of the
@@ -177,18 +177,18 @@ Figure 14.6. The average incoming power of lunar tidal waves crossing
 these two lines has been measured to be 250 GW. This raw power, shared
 between 60 million people, is 100 kWh per day per person.
 
-details. Now let’s estimate the power that could be delivered by three
+details. Now let's estimate the power that could be delivered by three
 specific solutions: tide farms, barrages, and offshore tidal lagoons.
 
 Tidal stream farms
 ------------------
 
 One way to extract tidal energy would be to build tide farms, just like
-wind farms. The first such underwater windmill, or “tidal-stream”
-generator, to be connected to the grid was a “300 kW” turbine, installed
+wind farms. The first such underwater windmill, or "tidal-stream"
+generator, to be connected to the grid was a "300 kW" turbine, installed
 in 2003 near the northerly city of Hammerfest, Norway. Detailed power
 production results have not been published, and no-one has yet built a
-tide farm with more than one turbine, so we’re going to have to rely on
+tide farm with more than one turbine, so we're going to have to rely on
 physics and guesswork to predict how much power tide farms could
 produce. Assuming that the rules for laying out a sensible tide farm are
 similar to those for wind farms, and that the efficiency of the tide
@@ -281,7 +281,7 @@ hour = 0.514 m/s.)
 
 The current proposals for the barrage will generate power in one
 direction only. This reduces the power delivered by another 50%. The
-engineers’ reports on the proposed Severn barrage say that, generating
+engineers' reports on the proposed Severn barrage say that, generating
 on the ebb alone, it would contribute 0.8 kWh/d per person on average.
 The barrage would also provide protection from flooding valued at about
 £120M per year.
@@ -301,7 +301,7 @@ built in north Wales, Lincolnshire, southwest Wales, and east Sussex.
 If two lagoons are built in one location, a neat trick can be used to
 boost the power delivered and to enable the lagoons to deliver power on
 demand at any time, independent of the state of the tide. One lagoon can
-be designated the “high” lagoon, and the other the “low” lagoon. At low
+be designated the "high" lagoon, and the other the "low" lagoon. At low
 tide, some power generated by the emptying high lagoon can be used to
 
 Figure 14.8. The Severn barrage proposals (bottom left), and Strangford
@@ -310,7 +310,7 @@ barrage at La Rance (bottom right). The map shows two proposed locations
 for a Severn barrage. A barrage at Weston-super-Mare would deliver an
 average power of 2 GW (0.8 kWh/d per person). The outer alternative
 would deliver twice as much. There is a big tidal resource in Northern
-Ireland at Strangford Lough. Strangford Lough’s area is 150 km^2^; the
+Ireland at Strangford Lough. Strangford Lough's area is 150 km^2^; the
 tidal range in the Irish Sea outside is 4.5 m at springs and 1.5 m at
 neaps – sadly not as big as the range at La Rance or the Severn. The raw
 power of the natural tide-pool at Strangford Lough is roughly 150 MW,
@@ -340,7 +340,7 @@ Totting everything up, the barrage, the lagoons, and the tidal stream
 farms could deliver something like 11 kWh/d per person (images/figure 14.10).
 
 Tide power has never been used on an industrial scale in Britain, so
-it’s hard to know what economic and technical challenges will be raised
+it's hard to know what economic and technical challenges will be raised
 as we build and maintain tide-turbines – corrosion, silt accumulation,
 entanglement with flotsam? But here are seven reasons for being excited
 about tidal power in the British Isles. 1. Tidal power is completely
@@ -353,7 +353,7 @@ and Dover occur at different times from each other; thus, together, a
 collection of tide farms could produce a more constant contribution to
 the electrical grid than one tide farm, albeit a contribution that
 wanders up and down with the phase of the moon. 3. Tidal power will last
-for millions of years. 4. It doesn’t require high-cost hardware, in
+for millions of years. 4. It doesn't require high-cost hardware, in
 contrast to solar photovoltaic power. 5. Moreover, because the power
 density of a typical tidal flow is greater than the power density of a
 typical wind, a 1 MW tide turbine is smaller in size than a 1 MW wind
@@ -362,7 +362,7 @@ turbines. 6. Life below the waves is peaceful; there is no such thing as
 a freak tidal storm; so, unlike wind turbines, which require costly
 engineering to withstand rare windstorms, underwater tide turbines will
 not require big safety factors in their design. 7. Humans mostly live on
-the land, and they can’t see under the sea, so objections to the visual
+the land, and they can't see under the sea, so objections to the visual
 impact of tide turbines should be less strong than the objections to
 wind turbines.
 
