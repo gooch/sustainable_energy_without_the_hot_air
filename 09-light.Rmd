@@ -3,10 +3,10 @@
 Lighting home and work
 ----------------------
 
-The brightest domestic light-bulbs use 250 W, and bedside lamps use 40
-W. In an old-fashioned incandescent bulb, most of this power gets turned
-into heat, rather than light. A fluorescent tube can produce an equal
-amount of light using one quarter of the power of an incandescent bulb.
+The brightest domestic light-bulbs use 250 W, and bedside lamps use 40 W. In an
+old-fashioned incandescent bulb, most of this power gets turned into heat,
+rather than light. A fluorescent tube can produce an equal amount of light using
+one quarter of the power of an incandescent bulb.
 
 How much power does a moderately affluent person use for lighting? My rough
 estimate, based on table \@ref(tab:domestic-electric-light), is that a typical
