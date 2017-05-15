@@ -4,11 +4,11 @@ Lighting home and work
 ----------------------
 
 The brightest domestic light-bulbs use 250 W, and bedside lamps use 40
-W.In an old-fashioned incandescent bulb, most of this power gets turned
+W. In an old-fashioned incandescent bulb, most of this power gets turned
 into heat, rather than light. A fluorescent tube can produce an equal
 amount of light using one quarter of the power of an incandescent bulb.
 
-How much power does a moderately affluent person use for lighting?My
+How much power does a moderately affluent person use for lighting? My
 rough estimate, based on table 9.2, is that a typical two-person
 home with a mix of low-energy and high-energy bulbs uses about 5.5 kWh
 per day, or 2.7 kWh per day per person. I assume that each person also
@@ -71,14 +71,14 @@ of every-little-helps-ism.
 The economics of low-energy bulbs
 ---------------------------------
 
-Generally I avoid discussing economics, but I'd like to make an
-exception for light-bulbs. Osram's 20 W low-energy bulb claims the same
-light output as a 100 W incandescent bulb. Moreover, its lifetime is said
-to be15 000 hours (or "12 years," at 3 hours per day). In contrast a
-typical in-candescent bulb might last 1000 hours. So during a 12-year
-period, you have this choice (images/figure 9.3): buy 15 incandescent bulbs and
-1500 kWh of electricity (which costs roughly £150); or buy one low-energy
-bulb and300 kWh of electricity (which costs roughly £30).
+Generally I avoid discussing economics, but I'd like to make an exception for 
+light-bulbs. Osram's 20 W low-energy bulb claims the same light output as a 100 
+W incandescent bulb. Moreover, its lifetime is said to be 15,000 hours (or "12 
+years," at 3 hours per day). In contrast a typical incandescent bulb might last 
+1000 hours. So during a 12-year period, you have this choice (figure
+\@ref(fig:replace-old-bulbs)) : buy 15 incandescent bulbs and 1500 kWh of
+electricity (which costs roughly £150); or buy one low-energy bulb and300 kWh of
+electricity (which costs roughly £30).
 
 #### Should I wait until the old bulb dies before replacing it?
 
