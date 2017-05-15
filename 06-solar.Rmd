@@ -150,7 +150,7 @@ huge dent in our total *energy* consumption. To do more with PV, we need to step
 down to terra firma. The solar warriors in figure \@ref(fig:solar-warriors) show
 the way.
 
-```{r pv-data-cambridgeshire, fig.cap="Solar photo-voltaics: data from a 25-m^2^ array in Cambridgeshire in 2006. The peak power delivered by this array is about 4 kW. The average, year-round, is 12 kWh per day. That's 20 W per square metre of panel."}
+```{r pv-data-cambridgeshire, fig.cap="Solar photo-voltaics: data from a 25-m^2^ array in Cambridgeshire in 2006. The peak power delivered by this array is about 4 kW. The average, year-round, is 12 kWh per day. That's 20 W per square metre of panel. Data and photograph kindly provided by Jonathan Kimmitt."}
 knitr::include_graphics('images/figure38.png')
 ```
 
