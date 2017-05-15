@@ -1,19 +1,19 @@
 #Hydroelectricity
 
 To make hydroelectric power, you need altitude, and you need
-rainfall.Let’s estimate the total energy of all the rain as it runs down
+rainfall. Let's estimate the total energy of all the rain as it runs down
 to sea-level.
 
-For this hydroelectric forecast, I’ll divide Britain into two: the
-lower,dryer bits, which I’ll call “the lowlands;” and the higher, wetter
-bits, whichI’ll call “the highlands.” I’ll choose Bedford and Kinlochewe
+For this hydroelectric forecast, I'll divide Britain into two: the
+lower, dryer bits, which I'll call "the lowlands;" and the higher, wetter
+bits, whichI'll call "the highlands." I'll choose Bedford and Kinlochewe
 as my repre-sentatives of these two regions.
 
-Let’s do the lowlands first. To estimate the gravitational power of
+Let's do the lowlands first. To estimate the gravitational power of
 low-land rain, we multiply the rainfall in Bedford (584 mm per year) by
 thedensity of water (1000 kg/m^3^), the strength of gravity (10 m/s^2^)
 and thetypical lowland altitude above the sea (say 100 m). The power per
-unitarea works out to 0.02 W/m^2^. That’s the power per unit area of
+unitarea works out to 0.02 W/m^2^. That's the power per unit area of
 land onwhich rain falls.
 
 When we multiply this by the area per person (2700 m^2^, if the
@@ -25,7 +25,7 @@ riverswith substantial height drops, with catchment areas much smaller
 than thewhole country. Much of the water evaporates before it gets
 anywhere neara turbine, and no hydroelectric system exploits the full
 potential energy ofthe water. We thus arrive at a firm conclusion about
-lowland water power.People may enjoy making “run-of-the-river” hydro and
+lowland water power. People may enjoy making "run-of-the-river" hydro and
 other small-scalehydroelectric schemes, but such lowland facilities can
 never deliver morethan 1 kWh per day per person.
 
@@ -45,7 +45,7 @@ land area there is at each height.
 
 Ch 8 Page 56 Sustainable Energy - without the hot air
 
-Let’s turn to the highlands. Kinlochewe is a rainier spot: it gets 2278
+Let's turn to the highlands. Kinlochewe is a rainier spot: it gets 2278
 mmper year, four times more than Bedford. The height drops there are
 biggertoo – large areas of land are above 300 m. So overall a
 twelve-fold increasein power per square metre is plausible for
@@ -56,7 +56,7 @@ kWh per day per person. As inthe lowlands, this is the upper limit on
 raw power if evaporation wereoutlawed and every drop were perfectly
 exploited.
 
-What should we estimate is the plausible practical limit? Let’s guess20%
+What should we estimate is the plausible practical limit? Let's guess20%
 of this – 1.4 kWh per day, and round it up a little to allow for
 produc-tion in the lowlands: 1.5 kWh per day.
 
@@ -76,7 +76,7 @@ catchment areaof Loch Sloy is about 83 km^2^; the rainfall there is
 about 2900 mm per year(a bit higher than the 2278 mm/y of Kinlochewe);
 and the electricity outputin 2006 was 142 GWh per year, which
 corresponds to a power density of0.2W per m^2^ of catchment area. Loch
-Sloy’s surface area is about 1.5 km^2^,so the hydroelectric facility
+Sloy's surface area is about 1.5 km^2^, so the hydroelectric facility
 itself has a[^**E**^](http://www.withouthotair.com/Errata.html#56) per
 unit lake area of 11 W/m^2^. Sothe hillsides, aqueducts, and tunnels
 bringing water to Loch Sloy act like a55-fold power concentrator.
@@ -84,21 +84,21 @@ bringing water to Loch Sloy act like a55-fold power concentrator.
 –*The actual power from hydroelectricity in the UK today is 0.2 kWh per
 dayper person*. Source: MacLeay et al. (2007). In 2006, large-scale
 hydro pro-duced 3515 GWh (from plant with a capacity of 1.37 GW);
-small-scale hydro,212 GWh (0.01 kWh/d/p) (from a capacity of 153 MW).In
+small-scale hydro,212 GWh (0.01 kWh/d/p) (from a capacity of 153 MW). In
 1943, when the growth of hydroelectricity was in full swing, the Northof
-Scotland Hydroelectricity Board’s engineers estimated that the
+Scotland Hydroelectricity Board's engineers estimated that the
 Highlandsof Scotland could produce 6.3 TWh per year in 102 facilities –
 that wouldcorrespond to 0.3 kWh/d per person in the UK (Ross,
-2008).Glendoe, the first new large-scale hydroelectric project in the UK
-since 1957,will add capacity of 100 MW and is expected to deliver 180
-GWh per year.Glendoe’s catchment area is 75 km^2^, so its power density
+2008). Glendoe, the first new large-scale hydroelectric project in the UK
+since 1957, will add capacity of 100 MW and is expected to deliver 180
+GWh per year. Glendoe's catchment area is 75 km^2^, so its power density
 works out to 0.27 Wper m^2^ of catchment area. Glendoe has been billed
-as “big enough to powerGlasgow.” But if we share its 180 GWh per year
+as "big enough to powerGlasgow." But if we share its 180 GWh per year
 across the population ofGlasgow (616 000 people), we get only 0.8 kWh/d
 per person. That is just5% of the average electricity consumption of 17
 kWh/d per person. The 20-fold exaggeration is achieved by focusing on
-Glendoe’s peak output ratherthan its average, which is 5 times smaller;
-and by discussing “homes” ratherthan the total electrical power of
+Glendoe's peak output ratherthan its average, which is 5 times smaller;
+and by discussing "homes" ratherthan the total electrical power of
 Glasgow (see p329).
 
 ![](images/figure65.png)
