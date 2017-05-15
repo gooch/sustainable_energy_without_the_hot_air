@@ -65,11 +65,11 @@ knitr::include_graphics('images/figure35.png')
 
 Multiplying
 
-$50\% \times 10\space m^2 \times 110\space W/m^2$
+$$50\% \times 10\space m^2 \times 110\space W/m^2$$
 
 we find solar heating could deliver
 
-13 kWh per day per person.
+$$13\space kWh\space per\space day\space per\space person$$
 
 I colour this production box white in figure \@ref(fig:solar-thermal-stack) to indicate that it
 describes production of low-grade energy – hot water is not as valuable as the
