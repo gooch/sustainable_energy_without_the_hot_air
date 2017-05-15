@@ -301,7 +301,7 @@ reduction of 34 500 tons of CO~2~ per year, which is equivalent to "23
 The calorie is annoying because the diet community call a kilocalorie a
 Calorie. 1 such food Calorie = 1000 calories.
 
-2500 kcal = 3 kWh = 10 000 kJ = 10 MJ.
+$$2500\space kcal = 3\space kWh = 10,000\space kJ = 10\space MJ$$
 
 ![](images/figure309-0-0.png)
 
