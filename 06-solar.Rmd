@@ -91,11 +91,11 @@ mass-produced device with efficiency greater than 30%would be quite
 remarkable.) The average power delivered by south-facing 20%-efficient
 photo-voltaic panels in Britain would be
 
-20%× 110 W/m^2^ = 22 W/m^2^.
+$$20\% \times 110\space W/m^2 = 22\space W/m^2$$
 
-Figure 6.5 shows data to back up this number. Let's give every person 10 m^2^
-of expensive (20%-efficient) solar panels and cover all south-facing roofs.
-These will deliver 5 kWh per day per person.
+Figure \@ref(fig:pv-data-cambridgeshire) shows data to back up this number.
+Let's give every person $10\space m^2$ of expensive (20%-efficient) solar panels
+and cover all south-facing roofs. These will deliver 5 kWh per day per person.
 
 ```{r solar-thermal-stack, fig.cap='Solar thermal: a 10 m^2^ array of thermal panels can deliver (on average) about 13 kWh per day of thermal energy.'}
 knitr::include_graphics('images/figure36.png')
@@ -128,9 +128,9 @@ firma. The solar warriors in figure 6.6 show the way.
 
 ![](images/figure37.png)
 
-![](images/figure38.png)
-
-Figure 6.5. Solar photo-voltaics: data from a 25-m^2^ array in Cambridgeshire in 2006. The peak power delivered by this array is about 4 kW. The average, year-round, is 12 kWh per day. That's 20 W per square metre of panel.
+```{r pv-data-cambridgeshire, fig.cap="Solar photo-voltaics: data from a 25-m^2^ array in Cambridgeshire in 2006. The peak power delivered by this array is about 4 kW. The average, year-round, is 12 kWh per day. That's 20 W per square metre of panel."}
+knitr::include_graphics('images/figure38.png')
+```
 
 Figure 6.6. Two solar warriors enjoying their photo voltaic system, which powers their electric cars and home. The array of 120 panels (300 W each, 2.2 m^2^ each) has an area of 268 m^2^, a peak output (allowing for losses in DC–to–AC conversion) of 30.5 kW, and an average output – in California, near Santa Cruz – of 5 kW (19 W/m^2^). Photo kindly provided by Kenneth Adelman. www.solarwarrior.com
 
@@ -425,7 +425,7 @@ W(peak) panel with an area of 1 m^2^. That impliesan efficiency, in full
 sunlight, of only 5.8%.
 
 40*Figure 6.5: Solar PV data*. Data and photograph kindly provided by
-JonathanKimmitt.
+Jonathan Kimmitt.
 
 Figure 6.17. Part of Shockley and Queisser's explanation for the 31%
 limit of the efficiency of simple photovoltaics. Left: the spectrum of
