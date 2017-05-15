@@ -82,12 +82,11 @@ electricity (which costs roughly £30).
 
 #### Should I wait until the old bulb dies before replacing it?
 
-It feels like a waste, doesn't it? Someone put resources into making
-the old incandescent light-bulb; shouldn't we cash in that original
-investment by using the bulb until it's worn out? But the economic answer
-is clear:*continuing to use an old light-bulb is throwing good money
-after bad*. If you can find a satisfactory low-energy replacement,
-replace the old bulb now.
+It feels like a waste, doesn't it? Someone put resources into making the old 
+incandescent light-bulb; shouldn't we cash in that original investment by using 
+the bulb until it's worn out? But the economic answer is clear: *continuing to 
+use an old light-bulb is throwing good money after bad*. If you can find a 
+satisfactory low-energy replacement, replace the old bulb now.
 
 #### What about the mercury in compact fluorescent lights? Are LEDbulbs better than fluorescents?
 
