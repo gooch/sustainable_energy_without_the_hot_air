@@ -8,11 +8,12 @@ bits, which I'll call "the lowlands;" and the higher, wetter bits, which I'll
 call "the highlands." I'll choose Bedford and Kinlochewe as my representatives
 of these two regions.
 
-Let's do the lowlands first. To estimate the gravitational power of low-land
-rain, we multiply the rainfall in Bedford ($584 mm$ per year) by the density of
-water ($1000\space kg/m^3$), the strength of gravity ($10\space m/s^2$) and the typical
-lowland altitude above the sea (say 100 m). The power per unit area works out to
-$0.02\space W/m^2$. That's the power per unit area of land on which rain falls.
+Let's do the lowlands first. To estimate the gravitational power of low-land 
+rain, we multiply the rainfall in Bedford ($584 mm$ per year^[Statistics are
+from the BBC weather centre.]) by the density of water ($1000\space kg/m^3$),
+the strength of gravity ($10\space m/s^2$) and the typical lowland altitude
+above the sea (say 100 m). The power per unit area works out to $0.02\space
+W/m^2$. That's the power per unit area of land on which rain falls.
 
 When we multiply this by the area per person ($2700\space m^2$, if the lowlands are
 equally shared between all 60 million Brits), we find an average raw power of
@@ -40,13 +41,22 @@ knitr::include_graphics('images/figure407.png')
 
 Let's turn to the highlands. Kinlochewe is a rainier spot: it gets $2278 mm$ per
 year, four times more than Bedford. The height drops there are bigger too – 
-large areas of land are above $300 m$. So overall a twelve-fold increase in
-power per square metre is plausible for mountainous regions. The raw power per
-unit area is roughly $0.24\space W/m^2$. If the highlands generously share their
-hydro-power with the rest of the UK (at $1300\space m^2$ area per person), we
-find an upper limit of about $7\space kWh$ per day per person. As in the
-lowlands, this is the upper limit on raw power if evaporation were outlawed and
-every drop were perfectly exploited.
+large areas of land are above $300 m$. So overall a twelve-fold increase in 
+power per square metre is plausible for mountainous regions. The raw power per 
+unit area is roughly $0.24\space W/m^2$^[We can check this estimate against the 
+actual power density of the Loch Slo hydro-electric scheme, completed in 1950 
+(Ross, 2008). The catchment area of Loch Sloy is about $83\space km^2$; the
+rainfall there is about $2900 mm$ per year (a bit higher than the $2278\space mm/y$
+of Kinlochewe); and the electricity output in 2006 was $142\space GWh$ per year,
+which corresponds to a power density of $0.2W\space per\space m^2$ of catchment
+area. Loch Sloy's surface area is about $1.5\space km^2$, so the hydroelectric
+facility itself has a[^**E**^](http://www.withouthotair.com/Errata.html#56) per
+unit lake area of $11\space W/m^2$. So the hillsides, aqueducts, and tunnels
+bringing water to Loch Sloy act like a55-fold power concentrator.]. If the
+highlands generously share their hydro-power with the rest of the UK (at
+$1300\space m^2$ area per person), we find an upper limit of about $7\space kWh$
+per day per person. As in the lowlands, this is the upper limit on raw power if
+evaporation were outlawed and every drop were perfectly exploited.
 
 What should we estimate is the plausible practical limit? Let's guess 20% of
 this – 1.4 kWh per day, and round it up a little to allow for production in the
@@ -74,29 +84,10 @@ total electrical power of Glasgow (see section \@ref(reference-homes)).], so
 this $1.5 kWh/d\space per\space person$ would require a seven-fold in-crease in
 hydroelectric power.
 
-Notes and further reading
--------------------------
+```{r hydro-stack, fig.cap="Hydro-electricity"}
+knitr::include_graphics('images/figure65.png')
+```
 
-55*Rainfall* statistics are from the BBC weather centre.
-
-56*The raw power per unit area [of Highland rain] is roughly 0.24
-W/m^2^*. We can check this estimate against the actual power density of
-the Loch Slo hydro-electric scheme, completed in 1950 (Ross, 2008). The
-catchment area of Loch Sloy is about 83 km^2^; the rainfall there is
-about 2900 mm per year(a bit higher than the 2278 mm/y of Kinlochewe);
-and the electricity output in 2006 was 142 GWh per year, which
-corresponds to a power density of0.2W per m^2^ of catchment area. Loch
-Sloy's surface area is about 1.5 km^2^, so the hydroelectric facility
-itself has a[^**E**^](http://www.withouthotair.com/Errata.html#56) per
-unit lake area of 11 W/m^2^. So the hillsides, aqueducts, and tunnels
-bringing water to Loch Sloy act like a55-fold power concentrator.
-
-–*The actual power from hydroelectricity in the UK today is 0.2 kWh per
-day per person*. 
-![](images/figure65.png)
-
-Figure 8.3. Hydroelectricity.
-
-![](images/figure66.png)
-
-Figure 8.4. A 60 kW waterwheel.
+```{r waterwheel, fig.cap="A 60 kW waterwheel"}
+knitr::include_graphics('images/figure66.png')
+```
