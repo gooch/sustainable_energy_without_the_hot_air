@@ -163,14 +163,13 @@ DUKES 2005, the total power for public lighting is 2095 GWh/y,which is
 Generators in power stations are much more efficient at converting
 mechanical work to electricity.
 
-  Bulb type             efficiency(lumens/W)
-  --------------------- ----------------------
-  incandescent          10
-  halogen               16-24
-  white LED             35
-  compact fluorescent   55
-  large fluorescent     94
-  sodium street light   150
+```{r lighting-efficiencies, fig.cap="Lighting efficiencies of commercially-available bulbs. In the future, white LEDs are expected to deliver 150 lumens per watt."}
+bulb_types = c('incandescent', 'halogen', 'whte LED',
+               'compact fluorescent', 'large fluorescent',
+               'sodium street light')
 
-Table 9.5. Lighting efficiencies of commercially-available bulbs. In the
-future, white LEDs are expected to deliver 150 lumens per watt.
+efficiencies <- c(10, '16-24', 35, 55, 94, 150)
+
+lighting_efficiencies <- tibble::data_frame(`Bulb type` = bulb_types, `efficiency (lumens/W)` = efficiencies)
+pander::pander(lighting_efficiencies)
+```
