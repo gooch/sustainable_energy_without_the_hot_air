@@ -11,9 +11,9 @@ sun, not per $m^2$ of land area. To get the power per $m^2$ of *land area* in
 Britain, we must make several corrections. We need to compensate for the tilt 
 between the sun and the land^[The latitude of Cambridge is $\theta = 52°$; the 
 intensity of midday sunlight is multiplied by $cos\space \theta \approx 0.6$. 
-The precise factor depends on the time of year, and varies between $cos(\theta +
-23°) = 0.26$ and $cos(\theta - 23°) = 0.87$.], which reduces the intensity of
-midday sun to about 60% of its value at the equator (figure 
+The precise factor depends on the time of year, and varies between
+$cos(\theta + 23°) = 0.26$ and $cos(\theta - 23°) = 0.87$.], which reduces the
+intensity of midday sun to about 60% of its value at the equator (figure 
 \@ref(fig:sunlight-angle-cambridge)). We also lose out because it is not midday 
 all the time. On a cloud-free day in March or September, the ratio of the 
 *average* intensity to the midday intensity is about 32%. Finally, we lose power
