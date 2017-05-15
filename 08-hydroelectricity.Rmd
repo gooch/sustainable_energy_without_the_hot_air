@@ -60,27 +60,24 @@ What should we estimate is the plausible practical limit? Let's guess20%
 of this – 1.4 kWh per day, and round it up a little to allow for
 production in the lowlands: 1.5 kWh per day.
 
-The actual power from hydroelectricity in the UK today is 0.2 kWh/d per
-person^[Source: MacLeay et al. (2007). In 2006, large-scale
-hydro produced 3515 GWh (from plant with a capacity of 1.37 GW);
-small-scale hydro,212 GWh (0.01 kWh/d/p) (from a capacity of 153 MW). In
-1943, when the growth of hydroelectricity was in full swing, the North of
-Scotland Hydroelectricity Board's engineers estimated that the
-Highlands of Scotland could produce 6.3 TWh per year in 102 facilities –
-that would correspond to 0.3 kWh/d per person in the UK (Ross,
-2008). Glendoe, the first new large-scale hydroelectric project in the UK
-since 1957, will add capacity of 100 MW and is expected to deliver 180
-GWh per year. Glendoe's catchment area is 75 km^2^, so its power density
-works out to 0.27 W per m^2^ of catchment area. Glendoe has been billed
-as "big enough to power Glasgow." But if we share its 180 GWh per year
-across the population of Glasgow (616 000 people), we get only 0.8 kWh/d
-per person. That is just5% of the average electricity consumption of 17
-kWh/d per person. The 20-fold exaggeration is achieved by focusing on
-Glendoe's peak output rather than its average, which is 5 times smaller;
-and by discussing "homes" rather than the total electrical power of
-Glasgow (see p329).
-], so this 1.5 kWh/d per person would require a seven-fold
-in-crease in hydroelectric power.
+The actual power from hydroelectricity in the UK today is 0.2 kWh/d per 
+person^[Source: MacLeay et al. (2007). In 2006, large-scale hydro produced 3515
+GWh (from plant with a capacity of 1.37 GW); small-scale hydro,212 GWh (0.01
+kWh/d/p) (from a capacity of 153 MW). In 1943, when the growth of
+hydroelectricity was in full swing, the North of Scotland Hydroelectricity
+Board's engineers estimated that the Highlands of Scotland could produce 6.3 TWh
+per year in 102 facilities – that would correspond to 0.3 kWh/d per person in
+the UK (Ross, 2008). Glendoe, the first new large-scale hydroelectric project in
+the UK since 1957, will add capacity of 100 MW and is expected to deliver 180 
+GWh per year. Glendoe's catchment area is 75 km^2^, so its power density works
+out to 0.27 W per m^2^ of catchment area. Glendoe has been billed as "big enough
+to power Glasgow." But if we share its 180 GWh per year across the population of
+Glasgow (616 000 people), we get only 0.8 kWh/d per person. That is just5% of
+the average electricity consumption of 17 kWh/d per person. The 20-fold
+exaggeration is achieved by focusing on Glendoe's peak output rather than its
+average, which is 5 times smaller; and by discussing "homes" rather than the
+total electrical power of Glasgow (see p329). ], so this 1.5 kWh/d per person
+would require a seven-fold in-crease in hydroelectric power.
 
 Notes and further reading
 -------------------------
