@@ -66,17 +66,6 @@ knitr::kable(domestic_electric_light,
              caption = "Electric consumption for domestic lighting. A plausible total is 5.5 kWh per home per day; and a similar figure at work; perhaps 4 kWh per day per person.")
 ```
 
-![](images/figure67.png)
-
-Figure 9.1. Lighting – 4 kWh per day per person.
-
-Table 9.2. Electric consumption for domestic lighting. A plausible total
-is 5.5 kWh per home per day; and a similar figure at work; perhaps 4 kWh
-per day per person.
-
-has an average power consumption of 42 000W. So having the lights
-on while driving requires 2% extra power.
-
 What about the future's electric cars? The power consumption of a typical 
 electric car is about 5000 W. So popping on an extra 100 W would increase its
 consumption by 2%. Power consumption would be smaller if we switched all car
