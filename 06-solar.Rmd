@@ -141,35 +141,38 @@ down enough that we could deploy panels all over the countryside, what is the
 maximum conceivable production? Well, if we covered 5% of the UK with
 10%-efficient panels, we'd have
 
-10% × 100 W/m^2^ × 200 m^2^ per person≈ 50 kWh/day/person.
+$$10\% \times 100\space W/m^2 \times 200\space m^2\space per\space person \approx 50\space kWh/day/person$$
 
 I assumed only 10%-efficient panels, by the way, because I imagine that solar
 panels would be mass-produced on such a scale only if they were very cheap, and
 it's the lower-efficiency panels that will get cheap first. The power density
 (the power per unit area) of such a solar farm would be
 
-10% × 100 W/m^2^ = 10 W/m^2^.
+$$10\% \times 100\space W/m^2 = 10\space W/m^2$$
 
 This power density is twice that of the Bavaria Solar park (images/figure 6.7).
 
 Could this flood of solar panels co-exist with the army of windmills we imagined
-in Chapter 4? Yes, no problem: windmills cast little shadow, and ground-level
-solar panels have negligible effect on the wind. How audacious is this plan?
-The solar power capacity required to deliver this 50 kWh per day per person in
-the UK is more than 100 times all the photo-voltaics in the whole world. So should
-I include the PV farm in my sustainable production stack? I'm in two minds. At
-the start of this book I said Wanted to explore what the laws of physics say
-about the limits of sustainable energy, assuming money is no object. On those
-grounds, I should certainly go ahead, industrialize the countryside, and push the
-PV farm onto the stack. At the same time, I want to help people figure out what we
-should be doing between *now* and 2050. And today, electricity from solar farms
-would be four times as expensive as the market rate. So I feel a bit
-irresponsible as I include this estimate in the sustainable production stack in
-figure 6.9 – paving 5% of the UK with solar panels seems beyond the bounds of
-plausibility in so many ways. If we seriously contemplated doing such a thing, it
-would quite probably be better to put the panels in a two-fold sunnier country
-and send some of the energy home by power lines. We'll return to this idea in
-Chapter 25.
+in Chapter 4? Yes, no problem: windmills cast little shadow, and ground-level 
+solar panels have negligible effect on the wind. How audacious is this plan? The
+solar power capacity required to deliver this 50 kWh per day per person in the
+UK is more than 100 times all the photo-voltaics in the whole world^[To deliver 
+50 kWh/d per person in the UK would require 125 GW average power, which requires
+1250 GW of capacity. At the end of 2007, world installed photo-voltaics amounted
+to 10 GW peak; the build rate is roughly 2 GW per year.]. So should I include 
+the PV farm in my sustainable production stack? I'm in two minds. At the start 
+of this book I said Wanted to explore what the laws of physics say about the 
+limits of sustainable energy, assuming money is no object. On those grounds, I 
+should certainly go ahead, industrialize the countryside, and push the PV farm 
+onto the stack. At the same time, I want to help people figure out what we 
+should be doing between *now* and 2050. And today, electricity from solar farms 
+would be four times as expensive as the market rate. So I feel a bit 
+irresponsible as I include this estimate in the sustainable production stack in 
+figure \@ref(fig:pv-farm-stack) – paving 5% of the UK with solar panels seems
+beyond the bounds of plausibility in so many ways. If we seriously contemplated
+doing such a thing, it would quite probably be better to put the panels in a
+two-fold sunnier country and send some of the energy home by power lines. We'll
+return to this idea in Chapter 25.
 
 ### Mythconceptions
 
