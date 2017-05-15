@@ -260,19 +260,30 @@ sites, or power stations can only lose energy. So the power at the first staging
 post is an upper bound on the power available from all plant-based power
 solutions.
 
-So, let's simply estimate the power at the first staging post. (In section \@ref(solar-ii)
-we'll go into more detail, estimating the maximum contribution of each process.) The
-average harvestable power of sunlight in Britain is $100\space W/m^2$. The most
-efficient plants in Europe are about 2%-efficient at turning solar energy into
-carbohydrates, which would suggest that plants might deliver $2\space W/m^2$; however,
-their efficiency drops at higher light levels, and the best performance of any
-energy crops in Europe is closer to $0.5\space W/m^2$. Let's cover 75% of the country
-with quality green stuff.  That's $3000\space m^2$ per person devoted to bio-energy.
-This is the same as the British land area currently devoted to agriculture. So
-the maximum power available, ignoring all the additional costs of growing,
-harvesting, and processing the greenery, is
+So, let's simply estimate the power at the first staging post. (In section
+\@ref(solar-ii) we'll go into more detail, estimating the maximum contribution
+of each process.) The average harvestable power of sunlight in Britain is
+$100\space W/m^2$. The most efficient plants in Europe are about 2%-efficient at
+turning solar energy into carbohydrates, which would suggest that plants might
+deliver $2\space W/m^2$; however, their efficiency drops at higher light
+levels^[*At low light intensities*, the best British plants are 2.4% efficient
+in well-fertilized fields (Monteith, 1977) but at higher light in-tensities,
+their conversion efficiency drops. According to Turkenburg (2000) and
+Schiermeier et al. (2008), the conversion efficiency of solar to biomassenergy
+is less than 1%. Here are a few sources to back up my estimate of $0.5\space
+W/m^2$ for vegetablepower in the UK. The Royal Commission on Environmental 
+Pollution's esti-mate of the potential delivered power density from energy crops
+in Britain is $0.2\space W/m^2$ (Royal Commission on Environmental Pollution,
+2004). On page 43 of the Royal Society's biofuels document (Royal Society
+working groupon biofuels, 2008), *Miscanthus* tops the list, delivering about
+$0.8\space W/m^2$ of chemical power. ], and the best performance of any energy
+crops in Europe is closer to $0.5\space W/m^2$. Let's cover 75% of the country 
+with quality green stuff.  That's $3000\space m^2$ per person devoted to 
+bio-energy. This is the same as the British land area currently devoted to 
+agriculture. So the maximum power available, ignoring all the additional costs 
+of growing, harvesting, and processing the greenery, is
 
-0.5 W/m^2^ × 3000 m^2^ per person = 36 kWh/d per person.
+$$0.5\space W/m^2 × 3000\space m^2\space per\space person = 36\space kWh/d\space per\space person$$
 
 Wow. That's not very much, considering the outrageously generous assumptions we 
 just made, to try to get a big number. If you wanted to get bio-fuels for cars
@@ -474,19 +485,6 @@ of 17 MJ/kg, so the Britishyield corresponds to a power density of 0.75
 W/m^2^. Sources: Heaton et al.(2004) and [6kqq77]. The estimated yield
 is obtained only after three years of undisturbed growing.
 
-–*The most efficient plants are about 2% efficient; but the delivered
-power per unit area is about $0.5\space W/m^2$. *At low light intensities*, the
-best British plants are 2.4% efficient in well-fertilized fields
-(Monteith, 1977) but at higher light in-tensities, their conversion
-efficiency drops. According to Turkenburg (2000) and Schiermeier et al.
-(2008), the conversion efficiency of solar to biomassenergy is less than
-1%. Here are a few sources to back up my estimate of $0.5\space W/m^2$ for
-vegetablepower in the UK. The Royal Commission on Environmental
-Pollution's esti-mate of the potential delivered power density from
-energy crops in Britain is $0.2\space W/m^2$ (Royal Commission on Environmental
-Pollution, 2004). On page 43 of the Royal Society's biofuels document
-(Royal Society working groupon biofuels, 2008), *Miscanthus* tops the
-list, delivering about $0.8\space W/m^2$ of chemical power.
 
 ```{r heliodynamics-heat-pv, fig.cap="A combined-heat-and-power photovoltaic unit from Heliodynamics. A reflector area of 32 m^2^ (a bit larger than the side of a double-decker bus) delivers up to 10 kW of heat and 1.5 kW of electrical power. In a sun-belt country, one of these one-ton devices could deliver about 60 kWh/d of heat and 9 kWh/d of electricity. These powers correspond to average fluxes of 80 W/m^2^ of heat and 12 W/m^2^ of electricity (that's per square metre of device surface); these fluxes are similar to the fluxes delivered by standard solar heating panels and solar photovoltaic panels, but Heliodynamics's concentrating design delivers power at a lower cost, because most of the material is simple flat glass. For comparison, the total power consumption of the average European person is 125 kWh/d."}
 knitr::include_graphics('images/figure52.png')
