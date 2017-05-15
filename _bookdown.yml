@@ -9,6 +9,7 @@ rmd_files:
 - 05-planes.Rmd
 - 06-solar.Rmd
 - 07-heating-and-cooling.Rmd
+- 08-hydroelectricity.Rmd
 - 09-light.Rmd
 - 10-offshore-wind.Rmd
 - 11-gadgets.Rmd
