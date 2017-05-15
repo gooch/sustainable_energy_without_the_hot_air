@@ -156,3 +156,7 @@ lighting_efficiencies <- tibble::data_frame(`Bulb type` = bulb_types, `efficienc
 knitr::kable(lighting_efficiencies,
              caption = "Lighting efficiencies of commercially-available bulbs. In the future, white LEDs are expected to deliver 150 lumens per watt.")
 ```
+
+```{r lighting-energy-stack, fig.cap="This chapter's conclusion: 4kWh/d"}
+knitr::include_graphics('images/figure67.png')
+```
