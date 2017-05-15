@@ -36,11 +36,11 @@ We can turn this raw power into useful power in four ways:
 4.  Food: the same as solar biomass, except we shovel the plants into humans or
     other animals.
 
-(In a later chapter we'll also visit a couple of other solar power
-techniques appropriate for use in deserts.)
+(In a later chapter we'll also visit a couple of other solar power techniques
+appropriate for use in deserts.)
 
-Let's make quick rough estimates of the maximum plausible powers that each of
-these routes could deliver. We'll neglect their economic costs, and the energy
+Let's make quick rough estimates of the maximum plausible powers that each of 
+these routes could deliver. We'll neglect their economic costs, and the energy 
 costs of manufacturing and maintaining the power facilities.
 
 Solar thermal
