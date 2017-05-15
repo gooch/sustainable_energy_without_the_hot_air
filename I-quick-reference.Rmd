@@ -346,7 +346,7 @@ tons. They are close enough that I don’t bother distinguishing between
 them. 1 short ton (2000 lb) = 907 kg; 1 long ton (2240 lb) = 1016 kg; 1
 metric ton (or tonne) = 1000 kg.
 
-### BTU and quads #{reference-btu}
+### BTU and quads {#reference-btu}
 
 British thermal units are annoying because they are neither part of the
 *Système Internationale*, nor are they of a useful size. Like the
