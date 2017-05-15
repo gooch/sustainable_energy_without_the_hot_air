@@ -22,4 +22,5 @@ rmd_files:
 - 20-making-a-difference.Rmd
 - C-planes-ii.Rmd
 - D-solar-ii.Rmd
+- I-quick-reference.Rmd
 before_chapter_script: _common.R
