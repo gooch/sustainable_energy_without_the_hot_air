@@ -95,7 +95,7 @@ $$20\% \times 110\space W/m^2 = 22\space W/m^2$$
 
 Figure \@ref(fig:pv-data-cambridgeshire) shows data to back up this number.
 Let's give every person $10\space m^2$ of expensive (20%-efficient) solar panels
-and cover all south-facing roofs. These will deliver 5 kWh per day per person.
+and cover all south-facing roofs. These will deliver $5\space kWh$ per day per person.
 
 ```{r solar-thermal-stack, fig.cap='Solar thermal: a 10 m^2^ array of thermal panels can deliver (on average) about 13 kWh per day of thermal energy.'}
 knitr::include_graphics('images/figure36.png')
