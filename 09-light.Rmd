@@ -23,7 +23,10 @@ Do we need to include public lighting too, to get an accurate estimate, or do
 home and work dominate the lighting budget? Street-lights in fact use about 0.1 
 kWh per day per person^[There's roughly one sodium street-light per 10 people; 
 each light has a power of 100 W, switched on for 10 hours per day. That's 0.1 
-kWh per day per person.], and traffic lights only $0.005\space kWh/d$ per person
+kWh per day per person.], and traffic lights only $0.005\space kWh/d$ per
+person^[Britain has 420,000 traffic and pedestrian signal light bulbs, consuming
+100 million kWh of electricity per year. Shared between 60 million people,
+$100\space million\space kWh\space per\space year$ is $0.005\space kWh/d\space per\space person$.]
 – both negligible, compared with our home and workplace lighting. What about 
 other forms of public lighting – illuminated signs and bollards, for example? 
 There are fewer of them than street-lights^[[www.highwayelectrical.org.uk]. 
