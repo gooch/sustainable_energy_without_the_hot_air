@@ -205,7 +205,7 @@ knitr::include_graphics('images/figure58.png')
 knitr::include_graphics('images/figure60.png')
 ```
 
-```{r heating-cooling-stack, fig.cap='Heating and cooling – about 37 units per day per person. I've removed the shading from this box to indicate that it represents power that could be delivered by low-grade thermal energy.'}
+```{r heating-cooling-stack, fig.cap="Heating and cooling – about 37 units per day per person. I've removed the shading from this box to indicate that it represents power that could be delivered by low-grade thermal energy."}
 knitr::include_graphics('images/figure62.png')
 ```
 
