@@ -39,14 +39,17 @@ we don't need to modify our overall estimate of 4 kWh/d per person.
 
 Lights on the traffic
 
-In some countries, drivers must switch their lights on whenever their
-car is moving. How does the extra power required by that policy
-compare with the power already being used to trundle the car around?
-Let's say the car has four incandescent lights totalling 100 W. The
-electricity for those bulbs is supplied by a 25%-efficient engine
-powering a 55%-efficient generator, so the power required is 730 W. For
-comparison, a typical car going at an average speed of 50 km/h and
-consuming one litre per 12 km
+In some countries, drivers must switch their lights on whenever their car is
+moving. How does the extra power required by that policy compare with the power
+already being used to trundle the car around? Let's say the car has four
+incandescent lights totalling 100 W. The electricity for those bulbs is supplied
+by a 25%-efficient engine powering a 55%-efficient
+generator^[source:en.wikipedia.org/wiki/Alternator. Generators in power stations
+are much more efficient at converting mechanical work to electricity.], so the 
+power required is 730 W. For comparison, a typical car going at an average speed
+of 50 km/h and consuming one litre per 12 km has an average power consumption of
+42,000W. So having the lights on while driving requires 2% extra power.
+
 
 ```{r domestic-electric-light}
 
