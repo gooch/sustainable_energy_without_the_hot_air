@@ -258,7 +258,7 @@ marked the year 1769,in which James Watt patented his steam engine. (The first
 practical steam engine was invented 70 years earlier in 1698, but Watt's was
 much more efficient.)
 
-```{r UK-Coal, fig.cap='The history of UK coal production and world coal production from 1600 to 1910. Production rates are shown in billions of tons of CO~2~ – an incomprehensible unit, yes, but don't worry: we'll personalize it shortly.'}
+```{r UK-Coal, fig.cap="The history of UK coal production and world coal production from 1600 to 1910. Production rates are shown in billions of tons of CO~2~ – an incomprehensible unit, yes, but don't worry: we'll personalize it shortly."}
 knitr::include_graphics('images/figure13.png')
 ```
 
