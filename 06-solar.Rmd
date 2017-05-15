@@ -422,8 +422,6 @@ knitr::include_graphics('images/figure48.png')
 per-form at 20%*. See figure 6.18. Sources: Turkenburg (2000), Sunpower
 www.sunpowercorp.com, Sanyo www.sanyo-solar.eu, Suntech.
 
-–*A device with efficiency greater than 30% would be quite remarkable*.
-
 ```{r efficiences-of-panels, fig.cap="Efficiencies of solar photovoltaic modules available for sale today. In the text I assume that roof-top photovoltaics are 20% efficient, and that country-covering photovoltaics would be 10% efficient. In a location where the average power density of incoming sunlight is 100 W/m^2^, 20%-efficient panels deliver 20 W/m^2^."}
 knitr::include_graphics('images/figure51.png')
 ```
