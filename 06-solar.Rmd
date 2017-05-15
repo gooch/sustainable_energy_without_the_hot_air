@@ -298,12 +298,9 @@ for our animal companions.
 knitr::include_graphics('images/figure42.png')
 ```
 
-![](images/figure43.png)
-
-Figure 6.10. Some *Miscanthus* grass enjoying the company of Dr Emily
-Heaton, who is 5′4″ (163 cm) tall. In Britain, *Miscanthus* achieves a
-power per unit area of 0.75 W/m^2^. Photo provided by the University of
-Illinois.
+```{r miscanthus, fig.cap='Some *Miscanthus* grass enjoying the company of Dr Emily Heaton, who is 5′4″ (163 cm) tall. In Britain, *Miscanthus* achieves a power per unit area of 0.75 W/m^2^. Photo provided by the University of Illinois.'}
+knitr::include_graphics('images/figure43.png')
+```
 
 Could genetic engineering produce plants that convert solar energy to chemicals
 more efficiently? It's conceivable; but I haven't found any scientific
