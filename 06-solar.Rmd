@@ -472,33 +472,30 @@ of undisturbed growing.
 knitr::include_graphics('images/figure52.png')
 ```
 
-In the World Energy Assessment published by the UNDP, Rogner
-(2000)writes: "Assuming a 45% conversion efficiency to electricity and
-yields of15 oven dry tons per hectare per year, 2 km^2^ of plantation
-would be neededper megawatt of electricity of installed capacity running
-4,000 hours a year." That is a power per unit area of 0.23 W(e)/m^2^. (1
-W(e) means 1 watt ofelectrical power.) Energy for Sustainable Development
-Ltd (2003) estimates that short-rotationcoppices can deliver over 10
-tons of dry wood per hectare per year, whichcorresponds to a power
-density of 0.57 W/m^2^. (Dry wood has a calorificvalue of 5 kWh per
-kg.) According to Archer and Barber (2004), the instantaneous efficiency
-of ahealthy leaf in optimal conditions can approach 5%, but the
-long-term energy-storage efficiency of modern crops is 0.5–1%. Archer
-and Barber suggest thatby genetic modification, it might be possible to
-improve the storage efficiencyof plants, especially *C4 plants*, which
-have already naturally evolved a moreefficient photosynthetic pathway.
-C4 plants are mainly found in the tropics and thrive in high
-temperatures; they don't grow at temperatures below 10°C. Some examples
-of C4 plants are sugarcane, maize, sorghum, fingermillet, and
-switchgrass. Zhu et al. (2008) calculate that the theoretical limitfor
-the conversion efficiency of solar energy to biomass is 4.6% for C3
-photo-synthesis at 30°C and today's 380 ppm atmospheric CO~2~
-concentration, and6% for C4 photosynthesis. They say that the highest
-solar energy conversionefficiencies reported for C3 and C4 crops are
-2.4% and 3.7% respectively;and, citing Boyer (1982), that the average
-conversion efficiencies of majorcrops in the US are 3 or 4 times lower
-than those record efficiencies (thatis, about 1% efficient). One reason
-that plants don't achieve the theoreticallimit is that they have
-insufficient capacity to use all the incoming radiationof bright
-sunlight. Both these papers (Zhu et al., 2008; Boyer, 1982)
+In the World Energy Assessment published by the UNDP, Rogner (2000)writes:
+"Assuming a 45% conversion efficiency to electricity and yields of15 oven dry
+tons per hectare per year, 2 km^2^ of plantation would be neededper megawatt of
+electricity of installed capacity running 4,000 hours a year." That is a power
+per unit area of 0.23 W(e)/m^2^. (1 W(e) means 1 watt ofelectrical power.)
+Energy for Sustainable Development Ltd (2003) estimates that
+short-rotationcoppices can deliver over 10 tons of dry wood per hectare per
+year, whichcorresponds to a power density of 0.57 W/m^2^. (Dry wood has a
+calorificvalue of 5 kWh per kg.) According to Archer and Barber (2004), the
+instantaneous efficiency of ahealthy leaf in optimal conditions can approach 5%,
+but the long-term energy-storage efficiency of modern crops is 0.5–1%. Archer 
+and Barber suggest thatby genetic modification, it might be possible to improve
+the storage efficiencyof plants, especially *C4 plants*, which have already
+naturally evolved a moreefficient photosynthetic pathway. C4 plants are mainly
+found in the tropics and thrive in high temperatures; they don't grow at
+temperatures below 10°C. Some examples of C4 plants are sugarcane, maize,
+sorghum, fingermillet, and switchgrass. Zhu et al. (2008) calculate that the
+theoretical limitfor the conversion efficiency of solar energy to biomass is
+4.6% for C3 photo-synthesis at 30°C and today's 380 ppm atmospheric CO~2~ 
+concentration, and6% for C4 photosynthesis. They say that the highest solar
+energy conversionefficiencies reported for C3 and C4 crops are 2.4% and 3.7%
+respectively;and, citing Boyer (1982), that the average conversion efficiencies
+of majorcrops in the US are 3 or 4 times lower than those record efficiencies
+(thatis, about 1% efficient). One reason that plants don't achieve the
+theoreticallimit is that they have insufficient capacity to use all the incoming
+radiationof bright sunlight. Both these papers (Zhu et al., 2008; Boyer, 1982) 
 discussprospects for genetic engineering of more-efficient plants.
