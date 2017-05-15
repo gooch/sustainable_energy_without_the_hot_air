@@ -91,28 +91,51 @@ non-uniformly through the year.
 Solar photo-voltaic
 ------------------
 
-Photo-voltaic (PV) panels convert sunlight into electricity. Typical solar
-panels have an efficiency of about 10%; expensive ones perform at
-20%.(Fundamental physical laws limit the efficiency of photo-voltaic systems to
-at best 60% with perfect concentrating mirrors or lenses, and 45% without
-concentration. A mass-produced device with efficiency greater than 30%would be
-quite remarkable.) The average power delivered by south-facing^[There's a myth
-going around that states that solar panels produce almost as much power in
-cloudy conditions as in sunshine. This is simply not true. On a bright but
-cloudy day, solar photo-voltaic panels and plants do continue toconvert some
-energy, but much less: photo-voltaic production falls roughly ten-fold when the
-sun goes behind clouds (because the intensity of the in-coming sunlight falls
-ten-fold). As figure 6.15 shows, the power delivered by photo-voltaic panels is
-almost exactly proportional to the intensity of the sunlight – at least, if the
-panels are at 25°C. To complicate things, the power delivered depends on
-temperature too – hotter panels have reduced power (typically 0.38% loss in
-power per °C) – but if you check data from real panels, e.g. at
-www.solarwarrior.com, you can confirm the main point: output on a cloudy day is
-*far less* than on a sunny day. This issue is obfuscated by some solar-panel
-promoters who discuss how the "efficiency"  varies with sunlight. "The panels
-are more efficient in cloudy conditions,"  they say; this may be true, but
-efficiency should not be confused with delivered power.] 20%-efficient 
-photo-voltaic panels in Britain would be
+Photo-voltaic (PV) panels convert sunlight into electricity. Typical solar 
+panels have an efficiency of about 10%; expensive ones perform at 
+20%.(Fundamental physical laws limit the efficiency of photo-voltaic systems to 
+at best 60% with perfect concentrating mirrors or lenses, and 45% without 
+concentration. A mass-produced device with efficiency greater than 30% would be 
+quite remarkable^[This is a quote from Hopfield and Gollub (1978), who were
+writing about panels without concentrating mirrors or lenses. The theoretical
+limit for a standard "single-junction"  solar panel without concentrators, the 
+Shockley–Queisser limit, says that at most 31% of the energy in sunlight can be
+converted to electricity (Shockley and Queisser, 1961). (The main reason for
+this limit is that a standard solar material has a property called its band-gap,
+which defines a particular energy of photon that that material converts most
+efficiently. Sunlight contains photons with many energies; photons with energy
+*below* the band-gap are not used at all; photons with energy *greater* than the
+band-gap may be captured, but all their energy in excess of the band-gap is
+lost.) Concentrators (lenses or mirrors) can both reduce the cost (per watt) of
+photovoltaic systems, and increase their efficiency. The Shockley–Queisser limit
+for solar panels with concentrators is 41% efficiency. The only way to beat the
+Shockley–Queisser limit is to make fancy photo-voltaic devices that split the
+light into different wavelengths, processing each wavelength-range with its own
+personalized band-gap. These are called multiple-junction photovoltaics.
+Recently multiple-junction photovoltaics with optical concentrators have been
+reported to be about 40% efficient.[2tl7t6], www.spectrolab.com. In July 2007,
+the University of Delaware reported 42.8% efficiency with 20-times concentration
+[6hobq2], [2lsx6t]. In August 2008, NREL reported 40.8% efficiency with 
+326-times concentration[62ccou]. Strangely, both these results were called world
+efficiency records. What multiple-junction devices are available on the market?
+Uni-solar sell a thin-film triple-junction 58 W(peak) panel with an area of 1
+m^2^. That implies an efficiency, in full sunlight, of only 5.8%.].) The average
+power delivered by south-facing^[There's a myth going around that states that
+solar panels produce almost as much power in cloudy conditions as in sunshine.
+This is simply not true. On a bright but cloudy day, solar photo-voltaic panels
+and plants do continue toconvert some energy, but much less: photo-voltaic
+production falls roughly ten-fold when the sun goes behind clouds (because the
+intensity of the in-coming sunlight falls ten-fold). As figure 6.15 shows, the
+power delivered by photo-voltaic panels is almost exactly proportional to the
+intensity of the sunlight – at least, if the panels are at 25°C. To complicate
+things, the power delivered depends on temperature too – hotter panels have
+reduced power (typically 0.38% loss in power per °C) – but if you check data
+from real panels, e.g. at www.solarwarrior.com, you can confirm the main point:
+output on a cloudy day is *far less* than on a sunny day. This issue is
+obfuscated by some solar-panel promoters who discuss how the "efficiency" 
+varies with sunlight. "The panels are more efficient in cloudy conditions," 
+they say; this may be true, but efficiency should not be confused with delivered
+power.] 20%-efficient photo-voltaic panels in Britain would be
 
 $$20\% \times 110\space W/m^2 = 22\space W/m^2$$
 
@@ -400,33 +423,6 @@ per-form at 20%*. See figure 6.18. Sources: Turkenburg (2000), Sunpower
 www.sunpowercorp.com, Sanyo www.sanyo-solar.eu, Suntech.
 
 –*A device with efficiency greater than 30% would be quite remarkable*.
-This is a quote from Hopfield and Gollub (1978), who were writing about
-panels without concentrating mirrors or lenses. The theoretical limit for
-a standard "single-junction"  solar panel without concentrators, the
-Shockley–Queisser limit, says that at most 31% of the energy in sunlight
-can be converted to electricity (Shockley and Queisser, 1961). (The main
-reason for this limit is that a standard solar material has a property
-called its band-gap, which defines a particular energy of photon that
-that material converts most efficiently. Sunlight contains photons with
-many energies; photons with energy *below* the band-gap are not used at
-all; photons with energy *greater* than the band-gap may be captured, but
-all their energy in excess of the band-gap is lost.) Concentrators
-(lenses or mirrors) can both reduce the cost (per watt) of photovoltaic
-systems, and increase their efficiency. The Shockley–Queisser limit for
-solar panels with concentrators is 41% efficiency. The only way to beat
-the Shockley–Queisser limit is to make fancy photo-voltaic devices that
-split the light into different wavelengths, processing
-each wavelength-range with its own personalized band-gap. These are
-called multiple-junction photovoltaics. Recently multiple-junction
-photovoltaics with optical concentrators have been reported to be about
-40% efficient.[2tl7t6], www.spectrolab.com. In July 2007, the University
-of Delaware reported 42.8% efficiency with 20-times concentration
-[6hobq2], [2lsx6t]. In August 2008, NREL reported 40.8% efficiency with
-326-times concentration[62ccou]. Strangely, both these results were
-called world efficiency records. What multiple-junction devices are
-available on the market? Uni-solar sell a thin-film triple-junction 58
-W(peak) panel with an area of 1 m^2^. That implies an efficiency, in full
-sunlight, of only 5.8%.
 
 ```{r efficiences-of-panels, fig.cap="Efficiencies of solar photovoltaic modules available for sale today. In the text I assume that roof-top photovoltaics are 20% efficient, and that country-covering photovoltaics would be 10% efficient. In a location where the average power density of incoming sunlight is 100 W/m^2^, 20%-efficient panels deliver 20 W/m^2^."}
 knitr::include_graphics('images/figure51.png')
