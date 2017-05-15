@@ -316,9 +316,9 @@ This chapter's summary figure: it'll depend how many gadgets you have at
 home and work, but a healthy houseful or officeful of gadgets left on
 all the time could easily use 5 kWh/d.
 
-### Mythconceptions
+## Mythconceptions
 
-#### "There is no point in my switching off lights, TVs, and phone chargers during the winter. The ‘wasted' energy they put out heats my home, so it's not wasted."
+### "There is no point in my switching off lights, TVs, and phone chargers during the winter. The ‘wasted' energy they put out heats my home, so it's not wasted." {#waste-heat-not-wasted}
 
 This myth is *True* for a few people, but only during the winter; but
 *False* for most.
