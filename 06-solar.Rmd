@@ -439,13 +439,9 @@ energy of every 2.2 eV photon is lost. Further losses are incurred
 because of inevitable radiation from recombining charges in the
 photovoltaic material.
 
-![](images/figure51.png)
-
-Figure 6.18. Efficiencies of solar photovoltaic modules available for
-sale today. In the text I assume that roof-top photovoltaics are 20%
-efficient, and that country-covering photovoltaics would be 10%
-efficient. In a location where the average power density of incoming
-sunlight is 100 W/m^2^, 20%-efficient panels deliver 20 W/m^2^.
+```{r efficiences-of-panels, fig.cap="Efficiencies of solar photovoltaic modules available for sale today. In the text I assume that roof-top photovoltaics are 20% efficient, and that country-covering photovoltaics would be 10% efficient. In a location where the average power density of incoming sunlight is 100 W/m^2^, 20%-efficient panels deliver 20 W/m^2^."}
+knitr::include_graphics('images/figure51.png')
+```
 
 Figure \@ref(fig:solarpark-bavaria) *The Solarpark in Muhlhausen, Bavaria.* On 
 average this 25-hectare farm is expected to deliver $0.7\space MW$
